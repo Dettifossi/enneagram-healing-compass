@@ -936,7 +936,7 @@ function inhaltsübersichtPage() {
             Alles in einer einzigen App
           </p>
           <p style="font-size:0.86rem;color:var(--muted);margin:0 0 1.1rem;line-height:1.55;">
-            Einmalig kaufen &middot; Lebenslanger Zugang &middot; W\xe4chst st\xe4ndig weiter
+            One-time purchase &middot; Lebenslanger Zugang &middot; W\xe4chst st\xe4ndig weiter
           </p>
           <button data-route="freischalt"
             style="background:var(--gold-dark);color:var(--copper);border:3px solid #8a5a1a;
@@ -969,7 +969,7 @@ function leseprobePage() {
 
       <!-- Hero -->
       <div style="text-align:center;padding:2rem 0 1.5rem;">
-        <p style="font-size:0.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--copper);margin:0 0 1.2rem;">App-Leseprobe</p>
+        <p style="font-size:0.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--copper);margin:0 0 1.2rem;">App Sample</p>
         <div style="display:flex;justify-content:center;margin-bottom:1.2rem;">${compassMark("small")}</div>
         <h1 style="font-family:'EB Garamond',serif;font-size:1.9rem;line-height:1.2;color:var(--ink);margin:0 0 1rem;">The Enneagram Healing Compass</h1>
         <p style="font-size:1rem;color:var(--muted);max-width:520px;margin:0 auto 1.5rem;line-height:1.65;">Eine Kostprobe aus Hunderten von Schaubildern, 27\xa0Subtyp-Portraits und subtypspezifischen Heilmitteln &ndash; damit Sie sehen k\xf6nnen, was Sie erwartet.</p>
@@ -1134,7 +1134,7 @@ function leseprobePage() {
 
       <!-- CTA -->
       <div style="background:linear-gradient(135deg,#f5e8cc,#eedda0);border:2px solid var(--gold);border-radius:14px;padding:1.8rem 1.5rem;text-align:center;">
-        <p style="font-size:0.75rem;letter-spacing:.1em;text-transform:uppercase;color:var(--copper);margin:0 0 .4rem;">Vollzugang freischalten</p>
+        <p style="font-size:0.75rem;letter-spacing:.1em;text-transform:uppercase;color:var(--copper);margin:0 0 .4rem;">Unlock full access</p>
         <h3 style="font-family:'EB Garamond',serif;font-size:1.5rem;color:var(--ink);margin:0 0 .6rem;line-height:1.2;">Der gesamte Kompass wartet auf Sie</h3>
         <p style="font-size:0.88rem;color:var(--muted);margin:0 0 1.2rem;line-height:1.55;">Hunderte Schaubilder &middot; Alle 27 Subtyp-Portraits &middot; Subtypspezifische Heilmittel & Naturheilkunde</p>
         <button data-route="freischalt" style="background:var(--gold-dark);color:var(--copper);border:3px solid #8a5a1a;border-radius:10px;padding:.85rem 2.5rem;font-size:1.05rem;font-weight:700;cursor:pointer;font-family:'EB Garamond',serif;box-shadow:0 4px 18px rgba(0,0,0,.22);">Jetzt freischalten &#8594;</button>
@@ -1160,27 +1160,27 @@ function onboardingOverlay() {
         box-shadow:0 8px 40px rgba(0,0,0,0.35);text-align:center;">
         <div style="font-size:2.8rem;margin-bottom:0.6rem;">🧭</div>
         <h2 style="font-family:'EB Garamond',serif;font-size:1.6rem;color:var(--ink);margin:0 0 0.4rem;">Welcome to the Healing Compass</h2>
-        <p style="font-size:0.9rem;color:var(--muted);margin:0 0 1.6rem;line-height:1.6;">Ein kurzer Überblick – dann können Sie sofort loslegen.</p>
+        <p style="font-size:0.9rem;color:var(--muted);margin:0 0 1.6rem;line-height:1.6;">A quick overview – then you can get started right away.</p>
         <div style="display:flex;flex-direction:column;gap:1rem;text-align:left;margin-bottom:1.8rem;">
           <div style="display:flex;gap:1rem;align-items:flex-start;">
             <div style="min-width:2rem;height:2rem;border-radius:50%;background:var(--gold,#c4a456);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:0.9rem;color:#1a1208;flex-shrink:0;">1</div>
             <div>
-              <strong style="color:var(--ink);font-size:0.95rem;">Ihren Subtyp wählen</strong>
-              <p style="margin:0.2rem 0 0;font-size:0.84rem;color:var(--muted);line-height:1.5;">Kennen Sie Ihren Enneagramm-Subtyp? Wählen Sie ihn – der Kompass richtet sich vollständig auf Sie aus.</p>
+              <strong style="color:var(--ink);font-size:0.95rem;">Choose your subtype</strong>
+              <p style="margin:0.2rem 0 0;font-size:0.84rem;color:var(--muted);line-height:1.5;">Do you know your Enneagram subtype? Select it – the compass will align completely to you.</p>
             </div>
           </div>
           <div style="display:flex;gap:1rem;align-items:flex-start;">
             <div style="min-width:2rem;height:2rem;border-radius:50%;background:var(--gold,#c4a456);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:0.9rem;color:#1a1208;flex-shrink:0;">2</div>
             <div>
-              <strong style="color:var(--ink);font-size:0.95rem;">Kostenlos erkunden</strong>
-              <p style="margin:0.2rem 0 0;font-size:0.84rem;color:var(--muted);line-height:1.5;">Der Tierquiz, der Diagnosetest und die Leseprobe stehen sofort kostenlos zur Verfügung.</p>
+              <strong style="color:var(--ink);font-size:0.95rem;">Explore for free</strong>
+              <p style="margin:0.2rem 0 0;font-size:0.84rem;color:var(--muted);line-height:1.5;">The animal quiz, the diagnostic test and the sample are available for free right away.</p>
             </div>
           </div>
           <div style="display:flex;gap:1rem;align-items:flex-start;">
             <div style="min-width:2rem;height:2rem;border-radius:50%;background:var(--gold,#c4a456);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:0.9rem;color:#1a1208;flex-shrink:0;">3</div>
             <div>
-              <strong style="color:var(--ink);font-size:0.95rem;">Vollzugang freischalten</strong>
-              <p style="margin:0.2rem 0 0;font-size:0.84rem;color:var(--muted);line-height:1.5;">Für alle 27 Subtyp-Profile · Heilmittel &amp; Naturheilkunde · Hunderte Schaubilder · Porträts berühmter Persönlichkeiten · Enneagramm-Profiling · Musik &amp; Klang · Praxisanwendungen · regelmäßige Erweiterung · lebenslanger Zugang.</p>
+              <strong style="color:var(--ink);font-size:0.95rem;">Unlock full access</strong>
+              <p style="margin:0.2rem 0 0;font-size:0.84rem;color:var(--muted);line-height:1.5;">For all 27 subtype profiles · Remedies &amp; natural healing · Hundreds of charts · Portraits of famous personalities · Enneagram profiling · Music &amp; sound · Practical applications · regular expansion · lifetime access.</p>
             </div>
           </div>
         </div>
@@ -1190,7 +1190,7 @@ function onboardingOverlay() {
           padding:0.85rem 2.2rem;font-size:1rem;font-weight:700;
           cursor:pointer;font-family:'EB Garamond',serif;
           box-shadow:0 4px 16px rgba(0,0,0,.2);width:100%;">
-          Los geht's →
+          Let's go →
         </button>
       </div>
     </div>
@@ -1409,7 +1409,7 @@ function startPage() {
     ${freischaltLink}
   ` : `
     <button class="primary" data-route="profile">Meinen Subtyp wählen →</button>
-    <button class="secondary" data-route="leseprobe">App-Leseprobe ansehen</button>
+    <button class="secondary" data-route="leseprobe">View app sample</button>
     <button class="secondary" data-route="kaufen" style="margin-top:.25rem;">Zugang kaufen · € 49 →</button>
     <button class="ghost-link" data-route="freischalt" style="margin-top:.5rem;font-size:.85rem;">Bereits gekauft? Zugang hier aktivieren →</button>
   `;
@@ -33522,7 +33522,7 @@ function freischaltPage() {
           <li><strong style="color:var(--ink);">Alle 27 Subtyp-Portraits</strong> – tiefenpsychologische Profile mit Tier, Heilungsweg & Naturheilkunde</li>
           <li><strong style="color:var(--ink);">Hunderte Schaubilder</strong> – Enneagramm, Spiritualität, Philosophie, Musik & mehr</li>
           <li><strong style="color:var(--ink);">Alle 3 Typen-Tests</strong> – Diagnose-, Struktur- & Motivationstest mit persönlicher Auswertung</li>
-          <li><strong style="color:var(--ink);">Einmalig kaufen</strong> – lebenslanger Zugang, wächst ständig weiter</li>
+          <li><strong style="color:var(--ink);">One-time purchase</strong> – lifetime access, constantly growing</li>
         </ul>
 
         <div class="freischalt-card__angebote" style="justify-content:center;">
