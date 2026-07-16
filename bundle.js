@@ -9253,39 +9253,39 @@ function michelleObamaPortraitPage() {
           <img src="./assets/portraits/beruehmte-michelle-obama-portrait.jpg" alt="Michelle Obama" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Michelle Obama</p>
-        <p class="krim-portrait-typ">SO8w7 &middot; Social Type 8 mit Siebenflügel</p>
-        <p class="krim-portrait-subtitle">Anwältin, Autorin &amp; ehemalige First Lady der USA, geb. 1964 &ndash; Animal correspondence: Löwe</p>
+        <p class="krim-portrait-typ">SO8w7 &middot; Social Type 8 with Seven-wing</p>
+        <p class="krim-portrait-subtitle">Lawyer, Author &amp; former First Lady of the USA, born 1964 &ndash; Animal correspondence: Lion</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der Löwe</h2>
+        <h2 class="vb-section">1. The Lion</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Löwe</strong> ist das Tier des sozialen Typs 8 &ndash; und kaum ein Bild trifft Michelle Obama besser. Der Löwe lebt nicht als Einzelkämpfer. Er ist das Raubtier des Rudels, der Savanne, der Gemeinschaft. Die Löwin jagt für das Rudel, beschützt die Jungen, hält die Gruppe zusammen. Stärke ist hier kein Selbstzweck &ndash; sie ist im Dienst des Wir.</p>
-          <p class="vb-intro">Michelle Obama trägt diese Energie. Ihre Kraft richtet sich nicht nach innen wie bei der selbsterhaltenden Acht, nicht nach der intensiven Zweierbeziehung wie bei der sexuellen Acht &ndash; sondern nach außen, in die Gemeinschaft. Sie kämpft für ihre Kinder, für die Kinder anderer, für Menschen, die keine Stimme haben. Der Löwe schützt sein Rudel. Michelle Obama schützt ihr Volk.</p>
+          <p class="vb-intro">The <strong>Lion</strong> is the animal of Social Type 8 &ndash; and few images fit Michelle Obama better. The lion does not live as a lone fighter. It is the predator of the pride, the savanna, the community. The lioness hunts for the pride, protects the cubs, holds the group together. Strength here is no end in itself &ndash; it is in service of the We.</p>
+          <p class="vb-intro">Michelle Obama carries this energy. Her strength is directed not inward as with the self-preservation Eight, not toward the intense one-on-one relationship as with the sexual Eight &ndash; but outward, into the community. She fights for her own children, for the children of others, for people who have no voice. The lion protects its pride. Michelle Obama protects her people.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die soziale Acht: Solidarität</h2>
+        <h2 class="vb-section">2. The Social Eight: Solidarity</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>soziale Acht (SO8)</strong> ist der Subtype, den Naranjo <em>Solidarität</em> nannte. Die SO8 setzt ihre Kraft in den Dienst der Gruppe &ndash; der Familie, der Gemeinschaft, des Volkes. Sie kann äußerlich sanfter wirken als die anderen Acht-Subtypees, aber unterschätzen sollte man sie nicht: Wer ihr Rudel angreift, bekommt die volle Kraft der Acht zu spüren.</p>
-          <p class="vb-intro">Michelle Obama wuchs auf der South Side von Chicago auf, in einer Arbeiterfamilie. Ihr Vater Fraser Robinson arbeitete trotz multipler Sklerose jahrzehntelang im Schichtdienst und verpasste keinen einzigen Arbeitstag. Diese Loyalität prägte sie: Man kämpft für die, die man liebt. Man lässt niemanden zurück. Sie studierte in Princeton und Harvard, aber sie verleugnete nie, woher sie kam &ndash; und diese Verwurzelung ist typisch für die SO8. Die Stärke kommt aus dem Wir, nicht trotz ihm.</p>
+          <p class="vb-intro">The <strong>Social Eight (SO8)</strong> is the subtype that Naranjo called <em>Solidarity</em>. The SO8 puts her strength in service of the group &ndash; the family, the community, the people. She may seem outwardly gentler than the other Eight subtypes, but she should not be underestimated: whoever attacks her pride feels the full force of the Eight.</p>
+          <p class="vb-intro">Michelle Obama grew up on the South Side of Chicago, in a working-class family. Her father Fraser Robinson worked shift work for decades despite multiple sclerosis and never missed a single day of work. This loyalty shaped her: you fight for those you love. You leave no one behind. She studied at Princeton and Harvard, but she never denied where she came from &ndash; and this groundedness is typical of the SO8. The strength comes from the We, not despite it.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Siebenflügel: Licht in der Stärke</h2>
+        <h2 class="vb-section">3. The Seven-wing: Light within Strength</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Siebenflügel</strong> verleiht der sozialen Acht etwas Besonderes: Wärme, Optimismus, Beweglichkeit. Die SO8w9 ist erdiger, ruhiger, geduldiger. Die <strong>SO8w7</strong> ist lebendiger, mitreißender, enthusiastischer. Sie kann Menschen bewegen &ndash; im wörtlichen und im übertragenen Sinne.</p>
-          <p class="vb-intro">Michelle Obamas berühmte DNC-Rede 2016 &ndash; <em>„When they go low, we go high“</em> &ndash; ist ein Satz des Siebenflügels. Die Acht sagt: Ich bin stärker. Die Sieben sagt: Wir steigen auf. Zusammen entsteht eine Energie, die weder naiv noch zynisch ist: Sie weiß, wie hart die Welt ist &ndash; und wählt trotzdem das Licht. Ihre Kampagnen als First Lady &ndash; <em>Let’s Move!</em>, <em>Reach Higher</em>, <em>Let Girls Learn</em> &ndash; haben alle diesen Ton: fordernd und einladend zugleich.</p>
+          <p class="vb-intro">The <strong>Seven-wing</strong> gives the Social Eight something special: warmth, optimism, agility. The SO8w9 is more grounded, calmer, more patient. The <strong>SO8w7</strong> is more alive, more inspiring, more enthusiastic. She can move people &ndash; in the literal and the figurative sense.</p>
+          <p class="vb-intro">Michelle Obama's famous 2016 DNC speech &ndash; <em>&quot;When they go low, we go high&quot;</em> &ndash; is a phrase of the Seven-wing. The Eight says: I am stronger. The Seven says: We rise. Together an energy is created that is neither naive nor cynical: it knows how hard the world is &ndash; and yet chooses the light. Her campaigns as First Lady &ndash; <em>Let’s Move!</em>, <em>Reach Higher</em>, <em>Let Girls Learn</em> &ndash; all have this tone: demanding and inviting at once.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Die Leidenschaft: Wollust als Einsatz</h2>
+        <h2 class="vb-section">4. The Passion: Lust as Commitment</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die Leidenschaft der Acht heißt <strong>Wollust</strong> &ndash; kein sexueller Begriff, sondern ein Hunger nach dem vollen, ungefilterten Leben. Die soziale Acht richtet diesen Hunger auf die Gemeinschaft: Sie will mit voller Kraft dabei sein, kämpfen, verändern, beschützen.</p>
-          <p class="vb-intro">Michelle Obama setzt sich vollständig ein. <em>Becoming</em>, ihre Autobiografie aus dem Jahr 2018, ist eines der meistverkauften Memoirenbücher aller Zeiten &ndash; nicht wegen Sensationen, sondern wegen Ehrlichkeit. Sie schreibt über Fehlgeburten, über Ehekrisen, über den Druck, als Schwarze Frau im Weißen Haus unsichtbar und gleichzeitig überbewertet zu sein. Diese Offenheit ist SO8-Wollust: Wenn ich schon rede, dann vollständig. Wenn ich schon da bin, dann ganz.</p>
+          <p class="vb-intro">The passion of the Eight is called <strong>Lust</strong> &ndash; not a sexual term, but a hunger for the full, unfiltered life. The Social Eight directs this hunger toward the community: she wants to be there with full force, to fight, to change, to protect.</p>
+          <p class="vb-intro">Michelle Obama commits fully. <em>Becoming</em>, her 2018 autobiography, is one of the best-selling memoir books of all time &ndash; not because of sensations, but because of honesty. She writes about miscarriages, about marital crises, about the pressure of being a Black woman in the White House who is simultaneously invisible and overexposed. This openness is SO8 Lust: if I speak, then completely. If I am there, then fully.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Das Geschenk: Würde als Gemeinschaftsstiftung</h2>
+        <h2 class="vb-section">5. The Gift: Dignity as Community-Building</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Was Michelle Obama der Welt gegeben hat, ist mehr als Kampagnen oder Bücher. Es ist ein Bild von Würde. Sie hat gezeigt, wie man mit Stärke und Wärme zugleich führt &ndash; wie man in einer Position extremer Sichtbarkeit geerdet bleibt, ohne sich anzupassen. Als First Lady hat sie Kinder im Garten des Weißen Hauses Gemüse anbauen lassen und gleichzeitig über Bildung, Ernährung und Gleichberechtigung weltweit mitgestaltet.</p>
-          <p class="vb-intro">Das ist das Geschenk der SO8w7: die Fähigkeit, Menschen zu versammeln, ohne sie zu vereinnahmen; zu führen, ohne zu dominieren; zu fordern, ohne zu entmutigen. <em>„When they go low, we go high“</em> &ndash; das ist kein Slogan. Das ist eine Lebenshaltung. Und sie lebt sie.</p>
+          <p class="vb-intro">What Michelle Obama has given the world is more than campaigns or books. It is an image of dignity. She has shown how to lead with strength and warmth at once &ndash; how to stay grounded in a position of extreme visibility without conforming. As First Lady she had children grow vegetables in the White House garden while simultaneously shaping global conversations about education, nutrition, and equality.</p>
+          <p class="vb-intro">That is the gift of the SO8w7: the ability to gather people without co-opting them; to lead without dominating; to demand without discouraging. <em>&quot;When they go low, we go high&quot;</em> &ndash; that is not a slogan. That is a way of life. And she lives it.</p>
         </blockquote>
 
       </div>
@@ -9293,8 +9293,8 @@ function michelleObamaPortraitPage() {
       ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
       ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/so8", label:"SO8 – Der Löwe: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/so8", label:"SO8 – The Lion: Subtype Profile"},
         {route:"beruehmte-toni-morrison", label:"Portrait: Toni Morrison (SE8w9)"},
       ])}
     </div>
@@ -9311,39 +9311,39 @@ function budSpencerPortraitPage() {
           <img src="./assets/portraits/beruehmte-bud-spencer-portrait.jpg" alt="Bud Spencer" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Bud Spencer</p>
-        <p class="krim-portrait-typ">SO8w9 &middot; Social Type 8 mit Nine-wing</p>
-        <p class="krim-portrait-subtitle">Schauspieler, Schwimmer &amp; Familienvater, 1929&ndash;2016 &ndash; Animal correspondence: Löwe</p>
+        <p class="krim-portrait-typ">SO8w9 &middot; Social Type 8 with Nine-wing</p>
+        <p class="krim-portrait-subtitle">Actor, Swimmer &amp; Family Man, 1929&ndash;2016 &ndash; Animal correspondence: Lion</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der Löwe</h2>
+        <h2 class="vb-section">1. The Lion</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Löwe</strong> ist das Tier des sozialen Typs 8 &ndash; und kein Bild passt besser zu Bud Spencer. Der Löwe muss nicht brüllen, um zu wirken. Seine Präsenz allein ist genug. Er sitzt im Schatten des Akazienbaums, ruhig und massiv, während kleinere Tiere einen großen Bogen um ihn machen &ndash; nicht aus Feindschaft, sondern aus Respekt. Wenn das Rudel in Gefahr ist, steht er auf. Bis dahin ist er einfach da.</p>
-          <p class="vb-intro">Bud Spencer war dieses Tier. Fast 1,90 Meter, über 120 Kilo &ndash; und dennoch war er kein Einschüchterer. Wer ihn kannte, sah den warmen Blick, das tiefe Lachen, die bedingungslose Treue zu seiner Familie und zu seinem lebenslangen Freund Terence Hill. Der Löwe schützt, ohne zu drohen. Bud Spencer schützte, ohne große Worte zu machen.</p>
+          <p class="vb-intro">The <strong>Lion</strong> is the animal of Social Type 8 &ndash; and no image fits Bud Spencer better. The lion does not need to roar to make an impression. Its presence alone is enough. It sits in the shade of the acacia tree, calm and massive, while smaller animals give it a wide berth &ndash; not out of hostility, but out of respect. When the pride is in danger, it stands up. Until then, it is simply there.</p>
+          <p class="vb-intro">Bud Spencer was this animal. Nearly 1.90 metres tall, over 120 kilos &ndash; and yet he was not an intimidator. Those who knew him saw the warm gaze, the deep laugh, the unconditional loyalty to his family and to his lifelong friend Terence Hill. The lion protects without threatening. Bud Spencer protected without making grand speeches.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die soziale Acht: Solidarität</h2>
+        <h2 class="vb-section">2. The Social Eight: Solidarity</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>soziale Acht (SO8)</strong> setzt ihre Kraft in den Dienst der Gemeinschaft &ndash; der Familie, der Freunde, der Schwachen. Naranjo nannte diesen Subtype <em>Solidarität</em>: Die SO8 kämpft nicht für sich selbst, sondern für andere. Sie ist der natürliche Beschützer, die Schutzhand über denen, die kleiner sind.</p>
-          <p class="vb-intro">Carlo Pedersoli &ndash; so sein bürgerlicher Name &ndash; war Jurist, Olympia-Schwimmer, Unternehmer und Schauspieler. Aber was ihn am meisten definierte, war seine Rolle als Vater und Freund. Er heiratete 1960 Maria Amato, bekam vier Kinder, blieb ein Leben lang mit Terence Hill befreundet &ndash; 50 Jahre Filmpartnerschaft, 50 Jahre echte Freundschaft. Die SO8 wählt ihr Rudel und bleibt. Für immer.</p>
+          <p class="vb-intro">The <strong>Social Eight (SO8)</strong> puts her strength in service of the community &ndash; the family, friends, the vulnerable. Naranjo called this subtype <em>Solidarity</em>: the SO8 does not fight for herself, but for others. She is the natural protector, the sheltering hand over those who are smaller.</p>
+          <p class="vb-intro">Carlo Pedersoli &ndash; his birth name &ndash; was a lawyer, Olympic swimmer, entrepreneur, and actor. But what defined him most was his role as father and friend. He married Maria Amato in 1960, had four children, and remained friends with Terence Hill for life &ndash; 50 years of film partnership, 50 years of true friendship. The SO8 chooses its pride and stays. Forever.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Nine-wing: Die Ruhe des Riesen</h2>
+        <h2 class="vb-section">3. The Nine-wing: The Calm of the Giant</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Nine-wing</strong> verleiht der sozialen Acht eine besondere Qualität: Geduld, Gelassenheit und eine fast magische Fähigkeit, große Menschen in Ruhe zu halten. Die SO8w7 ist lebhafter, impulsiver, lauter. Die <strong>SO8w9</strong> ist ruhiger &ndash; ein schlafender Vulkan, der nur ausbricht, wenn es wirklich nötig ist.</p>
-          <p class="vb-intro">Bud Spencers Filmfiguren spiegeln das perfekt wider: Er ist immer der Ruhigere, der erst reagiert, wenn provoziert wird &ndash; und dann mit einer Wucht, die niemand erwartet hat. Sein Humor war trocken, fast lakonisch. Er sprach wenig und tat viel. Der Nine-wing gab ihm auch die Fähigkeit, neben Terence Hill zu bestehen – einer selbsterhaltenden Eins mit Two-wing, gesund ausgeprägt und mit der natürlichen Leichtigkeit, die entsteht, wenn eine Eins ihren Entspannungspunkt in der Sieben lebt. Diese heitere, warmherzige Energie der SE1w2 ergänzte das ruhige Gewicht der SO8w9 zu einem der beliebtesten Duos der Filmgeschichte.</p>
+          <p class="vb-intro">The <strong>Nine-wing</strong> gives the Social Eight a special quality: patience, composure, and an almost magical ability to keep large people calm. The SO8w7 is livelier, more impulsive, louder. The <strong>SO8w9</strong> is calmer &ndash; a sleeping volcano that only erupts when it truly must.</p>
+          <p class="vb-intro">Bud Spencer's film characters reflect this perfectly: he is always the calmer one, who only reacts when provoked &ndash; and then with a force that no one expected. His humour was dry, almost laconic. He spoke little and did much. The Nine-wing also gave him the ability to hold his own beside Terence Hill &ndash; a self-preservation One with a Two-wing, healthily developed and with the natural lightness that arises when a One lives in their relaxation point of the Seven. This cheerful, warm-hearted energy of the SE1w2 complemented the calm weight of the SO8w9 to form one of the most beloved duos in film history.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Die Leidenschaft: Wollust als Schutz</h2>
+        <h2 class="vb-section">4. The Passion: Lust as Protection</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die Leidenschaft der Acht heißt <strong>Wollust</strong> &ndash; ein Hunger nach Intensität, nach dem vollen Leben, nach dem Ungefilterten. Die soziale Acht richtet diesen Hunger auf die Gruppe: Sie will voll da sein, vollständig eingesetzt, bedingungslos loyal.</p>
-          <p class="vb-intro">Bud Spencer lebte dieses Prinzip ohne Abstriche. Er war kein halber Mensch: kein halber Schwimmer (er war Olympiateilnehmer), kein halber Vater (er war bei seinen Kindern), kein halber Freund (er war ein Freund fürs Leben). Selbst seine Filmkämpfe hatten diese Qualität: kein Stilett, keine Waffe, sondern die volle Körperkraft &ndash; direkt, ehrlich, unübersehbar. Wollust als Träger von Wahrhaftigkeit.</p>
+          <p class="vb-intro">The passion of the Eight is called <strong>Lust</strong> &ndash; a hunger for intensity, for the full life, for the unfiltered. The Social Eight directs this hunger toward the group: she wants to be fully present, completely committed, unconditionally loyal.</p>
+          <p class="vb-intro">Bud Spencer lived this principle without compromise. He was not a half-person: not a half-swimmer (he was an Olympic athlete), not a half-father (he was there for his children), not a half-friend (he was a friend for life). Even his film fights had this quality: no stiletto, no weapon, but the full force of the body &ndash; direct, honest, unmistakable. Lust as a carrier of truth.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Das Geschenk: Die Stille, die trägt</h2>
+        <h2 class="vb-section">5. The Gift: The Silence That Carries</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Was Bud Spencer hinterlassen hat, ist eine Qualität, die selten geworden ist: die Stille des Starken. Er hat bewiesen, dass man laut sein kann, ohne zu schreien &ndash; dass Größe nicht aus lautstarkem Auftreten kommt, sondern aus dem, was man ist, wenn niemand zuschaut.</p>
-          <p class="vb-intro">Generationen von Kindern in Deutschland, Österreich und der Schweiz sind mit ihm aufgewachsen &ndash; und was sie geliebt haben, war nicht der Schauspieler, sondern den Menschen dahinter: groß, warm, zuverlässig. Den Löwen, der immer da ist. Das ist das Geschenk der SO8w9: Die Stärke, die nicht dominieren will &ndash; sondern einfach trägt.</p>
+          <p class="vb-intro">What Bud Spencer left behind is a quality that has become rare: the silence of the strong. He proved that you can be loud without shouting &ndash; that greatness does not come from making a scene, but from who you are when no one is watching.</p>
+          <p class="vb-intro">Generations of children in Germany, Austria, and Switzerland grew up with him &ndash; and what they loved was not the actor, but the person behind him: large, warm, reliable. The lion who is always there. That is the gift of the SO8w9: the strength that does not want to dominate &ndash; but simply carries.</p>
         </blockquote>
 
       </div>
@@ -9351,8 +9351,8 @@ function budSpencerPortraitPage() {
       ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
       ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/so8", label:"SO8 – Der Löwe: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/so8", label:"SO8 – The Lion: Subtype Profile"},
         {route:"beruehmte-michelle-obama", label:"Portrait: Michelle Obama (SO8w7)"},
       ])}
     </div>
@@ -9369,39 +9369,39 @@ function donaldTrumpPortraitPage() {
           <img src="./assets/portraits/beruehmte-donald-trump-portrait.jpg" alt="Donald J. Trump" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Donald J. Trump</p>
-        <p class="krim-portrait-typ">SX8w7 &middot; Sexual Type 8 mit Seven-wing</p>
-        <p class="krim-portrait-subtitle">Unternehmer, 45. &amp; 47. US-Präsident, geb. 1946 &ndash; Animal correspondence: Krokodil</p>
+        <p class="krim-portrait-typ">SX8w7 &middot; Sexual Type 8 with Seven-wing</p>
+        <p class="krim-portrait-subtitle">Businessman, 45th &amp; 47th US President, born 1946 &ndash; Animal correspondence: Crocodile</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Das Krokodil</h2>
+        <h2 class="vb-section">1. The Crocodile</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das <strong>Krokodil</strong> ist das Tier des sexuellen Typs 8 &ndash; und kaum ein Bild trifft Donald Trump besser. Das Krokodil ist das älteste Raubtier der Erde: geduldig im Warten, blitzschnell im Zugriff, unbeeindruckt von Kritik und überaus schwer zu bezwingen. Es zieht andere an – und wer zu nah kommt, merkt: Das war keine Einladung zur Freundschaft.</p>
-          <p class="vb-intro">Trump hat genau diese Qualität. Er dominiert Räume, zieht Kameras an, ist nie neutral – immer provokant, immer laut, immer im Zentrum. Jahrzehntelang war er Medienthema, bevor er Politiker wurde. Er hat die Regeln des öffentlichen Auftretens nicht gebrochen – er hat sie neu geschrieben, so wie das Krokodil die Regeln im Wasser setzt.</p>
+          <p class="vb-intro">The <strong>Crocodile</strong> is the animal of Sexual Type 8 &ndash; and few images fit Donald Trump better. The crocodile is the oldest predator on earth: patient in waiting, lightning-fast in its strike, unimpressed by criticism and exceptionally hard to overcome. It draws others in &ndash; and those who come too close realise: that was not an invitation to friendship.</p>
+          <p class="vb-intro">Trump has exactly this quality. He dominates rooms, attracts cameras, is never neutral &ndash; always provocative, always loud, always at the centre. For decades he was a media fixture before he became a politician. He did not break the rules of public presence &ndash; he rewrote them, just as the crocodile sets the rules in the water.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die sexuelle Acht: Besitzergreifung</h2>
+        <h2 class="vb-section">2. The Sexual Eight: Possession</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>sexuelle Acht (SX8)</strong> ist nach Naranjo der Subtype, den er <em>Besitzergreifung</em> nannte &ndash; auf Englisch <em>Possession</em>. Die sexuelle Acht will nicht schlichter Sieger sein, sie will alles: die volle Aufmerksamkeit, die bedingungslose Loyalität, den totalen Eindruck. Die SX8 ist leidenschaftlich, intensiv und immer auf der Search nach der nächsten Herausforderung, die groß genug ist, um sie wirklich zu füllen.</p>
-          <p class="vb-intro">Trumps Leben liest sich wie eine SX8-Biografie: Immobilienimperium, Casinobetrieb, Fernsehshow (<em>The Apprentice</em>), Präsidentschaft, erneute Präsidentschaft. Kein Stillstand, kein Rückzug, keine ruhige Größe. Immer der nächste Deal, die nächste Eskalation, das nächste Projekt, das größer ist als das letzte. Die SX8 hört nicht auf, weil sie nicht aufhören kann.</p>
+          <p class="vb-intro">The <strong>Sexual Eight (SX8)</strong> is, according to Naranjo, the subtype he called <em>Possession</em>. The Sexual Eight does not want to be a mere winner &ndash; she wants everything: full attention, unconditional loyalty, total impact. The SX8 is passionate, intense and always in search of the next challenge large enough to truly fill her.</p>
+          <p class="vb-intro">Trump's life reads like an SX8 biography: real-estate empire, casino operations, television show (<em>The Apprentice</em>), presidency, second presidency. No standstill, no withdrawal, no quiet greatness. Always the next deal, the next escalation, the next project larger than the last. The SX8 does not stop, because she cannot stop.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Seven-wing: Die Lust am Spiel</h2>
+        <h2 class="vb-section">3. The Seven-wing: The Joy of the Game</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Seven-wing</strong> verleiht der sexuellen Acht eine besondere Energie: Leichtigkeit, Humor, Risikobereitschaft und eine gewisse Spielfreude, die die hohe Kraft des Achterkerns aufhellt. Die SX8w7 ist nicht nur Angreifer &ndash; sie ist auch Entertainer. Sie weiß, wie man ein Publikum hält. Sie schleudert Einzeiler, dreht die Wahrheit so, dass sie wie Show wirkt, und geniesst das Spektakel des Streits.</p>
-          <p class="vb-intro">Trump ist kein Politiker im klassischen Sinn &ndash; er ist eine Figur. Seine Rallyes sind Auftritte, seine Interviews sind Ringkämpfe, seine Tweets sind Performances. Der Seven-wing gibt ihm die Energie, das alles zu genießen. Ihm ist nicht unwohl dabei. Er liebt es. Das unterscheidet die SX8w7 von der rein destruktiven Kraft: Es macht ihr Spaß.</p>
+          <p class="vb-intro">The <strong>Seven-wing</strong> gives the Sexual Eight a special energy: lightness, humour, risk-taking, and a certain playfulness that brightens the intense force of the Eight core. The SX8w7 is not only an attacker &ndash; she is also an entertainer. She knows how to hold an audience. She hurls one-liners, spins the truth so it plays like a show, and enjoys the spectacle of conflict.</p>
+          <p class="vb-intro">Trump is not a politician in the classical sense &ndash; he is a character. His rallies are performances, his interviews are wrestling matches, his tweets are theatre. The Seven-wing gives him the energy to enjoy all of it. He is not uncomfortable with it. He loves it. That is what sets the SX8w7 apart from purely destructive force: it has fun.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Die Leidenschaft: Wollust als Intensität</h2>
+        <h2 class="vb-section">4. The Passion: Lust as Intensity</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die Leidenschaft der Acht heisst <strong>Wollust</strong> – aber nicht im engeren Sinn. Es ist ein Hunger nach dem Ganzen, nach Intensität, nach dem ungefilterten Leben. Die sexuelle Acht richtet diesen Hunger auf eine Person, auf ein Projekt, auf eine Vision. Und sie duldet keine Halbherzigkeiten.</p>
-          <p class="vb-intro">Bei Trump zeigt sich das in seiner Beziehung zur Marke Trump selbst: Er hat nicht einfach Geschäfte gemacht – er hat <em>Trump</em> zur Marke gemacht, zu einem Versprechen für Größe, Luxus und Sieg. Der Name auf den Hochhäusern, die Goldfarbe, der Superlativ als Standard: alles Ausdruck einer Leidenschaft, die nicht unterscheiden kann zwischen sich selbst und dem, was sie besitzt. Das ist die SX8 in Reinform.</p>
+          <p class="vb-intro">The passion of the Eight is called <strong>Lust</strong> &ndash; but not in the narrow sense. It is a hunger for the whole, for intensity, for the unfiltered life. The Sexual Eight directs this hunger toward a person, a project, a vision. And she tolerates no half-measures.</p>
+          <p class="vb-intro">In Trump this shows itself in his relationship to the Trump brand itself: he did not simply do business &ndash; he made <em>Trump</em> a brand, a promise of greatness, luxury and victory. The name on the skyscrapers, the gold colour, the superlative as standard: all expressions of a passion that cannot distinguish between itself and what it possesses. That is the SX8 in its purest form.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Das Geschenk: Mut zum Unmöglichen</h2>
+        <h2 class="vb-section">5. The Gift: Courage for the Impossible</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Was die SX8w7 in ihrer besten Version verkörpert, ist echter Mut: die Fähigkeit, gegen jede Erwartung anzutreten, keine Niederlage als endgültig zu akzeptieren und in einem Spiel mitzuspielen, das alle anderen für verloren halten. Trump hat zweimal das Präsidentenamt errungen – das zweite Mal nach einer Niederlage, zwei Amtsenthebungsverfahren und mehreren Strafprozessen. Das ist keine Kleinigkeit.</p>
-          <p class="vb-intro">Das Geschenk der SX8w7 ist diese Unerschrockenheit: die Weigerung, klein beizugeben, die Energie, die aus dem Kampf selbst entsteht, und die Bereitschaft, sich zu zeigen – komplett und unverhüllt, mit allen Widersprüchen. Das Krokodil taucht nicht unter. Es bleibt an der Oberfläche. Sichtbar, unbeweglich, immer bereit.</p>
+          <p class="vb-intro">What the SX8w7 embodies at its best is genuine courage: the ability to compete against every expectation, to accept no defeat as final, and to play in a game that everyone else considers lost. Trump won the presidency twice &ndash; the second time after a defeat, two impeachment proceedings, and multiple criminal trials. That is no small thing.</p>
+          <p class="vb-intro">The gift of the SX8w7 is this fearlessness: the refusal to give in, the energy that arises from the fight itself, and the willingness to show oneself &ndash; completely and undisguised, with all contradictions. The crocodile does not dive under. It stays at the surface. Visible, immovable, always ready.</p>
         </blockquote>
 
       </div>
@@ -9409,8 +9409,8 @@ function donaldTrumpPortraitPage() {
       ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
       ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/sx8", label:"SX8 – Das Krokodil: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/sx8", label:"SX8 – The Crocodile: Subtype Profile"},
         {route:"beruehmte-bud-spencer", label:"Portrait: Bud Spencer (SO8w9)"},
         {route:"beruehmte-michelle-obama", label:"Portrait: Michelle Obama (SO8w7)"},
       ])}
@@ -9428,39 +9428,39 @@ function genesisPOrridgePortraitPage() {
           <img src="./assets/portraits/beruehmte-genesis-p-orridge-portrait.jpg" alt="Genesis P-Orridge" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Genesis P-Orridge</p>
-        <p class="krim-portrait-typ">SX8w9 &middot; Sexual Type 8 mit Nine-wing</p>
-        <p class="krim-portrait-subtitle">Musiker, Performance-Künstler &amp; Okkultist, 1950&ndash;2020 &ndash; Animal correspondence: Krokodil</p>
+        <p class="krim-portrait-typ">SX8w9 &middot; Sexual Type 8 with Nine-wing</p>
+        <p class="krim-portrait-subtitle">Musician, Performance Artist &amp; Occultist, 1950&ndash;2020 &ndash; Animal correspondence: Crocodile</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Das Krokodil</h2>
+        <h2 class="vb-section">1. The Crocodile</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das <strong>Krokodil</strong> ist das Tier des sexuellen Typs 8 &ndash; das älteste Raubtier der Erde, urtümlich, geduldig und von einer Beharrlichkeit, die Jahrmillionen überdauert hat. Es verändert sich nicht, weil es keinen Grund dazu sieht. Es liegt im Wasser, fast reglos, und wartet. Wenn es zuschnappt, gibt es kein Back mehr.</p>
-          <p class="vb-intro">Genesis P-Orridge war dieses Krokodil &ndash; ein Wesen, das in den Tiefen der Gegenkultur lauerte und mit einem Werk zuschnappte, das die Welt der Kunst, der Musik und des Bewusstseins für immer verändert hat. Als Gründer von Throbbing Gristle schuf Genesis 1975 mit Industrial Music ein Genre, das Jahrzehnte vor seiner Zeit war. Als Gründer der COUM Transmissions provozierte Genesis das Establishment so grundlegend, dass ein britischer Abgeordneter die Gruppe im Parlament als "Feinde der Gesellschaft" bezeichnete. Das Krokodil muss nicht laut sein. Es muss nur da sein &ndash; und zuschlagen, wenn der Moment kommt.</p>
+          <p class="vb-intro">The <strong>Crocodile</strong> is the animal of Sexual Type 8 &ndash; the oldest predator on earth, primordial, patient, and possessed of a persistence that has outlasted millions of years. It does not change, because it sees no reason to. It lies in the water, nearly motionless, and waits. When it snaps, there is no going back.</p>
+          <p class="vb-intro">Genesis P-Orridge was this crocodile &ndash; a creature lurking in the depths of the counterculture, snapping shut with a body of work that changed the worlds of art, music, and consciousness forever. As founder of Throbbing Gristle, Genesis created Industrial Music in 1975 &ndash; a genre decades ahead of its time. As founder of COUM Transmissions, Genesis provoked the establishment so fundamentally that a British MP referred to the group in parliament as "enemies of society". The crocodile does not need to be loud. It only needs to be present &ndash; and to strike when the moment comes.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die sexuelle Acht: Besitzergreifung</h2>
+        <h2 class="vb-section">2. The Sexual Eight: Possession</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>sexuelle Acht (SX8)</strong> nannte Naranjo <em>Besitzergreifung</em> &ndash; einen Hunger, der sich auf Menschen, Ideen und Erfahrungen richtet und keine halben Sachen kennt. Die SX8 will das Ganze: die vollständige Verschmelzung, die totale Transformation, die bedingungslose Intensität. Sie ist das Feuer, das nicht kontrolliert werden kann &ndash; nur gelebt.</p>
-          <p class="vb-intro">Bei Genesis P-Orridge zeigte sich das im Projekt Pandrogeny: die freiwillige körperliche Verschmelzung mit der Partnerin Lady Jaye Breyer durch aufeinander abgestimmte chirurgische Veränderungen, bis beide Teile eines einzigen Wesens wurden. Das war kein Kunstprojekt im gewöhnlichen Sinn. Das war SX8-Besitzergreifung in ihrer radikalsten Form: Ich will nicht neben dir sein &ndash; ich will mit dir eins werden. Die Grenze zwischen Selbst und dem anderen sollte vollständig aufgelöst werden.</p>
+          <p class="vb-intro">The <strong>Sexual Eight (SX8)</strong> is what Naranjo called <em>Possession</em> &ndash; a hunger directed at people, ideas, and experiences that knows no half-measures. The SX8 wants the whole: complete merger, total transformation, unconditional intensity. It is the fire that cannot be controlled &ndash; only lived.</p>
+          <p class="vb-intro">In Genesis P-Orridge this showed itself in the Pandrogeny project: the voluntary physical merger with partner Lady Jaye Breyer through coordinated surgical transformations, until both became parts of a single being. That was not an art project in the ordinary sense. That was SX8 Possession in its most radical form: I do not want to be beside you &ndash; I want to become one with you. The boundary between self and other was to be completely dissolved.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Nine-wing: Die ruhende Urgewalt</h2>
+        <h2 class="vb-section">3. The Nine-wing: The Resting Primal Force</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Nine-wing</strong> gibt der sexuellen Acht eine besondere Qualität: Geduld, Tiefe und eine fast meditative Beharrlichkeit, die die pure Explosivität der SX8w7 erdet. Die <strong>SX8w9</strong> ist nicht weniger intensiv &ndash; aber die Intensität sitzt tiefer. Sie kommt nicht als Explosion, sondern als konstante, unaufhörliche Strömung, die alles mitreißt, was nicht fest verankert ist.</p>
-          <p class="vb-intro">Genesis P-Orridge hat nie laut um Aufmerksamkeit gekämpft. Das Werk sprach für sich. Über Jahrzehnte, durch immer neue Formen &ndash; Noise, Industrial, Acid House, Okkultuismus, körperliche Transformation &ndash; blieb Genesis sich selbst treu: der Search nach dem, was jenseits der gesellschaftlich gesetzten Grenzen liegt. Der Nine-wing gab dieser Search Ausdauer. Nicht der Sprint des Revoluzzers, sondern der lange Atem des Entdeckers.</p>
+          <p class="vb-intro">The <strong>Nine-wing</strong> gives the Sexual Eight a special quality: patience, depth, and an almost meditative persistence that grounds the pure explosiveness of the SX8w7. The <strong>SX8w9</strong> is no less intense &ndash; but the intensity sits deeper. It does not come as an explosion, but as a constant, unceasing current that sweeps along everything not firmly anchored.</p>
+          <p class="vb-intro">Genesis P-Orridge never fought loudly for attention. The work spoke for itself. Over decades, through ever-new forms &ndash; Noise, Industrial, Acid House, occultism, bodily transformation &ndash; Genesis remained true to herself: the search for what lies beyond the limits set by society. The Nine-wing gave this search endurance. Not the sprint of the rebel, but the long breath of the explorer.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Die Leidenschaft: Wollust als Grenzauflösung</h2>
+        <h2 class="vb-section">4. The Passion: Lust as Dissolution of Boundaries</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die Leidenschaft der Acht heißt <strong>Wollust</strong> &ndash; nicht im engeren Sinn, sondern als Hunger nach dem Ungefilterten, nach dem direkten Contact mit dem, was ist. Für die sexuelle Acht richtet sich dieser Hunger auf die Person, den Körper, die Begegnung &ndash; und auf das, was zwischen Menschen entsteht, wenn alle Konventionen fallen.</p>
-          <p class="vb-intro">Genesis P-Orridge hat diese Wollust auf die Grenzen des Bewusstseins selbst gerichtet: durch Rituale, durch Okkultismus, durch die körperliche Kunst, durch Psychedelik, durch die Auflösung der Grenze zwischen männlich und weiblich. Der in Manchester geborene Neil Megson wurde zu Genesis, dann zu einer Pandrogyne, die keine Kategorien mehr brauchte. Wollust als Methode der Selbstüberschreitung &ndash; und als konsequenteste Form von Freiheit.</p>
+          <p class="vb-intro">The passion of the Eight is called <strong>Lust</strong> &ndash; not in the narrow sense, but as a hunger for the unfiltered, for direct contact with what is. For the Sexual Eight this hunger is directed at the person, the body, the encounter &ndash; and at what arises between people when all conventions fall away.</p>
+          <p class="vb-intro">Genesis P-Orridge directed this Lust at the boundaries of consciousness itself: through rituals, through occultism, through bodily art, through psychedelics, through the dissolution of the boundary between male and female. Manchester-born Neil Megson became Genesis, then a pandrogyne who no longer needed categories. Lust as a method of self-transcendence &ndash; and as the most consistent form of freedom.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Das Geschenk: Die Weigerung, normal zu sein</h2>
+        <h2 class="vb-section">5. The Gift: The Refusal to Be Normal</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Was Genesis P-Orridge hinterlassen hat, ist eine Einladung: die radikale Frage, warum das, was als normal gilt, unhinterfragt bleiben soll. Throbbing Gristle hat bewiesen, dass Musik nicht schön sein muss, um tief zu berühren. Die Pandrogeny hat gezeigt, dass Identität kein Schicksal ist. Das COUM-Werk hat dem Kunstbetrieb einen Spiegel vorgehalten, den dieser nicht mögen wollte.</p>
-          <p class="vb-intro">Das Geschenk der SX8w9 ist diese unnachgiebige Authentizität: die Weigerung, sich anzupassen, und die Bereitschaft, dafür jeden Preis zu zahlen. Das Krokodil passt sich nicht an. Es ist, was es ist &ndash; seit Jahrmillionen. Genesis P-Orridge war genauso: kompromisslos, unverwechselbar, von einer Tiefe, die erst im Rückblick ganz sichtbar wird.</p>
+          <p class="vb-intro">What Genesis P-Orridge left behind is an invitation: the radical question of why what passes as normal should remain unquestioned. Throbbing Gristle proved that music does not have to be beautiful to touch deeply. The Pandrogeny showed that identity is not a destiny. The COUM work held up a mirror to the art world that it did not want to look at.</p>
+          <p class="vb-intro">The gift of the SX8w9 is this unrelenting authenticity: the refusal to conform, and the willingness to pay any price for it. The crocodile does not adapt. It is what it is &ndash; for millions of years. Genesis P-Orridge was the same: uncompromising, unmistakable, possessed of a depth that only becomes fully visible in retrospect.</p>
         </blockquote>
 
       </div>
@@ -9468,8 +9468,8 @@ function genesisPOrridgePortraitPage() {
       ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
       ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/sx8", label:"SX8 – Das Krokodil: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/sx8", label:"SX8 – The Crocodile: Subtype Profile"},
         {route:"beruehmte-donald-trump", label:"Portrait: Donald J. Trump (SX8w7)"},
       ])}
     </div>
@@ -9486,39 +9486,39 @@ function hansDietrichGenscherPortraitPage() {
           <img src="./assets/portraits/beruehmte-hans-dietrich-genscher-portrait.jpg" alt="Hans-Dietrich Genscher" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Hans-Dietrich Genscher</p>
-        <p class="krim-portrait-typ">SE9w8 &middot; Self-Preservation Type 9 mit Eight-wing</p>
-        <p class="krim-portrait-subtitle">Außenminister &amp; Vizekanzler 1974&ndash;1992, 1927&ndash;2016 &ndash; Animal correspondence: Elefant</p>
+        <p class="krim-portrait-typ">SE9w8 &middot; Self-Preservation Type 9 with Eight-wing</p>
+        <p class="krim-portrait-subtitle">Foreign Minister &amp; Vice Chancellor 1974&ndash;1992, 1927&ndash;2016 &ndash; Animal correspondence: Elephant</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der Elefant</h2>
+        <h2 class="vb-section">1. The Elephant</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Elefant</strong> ist das Tier des Typs 9 &ndash; und Hans-Dietrich Genscher war dieser Elefant. Das Tier mit dem längsten Gedächtnis der Natur, das Tier, das nie aufhört zu lernen, das Tier, das sich an jeden Weg, jede Wasserstelle, jeden Verbündeten und jeden Verrat erinnert. Und das dabei ruhig bleibt. Immer ruhig. Auch wenn es längst weiß, was gespielt wird.</p>
-          <p class="vb-intro">18 Jahre außenpolitisches Gewicht, 23 Jahre als bestimmende Kraft der deutschen Diplomatie: Genscher war der längstdienende Außenminister der Bundesrepublik. Wer in diesen Jahrzehnten mit Deutschland verhandeln wollte, verhandelte mit ihm &ndash; in Bonn, Genf, New York, Moskau. Der Elefant behält seine Ruhe. Er behält den Überblick. Und er bewegt sich langsam &ndash; aber er hört nie auf, sich vorwärts zu bewegen.</p>
+          <p class="vb-intro">The <strong>Elephant</strong> is the animal of Type 9 &ndash; and Hans-Dietrich Genscher was this elephant. The animal with the longest memory in nature, the animal that never stops learning, the animal that remembers every path, every watering hole, every ally, and every betrayal. And remains calm throughout. Always calm. Even when it has long known what game is being played.</p>
+          <p class="vb-intro">18 years of foreign-policy gravitas, 23 years as the defining force of German diplomacy: Genscher was the longest-serving Foreign Minister of the Federal Republic. Anyone who wanted to negotiate with Germany during those decades negotiated with him &ndash; in Bonn, Geneva, New York, Moscow. The elephant keeps its composure. It keeps the overview. And it moves slowly &ndash; but it never stops moving forward.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die selbsterhaltende Neun: Appetit</h2>
+        <h2 class="vb-section">2. The Self-Preservation Nine: Appetite</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>selbsterhaltende Neun (SE9)</strong> nannte Naranjo <em>Appetit</em>: Frieden durch Beharrlichkeit, durch das Einleben in das, was ist, durch die Fähigkeit, im Bestehenden Sicherheit zu finden &ndash; ohne große Gerichtsrede, ohne Showdown. Die SE9 arbeitet durch Kontinuität. Ihr Instrument ist die Ausdauer &ndash; nicht der Coup.</p>
-          <p class="vb-intro">Genschers politische Karriere ist das Musterbeispiel dieser Kontinuität: 1969 Innenminister, 1974 Außenminister und Vizekanzler, 1992 Rücktritt &ndash; nach 23 Jahren im Amt. Dazwischen: die Begleitung der Ostverträge, die KSZE-Schlussakte von Helsinki, der Doppelbeschluss, die Abrüstungsverhandlungen, die Vereinigung. Keine Karriere der großen Brüche, sondern eine Karriere der geduldigen Akkumulation &ndash; Jahr für Jahr, Verhandlung für Verhandlung, Schritt für Schritt.</p>
+          <p class="vb-intro">The <strong>Self-Preservation Nine (SE9)</strong> is what Naranjo called <em>Appetite</em>: peace through persistence, through settling into what is, through the ability to find security in the existing &ndash; without grand speeches, without a showdown. The SE9 works through continuity. Its instrument is endurance &ndash; not the coup.</p>
+          <p class="vb-intro">Genscher's political career is the textbook example of this continuity: Interior Minister in 1969, Foreign Minister and Vice Chancellor in 1974, resignation in 1992 &ndash; after 23 years in office. In between: accompanying the Eastern treaties, the Helsinki Final Act, the NATO Double-Track Decision, the disarmament negotiations, reunification. Not a career of great ruptures, but a career of patient accumulation &ndash; year by year, negotiation by negotiation, step by step.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Eight-wing: Die Kraft hinter der Stille</h2>
+        <h2 class="vb-section">3. The Eight-wing: The Force behind the Silence</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Eight-wing</strong> verleiht der selbsterhaltenden Neun eine besondere Qualität: Durchsetzungskraft, Willenstärke und eine ruhige, aber unverkennbare Entschlossenheit, die sich nicht wegdrängen lässt. Die <strong>SE9w8</strong> ist keine passive Neun. Sie ist geduldig &ndash; aber sie ist nicht schwach. Wenn der Moment kommt, handelt sie. Und dann handelt sie entschlossen.</p>
-          <p class="vb-intro">Genscher hat diesen Flügel in Prag gezeigt. Am 30. September 1989 trat er auf den Balkon der deutschen Botschaft in Prag und erklärte den dort gestrandeten DDR-Bürgern, dass ihre Ausreise genehmigt sei. Er konnte den Satz nicht zu Ende sprechen &ndash; der Jubel übertönte ihn. Es war ein Moment, der Geschichte gemacht hat &ndash; und er war möglich, weil Genscher monatelang hinter den Kulissen verhandelt hatte, unaufgeregt, beharrlich, mit der Kraft der Neun und der Entschlossenheit der Acht.</p>
+          <p class="vb-intro">The <strong>Eight-wing</strong> gives the Self-Preservation Nine a special quality: assertiveness, strength of will, and a calm but unmistakable resolve that cannot be pushed aside. The <strong>SE9w8</strong> is not a passive Nine. She is patient &ndash; but she is not weak. When the moment comes, she acts. And then she acts decisively.</p>
+          <p class="vb-intro">Genscher showed this wing in Prague. On 30 September 1989 he stepped onto the balcony of the German embassy in Prague and told the stranded East German citizens that their exit had been approved. He could not finish the sentence &ndash; the cheering drowned him out. It was a moment that made history &ndash; and it was possible because Genscher had negotiated behind the scenes for months, calmly, persistently, with the patience of the Nine and the resolve of the Eight.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Die Leidenschaft: Trägheit als Beharren</h2>
+        <h2 class="vb-section">4. The Passion: Inertia as Persistence</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die Leidenschaft der Neun heißt <strong>Trägheit</strong> &ndash; das Beharren im Vertrauten, das Meiden des offenen Konflikts, die Tendenz, Positionen zu umrunden statt zu konfrontieren. Für Genscher war das zugleich seine größte Stärke: Er konnte beide Seiten des Eisernen Vorhangs gesprächsbereit halten, weil er keine Seite zum Feind erklärte. Er konnte mit Moskau reden und mit Washington. Er konnte Brücken bauen, weil er nie Brücken abbrach.</p>
-          <p class="vb-intro">Die Kehrseite war der Vorwurf, zu lange zu bleiben, zu lange das Spiel mitzuspielen, zu lange Kompromisse zu suchen, wo Klarheit nötig gewesen wäre. Genscherismus wurde zum Begriff &ndash; mal Lob, mal Kritik. Aber er hat überlebt. Die meisten seiner Kritiker nicht.</p>
+          <p class="vb-intro">The passion of the Nine is called <strong>Inertia</strong> &ndash; the tendency to stay with the familiar, to avoid open conflict, to navigate around positions rather than confront them. For Genscher this was also his greatest strength: he could keep both sides of the Iron Curtain willing to talk, because he declared neither side an enemy. He could speak with Moscow and with Washington. He could build bridges, because he never burned any.</p>
+          <p class="vb-intro">The flip side was the accusation of staying too long, playing the game too long, seeking compromise for too long where clarity would have been needed. "Genscherism" became a term &ndash; sometimes praise, sometimes criticism. But he survived. Most of his critics did not.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Das Geschenk: Der Brückenmensch</h2>
+        <h2 class="vb-section">5. The Gift: The Bridge-Builder</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Was Hans-Dietrich Genscher der deutschen Politik gegeben hat, ist die Erkenntnis, dass Diplomatie keine Schwäche ist, sondern die höchste Form der Stärke. Er hat bewiesen, dass man ohne Krieg Grenzen verschieben kann &ndash; wenn man geduldig genug ist, klug genug und bereit ist, jeden Schritt mehrfach zu gehen. Die deutsche Einheit ist nicht durch Konfrontation entstanden. Sie ist durch jahrzehntelange Vertrauensarbeit entstanden &ndash; an der Genscher entscheidenden Anteil hatte.</p>
-          <p class="vb-intro">Das Geschenk der SE9w8 ist dieser Brükenmensch: jemand, der die Seiten kennt, der zwischen ihnen steht, der nicht die lauteste Stimme ist &ndash; aber die, auf die man hört, wenn es darauf ankommt. Der Elefant vergisst nichts. Und er läuft nie davon.</p>
+          <p class="vb-intro">What Hans-Dietrich Genscher gave German politics is the recognition that diplomacy is not weakness, but the highest form of strength. He proved that borders can be moved without war &ndash; if one is patient enough, wise enough, and willing to take every step more than once. German reunification did not come about through confrontation. It came through decades of trust-building &ndash; in which Genscher played a decisive part.</p>
+          <p class="vb-intro">The gift of the SE9w8 is this bridge-builder: someone who knows both sides, who stands between them, who is not the loudest voice &ndash; but the one people listen to when it matters. The elephant forgets nothing. And it never runs away.</p>
         </blockquote>
 
       </div>
@@ -9526,8 +9526,8 @@ function hansDietrichGenscherPortraitPage() {
       ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
       ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/se9", label:"SE9 – Der Elefant: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/se9", label:"SE9 – The Elephant: Subtype Profile"},
         {route:"beruehmte-baerbel-bas", label:"Portrait: Bärbel Bas (SE9w1)"},
       ])}
     </div>
@@ -9544,40 +9544,40 @@ function steffiGrafPortraitPage() {
           <img src="./assets/portraits/beruehmte-steffi-graf-portrait.jpg" alt="Steffi Graf" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Steffi Graf</p>
-        <p class="krim-portrait-typ">SO9w1 &middot; Social Type 9 mit One-wing</p>
-        <p class="krim-portrait-subtitle">Tennisspielerin, 22 Grand-Slam-Titel, geb. 1969 &ndash; Animal correspondence: Büffel</p>
+        <p class="krim-portrait-typ">SO9w1 &middot; Social Type 9 with One-wing</p>
+        <p class="krim-portrait-subtitle">Tennis player, 22 Grand Slam titles, born 1969 &ndash; Animal correspondence: Buffalo</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der Büffel</h2>
+        <h2 class="vb-section">1. The Buffalo</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Büffel</strong> ist das Tier des sozialen Typs 9 &ndash; und kein Bild trifft Steffi Graf genauer. Der Büffel ist kein Tier des Showrooms. Er ist kein Tier der Posen und der Gesten. Er senkt den Kopf und läuft. Er geht durch, was auch immer vor ihm liegt &ndash; ruhig, massiv, unaufhaltsam. Er macht kein Drama. Er braucht kein Publikum, um zu wissen, dass er da ist.</p>
-          <p class="vb-intro">Steffi Graf hatte diese Qualität auf dem Tennisplatz wie sonst kaum jemand. Sie hat 22 Grand-Slam-Titel gewonnen &ndash; mehr als jede andere Spielerin ihrer Generation. 1988 gelang ihr der <strong>Golden Slam</strong>: alle vier Grand-Slam-Turniere und die Olympische Goldmedaille in einem Jahr. Eine Leistung, die in der Geschichte des Tennis einmalig ist. Und sie hat das alles gemacht, ohne dass man je das Gefühl hatte, sie müsse es sich beweisen. Der Büffel beweist nichts. Er ist einfach da &ndash; und er gewinnt.</p>
+          <p class="vb-intro">The <strong>Buffalo</strong> is the animal of Social Type 9 &ndash; and no image fits Steffi Graf more precisely. The buffalo is not a showroom animal. It is not an animal of poses and gestures. It lowers its head and runs. It pushes through whatever lies in front of it &ndash; calm, massive, unstoppable. It makes no drama. It needs no audience to know that it is there.</p>
+          <p class="vb-intro">Steffi Graf had this quality on the tennis court like almost no one else. She won 22 Grand Slam titles &ndash; more than any other player of her generation. In 1988 she achieved the <strong>Golden Slam</strong>: all four Grand Slam tournaments and the Olympic gold medal in one year. An achievement unique in the history of tennis. And she did all of this without ever giving the impression that she needed to prove it to herself. The buffalo proves nothing. It is simply there &ndash; and it wins.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die soziale Neun: Partizipation</h2>
+        <h2 class="vb-section">2. The Social Nine: Participation</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>soziale Neun (SO9)</strong> nannte Naranjo <em>Partizipation</em>: Frieden durch Zugehörigkeit, durch das Eingebundensein in eine Gemeinschaft, durch das Mitlaufen im Strom des Lebens. Die SO9 findet ihren Platz nicht durch Dominanz, sondern durch Anwesenheit &ndash; durch das einfache Dasein, das anderen Stabilität gibt.</p>
-          <p class="vb-intro">Steffi Graf hat dieses Prinzip gelebt, ohne je große Worte darüber zu verlieren. Sie war nicht die Lauteste im Raum. Sie war nicht diejenige, die Interviews suchte oder Kameras anzog. Sie hat Tennis gespielt &ndash; und das mit einer Selbstverständlichkeit, als sei es das Normalste der Welt. Ihre Zugehörigkeit galt dem Sport, dem Spiel, der Bewegung &ndash; nicht dem Ruhm, der als Nebenprodukt davon entstand.</p>
-          <p class=vb-intro>Dabei ist die SO9 etwas Besonderes innerhalb des Enneagramms: Sie ist der <strong>Kontratyp der Neun</strong>. Das bedeutet, dass die soziale Neun ihre eigene Leidenschaft &ndash; die Trägheit &ndash; innerlich negiert und gegen sie anarbeitet. Während die selbsterhaltende und die sexuelle Neun die Trägheit eher offen ausdrücken, wirkt die SO9 nach außen oft aktiv, ehrgeizig und leistungsorientiert &ndash; so sehr, dass man sie manchmal mit dem Typ 3 verwechselt. Wer nicht weiß, dass diese Energie aus der Negation der Trägheit entsteht, versteht nicht, warum jemand mit dem Kernthema Schlaf und Selbstvergessenheit 22 Grand-Slam-Titel gewinnen kann. Die Antwort liegt genau hier: Die SO9 schläft nicht &ndash; sie kämpft innerlich dagegen an. Und dieser Kampf treibt sie zu Leistungen, die von außen wie reiner Ehrgeiz wirken.</p>
+          <p class="vb-intro">The <strong>Social Nine (SO9)</strong> is what Naranjo called <em>Participation</em>: peace through belonging, through being embedded in a community, through flowing with the current of life. The SO9 finds its place not through dominance, but through presence &ndash; through the simple act of being there, which gives others stability.</p>
+          <p class="vb-intro">Steffi Graf lived this principle without ever making grand speeches about it. She was not the loudest person in the room. She was not the one who sought interviews or attracted cameras. She played tennis &ndash; with a naturalness as if it were the most ordinary thing in the world. Her sense of belonging belonged to the sport, the game, the movement &ndash; not to the fame that arose as a by-product.</p>
+          <p class=vb-intro>In this regard the SO9 is something special within the Enneagram: she is the <strong>countertype of the Nine</strong>. This means that the Social Nine internally negates her own passion &ndash; inertia &ndash; and works against it. While the self-preservation and sexual Nine express inertia more openly, the SO9 often appears outwardly active, ambitious, and achievement-oriented &ndash; so much so that she is sometimes confused with Type 3. Those who do not know that this energy arises from the negation of inertia do not understand why someone whose core theme is sleep and self-forgetfulness can win 22 Grand Slam titles. The answer lies precisely here: the SO9 does not sleep &ndash; she fights against it internally. And this fight drives her to achievements that from the outside look like pure ambition.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der One-wing: Die stille Pflichterfüllung</h2>
+        <h2 class="vb-section">3. The One-wing: The Quiet Fulfilment of Duty</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>One-wing</strong> verleiht der sozialen Neun eine Qualität, die über bloßes Mitmachen hinausgeht: Disziplin, Prinzipientreue und ein innerer Maßstab, der unabhängig von Außenerwartungen funktioniert. Die <strong>SO9w1</strong> macht nicht, was andere von ihr erwarten &ndash; sie macht, was sie selbst für richtig hält. Und sie macht es gründlich.</p>
-          <p class="vb-intro">Bei Steffi Graf war das spürbar in ihrer Trainingsethik, ihrer Beharrlichkeit und ihrer Fähigkeit, auch nach Rückschlägen &ndash; Verletzungen, persönliche Krisen rund um ihren Vater &ndash; ruhig zurückzukehren und weiterzumachen. Der One-wing gibt der Neun die Fähigkeit zur Selbstkorrektur: nicht als Selbstkritik, sondern als stilles Nachjustieren auf dem Weg zu dem, was sie werden will.</p>
+          <p class="vb-intro">The <strong>One-wing</strong> gives the Social Nine a quality that goes beyond mere participation: discipline, fidelity to principles, and an inner standard that functions independently of external expectations. The <strong>SO9w1</strong> does not do what others expect of her &ndash; she does what she herself considers right. And she does it thoroughly.</p>
+          <p class="vb-intro">In Steffi Graf this was perceptible in her training ethic, her persistence, and her ability to return calmly and carry on even after setbacks &ndash; injuries, personal crises surrounding her father. The One-wing gives the Nine the capacity for self-correction: not as self-criticism, but as quiet re-alignment on the path toward who she wants to become.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Die Leidenschaft: Trägheit als Beharrlichkeit</h2>
+        <h2 class="vb-section">4. The Passion: Inertia as Perseverance</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die Leidenschaft der Neun heißt <strong>Trägheit</strong> &ndash; das Beharren im einmal eingeschlagenen Weg, die Tendenz, im Fluss zu bleiben statt umzuschwenken. Für Steffi Graf hat sich diese Trägheit in das verwandelt, was Menschen Ausdauer nennen: die Fähigkeit, Jahr für Jahr auf höchstem Niveau zu spielen, ohne den inneren Motor abstellen zu müssen.</p>
-          <p class="vb-intro">17 Jahre Profikarriere, davon acht Jahre als Weltranglistenerste. Nicht weil Steffi Graf die Sensation suchte, sondern weil sie einfach weitermachte. Der Büffel wechselt nicht die Richtung, wenn der Wind sich dreht. Er läuft. Und am Ende des Feldes steht er noch &ndash; ruhig, geerdet, unbeeindruckt.</p>
+          <p class="vb-intro">The passion of the Nine is called <strong>Inertia</strong> &ndash; the tendency to stay on the path once chosen, to remain in the flow rather than to change course. For Steffi Graf this inertia transformed into what people call endurance: the ability to play at the highest level year after year without having to shut down the inner engine.</p>
+          <p class="vb-intro">17 years of professional career, eight of them as World No. 1. Not because Steffi Graf sought sensation, but because she simply kept going. The buffalo does not change direction when the wind shifts. It runs. And at the end of the field it still stands &ndash; calm, grounded, unimpressed.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Das Geschenk: Die Stille der Meisterschaft</h2>
+        <h2 class="vb-section">5. The Gift: The Silence of Mastery</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Was Steffi Graf hinterlassen hat, ist mehr als eine Rekordliste. Es ist ein Bild von Meisterschaft, das ohne Lärm auskommt. Sie hat gezeigt, dass man der Größte sein kann &ndash; und dabei bescheiden bleiben. Dass man gewinnen kann, ohne den anderen zu erniedrigen. Dass Sport eine innere Haltung ist und nicht nur eine äußere Leistung.</p>
-          <p class="vb-intro">Das Geschenk der SO9w1 ist diese stille Integrität: die Fähigkeit, präsent zu sein, ohne sich in den Vordergrund zu drängen &ndash; und dabei dennoch unverkennbar zu sein. Steffi Graf braucht keine Geste, um erkannt zu werden. Der Büffel auch nicht. Er ist einfach da &ndash; und alle wissen, wer er ist.</p>
+          <p class="vb-intro">What Steffi Graf left behind is more than a list of records. It is an image of mastery that needs no noise. She showed that you can be the greatest &ndash; and remain humble. That you can win without humiliating the other. That sport is an inner attitude and not merely an outward performance.</p>
+          <p class="vb-intro">The gift of the SO9w1 is this quiet integrity: the ability to be present without pushing to the foreground &ndash; and yet to be unmistakable. Steffi Graf needs no gesture to be recognised. Neither does the buffalo. It is simply there &ndash; and everyone knows who it is.</p>
         </blockquote>
 
       </div>
@@ -9585,8 +9585,8 @@ function steffiGrafPortraitPage() {
       ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
       ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/so9", label:"SO9 – Der Büffel: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/so9", label:"SO9 – The Buffalo: Subtype Profile"},
         {route:"beruehmte-baerbel-bas", label:"Portrait: Bärbel Bas (SE9w1)"},
         {route:"beruehmte-hans-dietrich-genscher", label:"Portrait: Hans-Dietrich Genscher (SE9w8)"},
       ])}
@@ -9604,40 +9604,40 @@ function heikeMakatschPortraitPage() {
           <img src="./assets/portraits/beruehmte-heike-makatsch-portrait.jpg" alt="Heike Makatsch" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Heike Makatsch</p>
-        <p class="krim-portrait-typ">SX9w8 &middot; Sexual Type 9 mit Eight-wing</p>
-        <p class="krim-portrait-subtitle">Schauspielerin, geb. 1971 &ndash; Animal correspondence: Faultier</p>
+        <p class="krim-portrait-typ">SX9w8 &middot; Sexual Type 9 with Eight-wing</p>
+        <p class="krim-portrait-subtitle">Actress, born 1971 &ndash; Animal correspondence: Sloth</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Das Faultier</h2>
+        <h2 class="vb-section">1. The Sloth</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das <strong>Faultier</strong> ist das Tier des sexuellen Typs 9 &ndash; und wer dabei an Passivität denkt, versteht das Faultier falsch. Faultiere sind keine faulen Tiere. Sie sind Meister der Energieeffizienz: Sie warten, bis der richtige Moment kommt &ndash; und dann bewegen sie sich mit einer Präzision und Ausdauer, die überrascht. Ihr Gleichgewicht im Baum ist keine Schwäche. Es ist eine Form von Kontrolle, die nach innen gerichtet ist.</p>
-          <p class="vb-intro">Heike Makatsch trägt diese Qualität auf der Leinwand und dahinter. Sie ist keine Schauspielerin der großen Gesten, der bewusst platzierten Auftritte. Sie ist jemand, der wartet &ndash; auf die richtige Rolle, den richtigen Moment, den richtigen Ton &ndash; und dann vollständig eintaucht. Das Faultier hängt still, bis es sich bewegt. Wenn es sich bewegt, gibt es alles.</p>
+          <p class="vb-intro">The <strong>Sloth</strong> is the animal of Sexual Type 9 &ndash; and those who think of passivity misunderstand the sloth. Sloths are not lazy animals. They are masters of energy efficiency: they wait until the right moment comes &ndash; and then move with a precision and endurance that surprises. Their balance in the tree is not weakness. It is a form of control directed inward.</p>
+          <p class="vb-intro">Heike Makatsch carries this quality on screen and behind it. She is not an actress of grand gestures, of consciously placed appearances. She is someone who waits &ndash; for the right role, the right moment, the right tone &ndash; and then immerses herself completely. The sloth hangs quietly until it moves. When it moves, it gives everything.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die sexuelle Neun: Der Verstärkungstyp</h2>
+        <h2 class="vb-section">2. The Sexual Nine: The Amplifier Type</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>sexuelle Neun (SX9)</strong> nannte Naranjo <em>Union</em>: das Verlangen nach vollständiger Verschmelzung mit dem anderen Menschen, der anderen Welt, der anderen Figur. Unter den drei Neuner-Subtypees ist die SX9 der <strong>Verstärkungstyp</strong>: Sie lebt ihre Neuner-Themen &ndash; Verschmelzung, Selbstvergessenheit, Hingabe &ndash; nicht zurückgehalten, sondern mit maximaler Intensität. Was die selbsterhaltende Neun im Stillen tut und die soziale Neun in der Gruppe verteilt, bringt die sexuelle Neun in ein einziges, vollständiges Eintauchen &ndash; in eine Person, eine Rolle, einen Augenblick.</p>
-          <p class="vb-intro">Bei Heike Makatsch zeigt sich das in einer schauspielerischen Qualität, die Kritiker immer wieder bemerkt haben: Sie verschwindet. In <em>Aimée &amp; Jaguar</em> (1999) spielt sie Felice Schönherr, eine jüdische Frau in der NS-Zeit, die sich leidenschaftlich in eine andere Frau verliebt &ndash; eine Rolle, die totale emotionale Anwesenheit verlangt. Heike Makatsch gibt genau das. Sie ist nicht die Schauspielerin, die eine Figur spielt. Sie ist die Figur &ndash; für die Dauer des Films. Und danach kehrt sie zurück in die Stille, als wäre nichts gewesen.</p>
-          <p class="vb-intro">Dieselbe Energie zeigt sich in ihrer langen, diskreten Privatheit. Jahrelange Relationships, Kinder, ein Leben außerhalb des Rampenlichts &ndash; nicht weil sie sich verweigert, sondern weil die wirkliche Verschmelzung im Privaten stattfindet, nicht vor der Kamera. Die SX9 gibt ihr Intensivtestes dem, was ihr wirklich wichtig ist.</p>
+          <p class="vb-intro">The <strong>Sexual Nine (SX9)</strong> is what Naranjo called <em>Union</em>: the longing for complete merger with the other person, the other world, the other character. Among the three Nine subtypes, the SX9 is the <strong>amplifier type</strong>: she lives her Nine themes &ndash; merger, self-forgetfulness, surrender &ndash; not held back, but with maximum intensity. What the self-preservation Nine does quietly and the social Nine distributes across the group, the sexual Nine brings into a single, complete immersion &ndash; into a person, a role, a moment.</p>
+          <p class="vb-intro">In Heike Makatsch this shows itself in an acting quality that critics have noted again and again: she disappears. In <em>Aimée &amp; Jaguar</em> (1999) she plays Felice Schönherr, a Jewish woman during the Nazi era who falls passionately in love with another woman &ndash; a role that demands total emotional presence. Heike Makatsch gives exactly that. She is not the actress playing a character. She is the character &ndash; for the duration of the film. And afterwards she returns to the silence, as if nothing had happened.</p>
+          <p class="vb-intro">The same energy shows itself in her long, discreet private life. Long-term relationships, children, a life outside the spotlight &ndash; not because she refuses, but because the real merger takes place in private, not in front of the camera. The SX9 gives her most intense self to what truly matters to her.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Eight-wing: Die Kraft hinter der Stille</h2>
+        <h2 class="vb-section">3. The Eight-wing: The Force behind the Silence</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Eight-wing</strong> verändert die sexuelle Neun grundlegend. Wo die <strong>SX9w1</strong> (wie Keanu Reeves) ruhig und prinzipientreu agiert, bringt der Eight-wing eine andere Qualität: Direktheit, Leidenschaft, eine unterschwellige Kraft, die man spürt, ohne dass sie laut wird. Die <strong>SX9w8</strong> ist keine sanfte Verschmelzerin &ndash; sie verschmilzt mit Vehemenz. Sie gibt nicht nach. Sie weicht nicht aus. Und wenn sie in eine Rolle eintaucht, nimmt sie das Ernst bis zur letzten Konsequenz.</p>
-          <p class="vb-intro">Bei Heike Makatsch ist dieser Flügel in ihrer schauspielerischen Wahl ablesbar: Sie wählt schwierige Stoffe. Historische Figuren mit moralischer Komplexität, Charaktere am Rand, Geschichten, die nicht bequem enden. Der Eight-wing gibt der Neun die Fähigkeit, sich der Dunkelheit nicht zu entziehen &ndash; und trotzdem geerdet zu bleiben. Er ist das Rückgrat hinter der Sanftheit: Man spürt, dass da jemand weiß, was er tut &ndash; auch wenn er es leise tut.</p>
+          <p class="vb-intro">The <strong>Eight-wing</strong> fundamentally changes the Sexual Nine. Where the <strong>SX9w1</strong> (like Keanu Reeves) acts calmly and true to principles, the Eight-wing brings a different quality: directness, passion, an undercurrent of force that one feels without it becoming loud. The <strong>SX9w8</strong> is not a gentle merger &ndash; she merges with vehemence. She does not yield. She does not sidestep. And when she immerses herself in a role, she takes it seriously to the last consequence.</p>
+          <p class="vb-intro">In Heike Makatsch this wing is readable in her choice of roles: she chooses difficult material. Historical figures with moral complexity, characters on the margins, stories that do not end comfortably. The Eight-wing gives the Nine the ability to not flee from the darkness &ndash; and yet remain grounded. It is the backbone behind the gentleness: one senses that someone knows what they are doing &ndash; even when they do it quietly.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Die Leidenschaft: Trägheit als Hingabe</h2>
+        <h2 class="vb-section">4. The Passion: Inertia as Surrender</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die Leidenschaft der Neun heißt <strong>Trägheit</strong> &ndash; das Beharren im Strom des Anderen, das Backstellen des eigenen Willens zugunsten der Verbindung. Bei der sexuellen Neun nimmt diese Trägheit eine besondere Form an: Sie erscheint nicht als Passivität, sondern als vollständige Hingabe. Die SX9 <em>will</em> verschwinden &ndash; im Partner, in der Figur, im Werk. Das ist keine Flucht. Das ist ihre höchste Form von Anwesenheit.</p>
-          <p class="vb-intro">Heike Makatsch hat über Jahrzehnte hinweg eine Karriere aufgebaut, die nicht auf Selbstvermarktung basiert, sondern auf Verlässlichkeit und Tiefe. Sie ist keine Medienpersönlichkeit, die ihren Namen zu einer Marke gemacht hat. Sie ist eine Schauspielerin &ndash; und das mit einer Konsequenz, die den Eight-wing sichtbar macht: nicht laut, aber unbedingt.</p>
+          <p class="vb-intro">The passion of the Nine is called <strong>Inertia</strong> &ndash; the tendency to remain in the current of the other, to set aside one's own will in favour of connection. In the Sexual Nine this inertia takes a special form: it does not appear as passivity, but as complete surrender. The SX9 <em>wants</em> to disappear &ndash; in the partner, in the character, in the work. That is not flight. That is her highest form of presence.</p>
+          <p class="vb-intro">Heike Makatsch has built a career over decades that is not based on self-promotion, but on reliability and depth. She is not a media personality who has turned her name into a brand. She is an actress &ndash; and that with a consistency that makes the Eight-wing visible: not loud, but unconditional.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Das Geschenk: Vollständige Anwesenheit</h2>
+        <h2 class="vb-section">5. The Gift: Complete Presence</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Was Heike Makatsch als Schauspielerin auszeichnet, ist auch das, was die SX9w8 in echten Relationships anbieten kann: vollständige Anwesenheit. Kein halbes Eintauchen, kein Abstand halten, kein Sich-Schonen. Die SX9w8 gibt ihr Ganzes &ndash; und der Eight-wing sorgt dafür, dass dieses Ganze auch eine gewisse Kraft hat. Man spürt: Hier ist jemand wirklich dabei.</p>
-          <p class="vb-intro">Das Geschenk der SX9w8 ist diese Verbindung aus Tiefe und Stärke. Heike Makatsch bringt in jede Rolle etwas mit, das nicht einstudiert werden kann: die Fähigkeit, sich aufzugeben, ohne sich zu verlieren. Das Faultier hängt im Baum &ndash; ruhig, geerdet, vollkommen präsent. Es wartet nicht auf den Applaus. Es wartet auf den Moment, in dem es sich bewegen darf. Und dann &ndash; bewegt es sich ganz.</p>
+          <p class="vb-intro">What distinguishes Heike Makatsch as an actress is also what the SX9w8 can offer in real relationships: complete presence. No half-immersion, no keeping distance, no self-protection. The SX9w8 gives her whole self &ndash; and the Eight-wing ensures that this wholeness also carries a certain force. One senses: someone is truly here.</p>
+          <p class="vb-intro">The gift of the SX9w8 is this combination of depth and strength. Heike Makatsch brings something to every role that cannot be rehearsed: the ability to surrender without losing herself. The sloth hangs in the tree &ndash; calm, grounded, completely present. It does not wait for applause. It waits for the moment when it may move. And then &ndash; it moves completely.</p>
         </blockquote>
 
       </div>
@@ -9645,8 +9645,8 @@ function heikeMakatschPortraitPage() {
       ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
       ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/sx9", label:"SX9 – Das Faultier: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/sx9", label:"SX9 – The Sloth: Subtype Profile"},
         {route:"beruehmte-keanu-reeves", label:"Portrait: Keanu Reeves (SX9w1)"},
         {route:"beruehmte-willy-brandt", label:"Portrait: Willy Brandt (SO9w8)"},
       ])}
@@ -9664,41 +9664,41 @@ function keanuReevesPortraitPage() {
           <img src="./assets/portraits/beruehmte-keanu-reeves-portrait.jpg" alt="Keanu Reeves" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Keanu Reeves</p>
-        <p class="krim-portrait-typ">SX9w1 &middot; Sexual Type 9 mit One-wing</p>
-        <p class="krim-portrait-subtitle">Schauspieler, geb. 1964 &ndash; Animal correspondence: Faultier</p>
+        <p class="krim-portrait-typ">SX9w1 &middot; Sexual Type 9 with One-wing</p>
+        <p class="krim-portrait-subtitle">Actor, born 1964 &ndash; Animal correspondence: Sloth</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Das Faultier</h2>
+        <h2 class="vb-section">1. The Sloth</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das <strong>Faultier</strong> ist das Tier des sexuellen Typs 9 &ndash; und kein Bild trifft Keanu Reeves genauer, auch wenn es auf den ersten Blick paradox wirkt: Denn Faultiere sind nicht faul. Sie sind äußerst energiesparend &ndash; sie machen <em>genau das, was nötig ist</em>, mit einem Minimum an Aufwand und einem Maximum an Wirkung. Das Faultier h\xe4ngt still im Baum, bewegt sich kaum &ndash; und niemand kommt auf die Idee, es zu untersch\xe4tzen.</p>
-          <p class="vb-intro">Keanu Reeves ist einer der erfolgreichsten Schauspieler der Welt. Er hat mit <em>The Matrix</em> (1999) eine der ikonischsten Filmfiguren des Kinos verkörpert, mit <em>John Wick</em> eine der intensivsten Actionrollen der letzten Jahrzehnte gespielt &ndash; und ist im wirklichen Leben der Mann, der allein auf einer Parkbank sitzt und ein Sandwich isst. Kein Bodyguard, keine Entourage. Der Faultier-Mensch braucht keine Bühne. Er ist einfach da.</p>
+          <p class="vb-intro">The <strong>Sloth</strong> is the animal of Sexual Type 9 &ndash; and no image fits Keanu Reeves more precisely, even if it seems paradoxical at first glance: for sloths are not lazy. They are extremely energy-efficient &ndash; they do <em>exactly what is necessary</em>, with a minimum of effort and a maximum of effect. The sloth hangs quietly in the tree, barely moving &ndash; and no one gets the idea of underestimating it.</p>
+          <p class="vb-intro">Keanu Reeves is one of the most successful actors in the world. With <em>The Matrix</em> (1999) he embodied one of the most iconic characters in cinema, with <em>John Wick</em> he played one of the most intense action roles of recent decades &ndash; and in real life he is the man who sits alone on a park bench eating a sandwich. No bodyguard, no entourage. The sloth person needs no stage. He is simply there.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die sexuelle Neun: Union</h2>
+        <h2 class="vb-section">2. The Sexual Nine: Union</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>sexuelle Neun (SX9)</strong> nannte Naranjo <em>Union</em>: das tiefe Verlangen nach Verschmelzung &ndash; mit einer Person, einer Rolle, einer Welt, einer Idee. Die SX9 sucht nicht Zugehörigkeit zu einer Gruppe wie die soziale Neun, sondern das vollst\xe4ndige Eintauchen in den anderen Menschen. Sie l\xf6st sich auf &ndash; in den Partner, in den Charakter, in die Stille des Augenblicks.</p>
-          <p class="vb-intro">Keanu Reeves spielt keine Rollen. Er <em>wird</em> sie. Als Neo in <em>The Matrix</em> trainierte er monatelang, lernte Kampfsport auf Profi-Niveau, arbeitete mit buddhistischen Philosophen zusammen, um die existenzielle Leere des Charakters von innen zu verstehen &ndash; nicht nachzuahmen. Als John Wick absolvierte er Tausende Stunden Waffentraining und Combat-Choreographie, bis die Bewegungen keine Technik mehr waren, sondern Körpergedächtnis. Das ist keine Methodik. Das ist SX9-Verschmelzung: Die Rolle ist nicht Mittel zum Zweck &ndash; die Rolle <em>ist</em> er, f\xfcr die Dauer des Films.</p>
-          <p class="vb-intro">Im pers\xf6nlichen Leben zeigt sich dieselbe Qualit\xe4t. Keanu Reeves hat schwere Verluste erlitten &ndash; seine Tochter kam 1999 tot zur Welt, wenige Monate sp\xe4ter starb seine damalige Partnerin Jennifer Syme bei einem Autounfall. Er hat dar\xfcber sich nie \xf6ffentlich ge\xe4u\xdfert, nie Mitleid eingefordert, nie eine Talkshow-Konfession gemacht. Die SX9 tr\xe4gt ihren Schmerz innen. Was nach au\xdfen kommt, ist Stille &ndash; und manchmal, in einem unbeobachteten Moment auf einer Parkbank, ein kurzer Blick, der alles sagt.</p>
+          <p class="vb-intro">The <strong>Sexual Nine (SX9)</strong> is what Naranjo called <em>Union</em>: the deep longing for merger &ndash; with a person, a role, a world, an idea. The SX9 does not seek belonging to a group like the Social Nine, but complete immersion in the other person. She dissolves &ndash; into the partner, into the character, into the silence of the moment.</p>
+          <p class="vb-intro">Keanu Reeves does not play roles. He <em>becomes</em> them. As Neo in <em>The Matrix</em> he trained for months, learned martial arts to professional level, worked with Buddhist philosophers to understand the existential emptiness of the character from the inside &ndash; not to imitate it. As John Wick he completed thousands of hours of weapons training and combat choreography, until the movements were no longer technique, but body memory. This is not methodology. This is SX9 merger: the role is not a means to an end &ndash; the role <em>is</em> him, for the duration of the film.</p>
+          <p class="vb-intro">The same quality shows itself in his personal life. Keanu Reeves has endured severe losses &ndash; his daughter was stillborn in 1999, and a few months later his then-partner Jennifer Syme died in a car accident. He has never spoken about it publicly, never asked for sympathy, never made a talk-show confession. The SX9 carries her pain inward. What reaches the outside is silence &ndash; and sometimes, in an unobserved moment on a park bench, a brief look that says everything.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der One-wing: Das stille Prinzip</h2>
+        <h2 class="vb-section">3. The One-wing: The Quiet Principle</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>One-wing</strong> verleiht der sexuellen Neun eine innere Haltung, die \xfcber blo\xdfes Mitmachen hinausgeht: ein Gef\xfchl f\xfcr Richtigkeit, f\xfcr das, was man schuldet &ndash; dem Beruf, den Menschen, dem Augenblick. Die <strong>SX9w1</strong> ist nicht einfach nur ruhig. Sie hat Prinzipien. Sie wei\xdf, was sie nicht tut.</p>
-          <p class="vb-intro">Keanu Reeves hat f\xfcr <em>The Matrix</em> einen Teil seines Gewinnanteils freiwillig an die Spezialeffekt- und Kostümabteilung abgetreten &ndash; Berichten zufolge bis zu 80 Millionen Dollar. Er ist daf\xfcr nicht auf die B\xfchne gegangen. Er hat kein Interview gegeben. Er hat einfach entschieden, dass das richtig ist, und es getan. Das ist der Einserfl\xfcgel in Aktion: Gerechtigkeit nicht als Pose, sondern als stille Selbstverst\xe4ndlichkeit.</p>
-          <p class="vb-intro">Er kaufte seinen Stunt-Doubles Motorr\xe4der als Geschenk. Er benutzt die New Yorker U-Bahn und gibt seinen Sitzplatz an \xe4ltere Mitreisende ab. Er bringt Kaffee und Donuts ans Filmset. Diese Handlungen sind keine PR-Strategie &ndash; sie wurden von anderen bemerkt und berichtet, nicht von ihm selbst. Der Einserfl\xfcgel macht das Richtige dann, wenn niemand hinschaut. Genau dann.</p>
+          <p class="vb-intro">The <strong>One-wing</strong> gives the Sexual Nine an inner attitude that goes beyond mere participation: a sense of rightness, of what one owes &ndash; to one's profession, to people, to the moment. The <strong>SX9w1</strong> is not simply calm. She has principles. She knows what she does not do.</p>
+          <p class="vb-intro">Keanu Reeves voluntarily gave up part of his profit share from <em>The Matrix</em> to the special effects and costume departments &ndash; reportedly up to 80 million dollars. He did not go on stage for this. He gave no interview. He simply decided it was right and did it. That is the One-wing in action: justice not as a pose, but as quiet self-evidence.</p>
+          <p class="vb-intro">He bought his stunt doubles motorcycles as gifts. He uses the New York subway and gives up his seat to older passengers. He brings coffee and donuts to the film set. These actions are not a PR strategy &ndash; they were noticed and reported by others, not by him. The One-wing does the right thing when no one is watching. Precisely then.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Die Leidenschaft: Trägheit als Tiefe</h2>
+        <h2 class="vb-section">4. The Passion: Inertia as Depth</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die Leidenschaft der Neun hei\xdft <strong>Tr\xe4gheit</strong> &ndash; nicht Faulheit, sondern eine Schwerkraft nach innen: die Neigung, im Strom zu bleiben statt aufzutauchen, die eigene Stimme im Hintergrund zu lassen, das eigene Wollen nicht zu stark in den Vordergrund zu stellen. Die Neun schläft nicht &ndash; aber sie flüstert, wo andere schreien.</p>
-          <p class="vb-intro">Bei Keanu Reeves zeigt sich das in seiner bemerkenswerten Abwesenheit vom Betrieb des Ruhms. Er gibt keine Interviews, die er nicht geben muss. Er erscheint nicht auf Veranstaltungen, auf denen er nicht sein muss. Er redet nicht \xfcber sich selbst &ndash; er redet \xfcber die Figur, die Geschichte, die Crew. Die SX9-Tr\xe4gheit ist kein R\xfcckzug aus dem Leben, sondern ein R\xfcckzug aus dem Spektakel. Das Leben selbst &ndash; die echten Begegnungen, die stillen Momente, die tiefe Verbindung &ndash; das interessiert ihn.</p>
+          <p class="vb-intro">The passion of the Nine is called <strong>Inertia</strong> &ndash; not laziness, but a gravity directed inward: the tendency to stay in the current rather than surface, to keep one's own voice in the background, not to push one's own will too strongly to the fore. The Nine does not sleep &ndash; but she whispers where others shout.</p>
+          <p class="vb-intro">In Keanu Reeves this shows itself in his remarkable absence from the business of fame. He gives no interviews he does not have to give. He does not appear at events he does not have to attend. He does not talk about himself &ndash; he talks about the character, the story, the crew. The SX9 inertia is not a withdrawal from life, but a withdrawal from the spectacle. Life itself &ndash; the real encounters, the quiet moments, the deep connection &ndash; that is what interests him.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Das Geschenk: Der Spiegel ohne Rahmen</h2>
+        <h2 class="vb-section">5. The Gift: The Mirror Without a Frame</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Was Keanu Reeves auf der Leinwand so wirkungsvoll macht, ist paradoxerweise genau das, was ihn au\xdferhalb der Leinwand so unauff\xe4llig erscheinen l\xe4sst: Er enth\xe4lt sich selbst. Er bringt das Minimum an Pers\xf6nlichkeit mit, das n\xf6tig ist &ndash; und l\xe4sst die Figur den Rest f\xfcllen. Das Publikum kann sich in Neo oder John Wick hineinsehen, weil Reeves keine Barriere errichtet. Er ist ein Spiegel &ndash; aber einer ohne Rahmen.</p>
-          <p class="vb-intro">Das Geschenk der SX9w1 ist diese Pr\xe4senz ohne Anspruch: die F\xe4higkeit, vollst\xe4ndig anwesend zu sein, ohne die Aufmerksamkeit auf sich selbst zu lenken &ndash; und dabei Menschen zu ber\xfchren, die es nicht einmal erklären können. Keanu Reeves ist seit Jahrzehnten einer der bekanntesten Menschen der Welt &ndash; und die meisten Menschen w\xfcrden ihn, wenn sie ihm auf der Stra\xdfe begegnen w\xfcrden, zuerst fragen, ob es ihm gut geht. Das Faultier macht keinen Lärm. Aber es hinterl\xe4sst eine Stille, die noch lange nachklingt.</p>
+          <p class="vb-intro">What makes Keanu Reeves so effective on screen is paradoxically exactly what makes him appear so inconspicuous off screen: he withholds himself. He brings the minimum of personality that is necessary &ndash; and lets the character fill in the rest. The audience can see itself in Neo or John Wick because Reeves erects no barrier. He is a mirror &ndash; but one without a frame.</p>
+          <p class="vb-intro">The gift of the SX9w1 is this presence without demand: the ability to be completely present without directing attention toward oneself &ndash; and in doing so to touch people who cannot even explain it. Keanu Reeves has been one of the best-known people in the world for decades &ndash; and most people, if they encountered him on the street, would first ask if he was doing all right. The sloth makes no noise. But it leaves behind a silence that resonates long after.</p>
         </blockquote>
 
       </div>
@@ -9706,10 +9706,10 @@ function keanuReevesPortraitPage() {
       ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
       ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/sx9", label:"SX9 – Das Faultier: Subtype-Profil"},
-        {route:"beruehmte-willy-brandt", label:"Portr\xe4t: Willy Brandt (SO9w8)"},
-        {route:"beruehmte-steffi-graf", label:"Portr\xe4t: Steffi Graf (SO9w1)"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/sx9", label:"SX9 – The Sloth: Subtype Profile"},
+        {route:"beruehmte-willy-brandt", label:"Portrait: Willy Brandt (SO9w8)"},
+        {route:"beruehmte-steffi-graf", label:"Portrait: Steffi Graf (SO9w1)"},
       ])}
     </div>
   `);
@@ -9718,49 +9718,49 @@ function keanuReevesPortraitPage() {
 function willyBrandtPortraitPage() {
   return shell(`
     <div class="page-container">
-      ${pageHeader("Ber\u00fchmte Pers\u00f6nlichkeiten")}
+      ${pageHeader("Famous Personalities")}
       <div id="js-back-target" data-route="beruehmte-persoenlichkeiten" style="display:none;"></div>
       <div class="krim-portrait-wrap">
         <div class="krim-portrait-frame">
           <img src="./assets/portraits/beruehmte-willy-brandt-portrait.jpg" alt="Willy Brandt" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Willy Brandt</p>
-        <p class="krim-portrait-typ">SO9w8 &middot; Social Type 9 mit Achterfl\u00fcgel</p>
-        <p class="krim-portrait-subtitle">Bundeskanzler, Friedensnobelpreis 1971, geb. 1913 &ndash; Animal correspondence: B\u00fcffel</p>
+        <p class="krim-portrait-typ">SO9w8 &middot; Social Type 9 with Eight-wing</p>
+        <p class="krim-portrait-subtitle">Federal Chancellor, Nobel Peace Prize 1971, born 1913 &ndash; Animal correspondence: Buffalo</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der B\u00fcffel</h2>
+        <h2 class="vb-section">1. The Buffalo</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>B\u00fcffel</strong> ist das Tier des sozialen Typs 9 &ndash; und kaum eine Pers\u00f6nlichkeit des 20. Jahrhunderts verk\u00f6rpert dieses Bild so vollst\u00e4ndig wie Willy Brandt. Der B\u00fcffel ist ein Tier der Herde: gro\u00df, geerdet, still im Inneren. Er trumpft nicht auf, er dominiert nicht durch L\u00e4rm. Er ist einfach da &ndash; massiv, verl\u00e4sslich, unerschütterlich. Und wenn er sich in Bewegung setzt, h\u00e4lt ihn nichts auf.</p>
-          <p class="vb-intro">Am 7. Dezember 1970 kniete Willy Brandt vor dem Mahnmal des Warschauer Ghettos. Kein Wort. Keine Geste des \u00dcberlegens &ndash; er lie\u00df sich einfach nieder, im Regen, auf den Knien, und schwieg. Minuten lang. Das war kein diplomatischer Akt, kein Protokoll, keine Regieanweisung. Es war ein B\u00fcffel, der sich vor dem beugte, was war &ndash; und damit ein ganzes Volk repr\u00e4sentierte. Dieser Kniefall ging um die Welt. Er ist bis heute eines der m\u00e4chtigsten Bilder der deutschen Nachkriegsgeschichte.</p>
+          <p class="vb-intro">The <strong>Buffalo</strong> is the animal of Social Type 9 &ndash; and few personalities of the 20th century embody this image as completely as Willy Brandt. The buffalo is a herd animal: large, grounded, still within. It does not boast, it does not dominate through noise. It is simply there &ndash; massive, reliable, unshakeable. And when it starts moving, nothing stops it.</p>
+          <p class="vb-intro">On 7 December 1970, Willy Brandt knelt before the memorial to the Warsaw Ghetto. Not a word. No gesture of deliberation &ndash; he simply lowered himself, in the rain, onto his knees, and remained silent. For minutes. That was not a diplomatic act, no protocol, no stage direction. It was a buffalo bowing before what had been &ndash; and in doing so representing an entire people. This act of kneeling went around the world. To this day it is one of the most powerful images of German post-war history.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die soziale Neun: Partizipation</h2>
+        <h2 class="vb-section">2. The Social Nine: Participation</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>soziale Neun (SO9)</strong> nannte Naranjo <em>Partizipation</em>: Frieden durch Zugeh\u00f6rigkeit, durch das Eingebundensein in eine Gemeinschaft, in eine Bewegung, in etwas Gr\u00f6\u00dferes als das eigene Ich. Die SO9 sucht ihren Platz nicht durch Dominanz, sondern durch Anwesenheit und Dienst &ndash; durch das Einstehen f\u00fcr eine Gemeinschaft, die sie als ihre eigene empfindet.</p>
-          <p class="vb-intro">Willy Brandts Leben war von Anfang an ein Leben im Dienst einer Sache. Als Herbert Ernst Karl Frahm in Lübeck geboren, schloss er sich fr\u00fch der Sozialistischen Arbeiterjugend an. Im Widerstand gegen den Nationalsozialismus lebte er unter falschem Namen &ndash; er nannte sich Willy Brandt, ein Name, der sp\u00e4ter zu seinem offiziellen wurde. Im norwegischen und schwedischen Exil k\u00e4mpfte er weiter &ndash; nicht f\u00fcr sich selbst, sondern f\u00fcr das, was er f\u00fcr das eigentliche Deutschland hielt. Diese Energie, sich einer gr\u00f6\u00dferen Sache anzuschlie\u00dfen und f\u00fcr sie einzustehen, pr\u00e4gte sein gesamtes politisches Leben.</p>
-          <p class="vb-intro">Die SO9 ist der <strong>Kontratyp der Neun</strong>: Sie negiert ihre eigene Leidenschaft &ndash; die Tr\u00e4gheit &ndash; und arbeitet innerlich gegen sie an. Nach au\u00dfen wirkt sie dadurch oft aktiv, entschlossen, fast leidenschaftlich. Willy Brandt, der ber\u00fchmteste Kanzler der sozialen Neun, war kein scheu-passiver Mensch: Er verhandelte, reiste, sprach &ndash; aber immer im Dienst des Friedens, immer f\u00fcr die Gemeinschaft. Die Kraft, die ihn antrieb, war nicht Ehrgeiz um seiner selbst willen, sondern das tiefe Bed\u00fcrfnis, dazuzugeh\u00f6ren &ndash; und etwas beizutragen.</p>
+          <p class="vb-intro">The <strong>Social Nine (SO9)</strong> is what Naranjo called <em>Participation</em>: peace through belonging, through being embedded in a community, in a movement, in something larger than the self. The SO9 finds its place not through dominance, but through presence and service &ndash; through standing up for a community it feels as its own.</p>
+          <p class="vb-intro">Willy Brandt's life was from the very beginning a life in service of a cause. Born Herbert Ernst Karl Frahm in Lübeck, he joined the Socialist Workers' Youth early on. In the resistance against National Socialism he lived under a false name &ndash; he called himself Willy Brandt, a name that later became his official one. In Norwegian and Swedish exile he continued to fight &ndash; not for himself, but for what he considered the true Germany. This energy of joining a larger cause and standing up for it shaped his entire political life.</p>
+          <p class="vb-intro">The SO9 is the <strong>countertype of the Nine</strong>: she negates her own passion &ndash; inertia &ndash; and works against it internally. Outwardly she therefore often appears active, resolute, almost passionate. Willy Brandt, the most famous chancellor of the Social Nine, was not a shy and passive man: he negotiated, travelled, spoke &ndash; but always in service of peace, always for the community. The force that drove him was not ambition for its own sake, but the deep need to belong &ndash; and to contribute something.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Achterfl\u00fcgel: R\u00fcckgrat und Entschlossenheit</h2>
+        <h2 class="vb-section">3. The Eight-wing: Backbone and Resolve</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Achterfl\u00fcgel</strong> verleiht der sozialen Neun etwas, das die reine Neun oft vermisst: R\u00fcckgrat. Durchsetzungswillen. Die F\u00e4higkeit, unbequeme Wahrheiten auszusprechen und sich gegen Widerstand nicht wegzuducken. Die <strong>SO9w8</strong> ist kein Weichspüler: Wenn sie von etwas \u00fcberzeugt ist, setzt sie es durch &ndash; ruhig, bestimmt, mit der Kraft des B\u00fcffels.</p>
-          <p class="vb-intro">Brandts <em>Neue Ostpolitik</em> &ndash; die Normalisierung der Relationships zu Ostdeutschland, Polen und der Sowjetunion &ndash; war kein popul\u00e4rer Schritt. Ein gro\u00dfer Teil der westdeutschen \u00d6ffentlichkeit lehnte sie ab. Die CDU/CSU sprach von Verrat. Der Achterfl\u00fcgel lie\u00df ihn standhalten. Er verhandelte, er reiste, er unterschrieb &ndash; den Warschauer Vertrag (1970), den Moskauer Vertrag (1970), den Grundlagenvertrag mit der DDR (1972). Nicht weil es einfach war, sondern weil er es f\u00fcr richtig hielt und die Kraft hatte, diesen \u00dcberzeugungen treu zu bleiben.</p>
-          <p class="vb-intro">1972 gewann die SPD unter Brandt die Bundestagswahl mit dem h\u00f6chsten Stimmenanteil ihrer Geschichte bis dahin: 45,8 Prozent. Das B\u00fcffelnatur des Achterfl\u00fcgels hatte sich bew\u00e4hrt: Wer klar bleibt, gewinnt das Vertrauen &ndash; auch wenn er zun\u00e4chst auf Widerstand st\u00f6\u00dft.</p>
+          <p class="vb-intro">The <strong>Eight-wing</strong> gives the Social Nine something the pure Nine often lacks: backbone. The will to assert. The ability to speak uncomfortable truths and not duck away from resistance. The <strong>SO9w8</strong> is no pushover: when she is convinced of something, she sees it through &ndash; calmly, firmly, with the force of the buffalo.</p>
+          <p class="vb-intro">Brandt's <em>Neue Ostpolitik</em> &ndash; the normalisation of relations with East Germany, Poland, and the Soviet Union &ndash; was not a popular step. A large part of the West German public rejected it. The CDU/CSU spoke of betrayal. The Eight-wing let him stand firm. He negotiated, he travelled, he signed &ndash; the Warsaw Treaty (1970), the Moscow Treaty (1970), the Basic Treaty with the GDR (1972). Not because it was easy, but because he considered it right and had the strength to remain faithful to these convictions.</p>
+          <p class="vb-intro">In 1972 the SPD under Brandt won the Bundestag election with the highest vote share in its history to that point: 45.8 percent. The buffalo nature of the Eight-wing had proved itself: those who remain clear earn trust &ndash; even when they initially encounter resistance.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Die Leidenschaft: Tr\u00e4gheit als Beharrlichkeit</h2>
+        <h2 class="vb-section">4. The Passion: Inertia as Perseverance</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die Leidenschaft der Neun hei\u00dft <strong>Tr\u00e4gheit</strong> &ndash; das Beharren im einmal eingeschlagenen Weg, die Tendenz, im Strom zu bleiben statt umzuschwenken. F\u00fcr Willy Brandt verwandelte sich diese Tr\u00e4gheit in das, was man Ausdauer nennt: Ein Leben im Dienst der Sozialdemokratie, des Friedens, der Versöhnung.</p>
-          <p class="vb-intro">Er war von 1964 bis 1987 &ndash; mehr als zwei Jahrzehnte &ndash; Vorsitzender der SPD. Er leitete die Sozialistische Internationale von 1976 bis zu seinem Tod 1992. Selbst nach seinem R\u00fccktritt als Bundeskanzler 1974, ausgel\u00f6st durch die Guillaume-Aff\u00e4re (sein enger Mitarbeiter G\u00fcnter Guillaume stellte sich als DDR-Spion heraus), zog er sich nicht zur\u00fcck: Er arbeitete weiter. Die Brandt-Kommission, die 1980 den Bericht \u201eNord-S\u00fcd: Ein \u00dcberlebensprogramm\u201c ver\u00f6ffentlichte, war sein Beitrag zur globalen Gerechtigkeitsdebatte. Der B\u00fcffel h\u00f6rt nicht auf zu laufen &ndash; auch wenn das Feld sich ver\u00e4ndert hat.</p>
+          <p class="vb-intro">The passion of the Nine is called <strong>Inertia</strong> &ndash; the tendency to stay on the path once chosen, to remain in the current rather than change course. For Willy Brandt this inertia transformed into what people call endurance: a life in service of social democracy, peace, reconciliation.</p>
+          <p class="vb-intro">He was SPD chairman from 1964 to 1987 &ndash; more than two decades. He led the Socialist International from 1976 until his death in 1992. Even after his resignation as Federal Chancellor in 1974, triggered by the Guillaume Affair (his close aide Günter Guillaume turned out to be an East German spy), he did not withdraw: he kept working. The Brandt Commission, which published its report \u201eNord-S\u00fcd: Ein \u00dcberlebensprogramm\u201c in 1980, was his contribution to the global justice debate. The buffalo does not stop running &ndash; even when the field has changed.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Das Geschenk: Stille, die Geschichte schreibt</h2>
+        <h2 class="vb-section">5. The Gift: Silence That Writes History</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Was Willy Brandt hinterlassen hat, ist ein Bild von politischer Gr\u00f6\u00dfe, das ohne Selbstdarstellung auskommt. Der Kniefall von Warschau war das Gegenteil einer Inszenierung: Es war ein Mensch, der in einem Augenblick vollst\u00e4ndig anwesend war &ndash; f\u00fcr das, was war, und f\u00fcr das, was h\u00e4tte anders sein k\u00f6nnen. Die japanische Presse schrieb damals: \u201eEin Mann, der es nicht n\u00f6tig hatte zu knien, kniete f\u00fcr alle, die es n\u00f6tig gehabt h\u00e4tten und nicht knieten.\u201c</p>
-          <p class="vb-intro">Das Geschenk der SO9w8 ist diese Verbindung: die Stille der Neun und die Kraft der Acht. Willy Brandt hat beides vereint &ndash; die F\u00e4higkeit, still zu sein, wenn Stille m\u00e4chtiger ist als jedes Wort, und die Entschlossenheit, nicht nachzugeben, wenn Entschlossenheit gefordert ist. Der B\u00fcffel l\u00e4uft nicht, weil er mu\u00df. Er l\u00e4uft, weil er ein Teil von etwas ist &ndash; und weil er wei\u00df, dass dieser Teil z\u00e4hlt.</p>
-          <p class="vb-intro">1971 erhielt Willy Brandt den Friedensnobelpreis. In seiner Dankesrede sagte er: \u201eIch halte Frieden f\u00fcr m\u00f6glich &ndash; ich halte ihn sogar f\u00fcr m\u00f6glich zwischen M\u00e4nnern, die noch gestern Feinde waren.\u201c Das ist kein Satz eines Realisten. Das ist ein Satz des sozialen Typs 9: Frieden als tiefste \u00dcberzeugung &ndash; und der Mut des Achterfl\u00fcgels, diese \u00dcberzeugung zur Politik zu machen.</p>
+          <p class="vb-intro">What Willy Brandt left behind is an image of political greatness that needs no self-display. The Warsaw Genuflection was the opposite of a staged gesture: it was a person who was completely present in one moment &ndash; for what had been, and for what could have been different. The Japanese press wrote at the time: \u201eA man who had no need to kneel, knelt for all those who needed to and did not.\u201c</p>
+          <p class="vb-intro">The gift of the SO9w8 is this combination: the silence of the Nine and the force of the Eight. Willy Brandt united both &ndash; the ability to be silent when silence is more powerful than any word, and the resolve not to yield when resolve is demanded. The buffalo does not run because it must. It runs because it is part of something &ndash; and because it knows that this part counts.</p>
+          <p class="vb-intro">In 1971 Willy Brandt received the Nobel Peace Prize. In his acceptance speech he said: \u201eI consider peace possible &ndash; I consider it even possible between men who were still enemies yesterday.\u201c That is not the sentence of a realist. That is a sentence of Social Type 9: peace as the deepest conviction &ndash; and the courage of the Eight-wing to turn this conviction into policy.</p>
         </blockquote>
 
       </div>
@@ -9768,10 +9768,10 @@ function willyBrandtPortraitPage() {
       ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
       ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle ber\u00fchmten Pers\u00f6nlichkeiten"},
-        {route:"subtype/so9", label:"SO9 \u2013 Der B\u00fcffel: Subtype-Profil"},
-        {route:"beruehmte-hans-dietrich-genscher", label:"Portr\u00e4t: Hans-Dietrich Genscher (SE9w8)"},
-        {route:"beruehmte-steffi-graf", label:"Portr\u00e4t: Steffi Graf (SO9w1)"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/so9", label:"SO9 – The Buffalo: Subtype Profile"},
+        {route:"beruehmte-hans-dietrich-genscher", label:"Portrait: Hans-Dietrich Genscher (SE9w8)"},
+        {route:"beruehmte-steffi-graf", label:"Portrait: Steffi Graf (SO9w1)"},
       ])}
     </div>
   `);
@@ -9787,39 +9787,39 @@ function baerbelBasPortraitPage() {
           <img src="./assets/portraits/beruehmte-baerbel-bas-portrait.jpg" alt="Bärbel Bas" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Bärbel Bas</p>
-        <p class="krim-portrait-typ">SE9w1 &middot; Self-Preservation Type 9 mit One-wing</p>
-        <p class="krim-portrait-subtitle">Politikerin, Bundestagspräsidentin seit 2021, geb. 1968 &ndash; Animal correspondence: Elefant</p>
+        <p class="krim-portrait-typ">SE9w1 &middot; Self-Preservation Type 9 with One-wing</p>
+        <p class="krim-portrait-subtitle">Politician, President of the Bundestag since 2021, born 1968 &ndash; Animal correspondence: Elephant</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der Elefant</h2>
+        <h2 class="vb-section">1. The Elephant</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Elefant</strong> ist das Tier des Typs 9 &ndash; und kaum ein Bild trifft Bärbel Bas besser. Der Elefant ist kein Tier des Spektakels. Er ist kein Tier der Eitelkeit. Er ist ein Tier der Ausdauer, des Gedächtnisses und der stillen Präsenz, die man nicht übersehen kann, auch wenn man es versucht. Der Elefant braucht keinen Lärm, um zu wirken &ndash; seine bloße Anwesenheit verändert den Raum.</p>
-          <p class="vb-intro">Bärbel Bas hat genau diese Qualität. Die Bundestagspräsidentin aus Duisburg ist keine Politikerin, die mit großen Gesten auffällt. Sie ist eine, die durch Verlässlichkeit wirkt, durch Fairness, durch das beharrliche Bemühen um Ordnung in einem Haus, das zunehmend unruhiger geworden ist. Der Elefant hütet die Herde. Bärbel Bas hütet das Parlament.</p>
+          <p class="vb-intro">The <strong>Elephant</strong> is the animal of Type 9 &ndash; and few images fit Bärbel Bas better. The elephant is not a spectacle animal. It is not a vanity animal. It is an animal of endurance, memory, and the quiet presence that cannot be overlooked, even when one tries. The elephant needs no noise to have an effect &ndash; its mere presence changes the room.</p>
+          <p class="vb-intro">Bärbel Bas has exactly this quality. The President of the Bundestag from Duisburg is not a politician who stands out through grand gestures. She is one who works through reliability, through fairness, through the persistent effort to maintain order in a chamber that has grown increasingly restless. The elephant guards the herd. Bärbel Bas guards the parliament.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die selbsterhaltende Neun: Appetit</h2>
+        <h2 class="vb-section">2. The Self-Preservation Nine: Appetite</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>selbsterhaltende Neun (SE9)</strong> nannte Naranjo <em>Appetit</em>: Die SE9 sucht Frieden und Beharrlichkeit durch den Körper &ndash; durch Rhythmus, Routine, Vertrautheit, durch das Genießen der kleinen, sicheren Dinge des Lebens. Sie ist kein Aufsteiger und kein Revolutionär. Sie ist jemand, der seinen Platz kennt, seine Aufgabe kennt und diese Aufgabe mit ruhiger Konsequenz erfüllt.</p>
-          <p class="vb-intro">Bärbel Bas verkörpert diese Energie in der deutschen Politik: aufgewachsen in Duisburg-Walsum als Tochter einer Arbeiterfamilie, ausgebildet zur Krankenversicherungsfachangestellten, jahrelang in der Gesundheitspolitik tätig &ndash; ohne glamouröse Karrieresprünge, ohne mediale Inszenierung. Die SE9 arbeitet. Sie arbeitet stetig, verlässlich und ohne Aufhebens &ndash; und auf einmal ist sie da, wo niemand sie erwartet hatte.</p>
+          <p class="vb-intro">The <strong>Self-Preservation Nine (SE9)</strong> is what Naranjo called <em>Appetite</em>: the SE9 seeks peace and persistence through the body &ndash; through rhythm, routine, familiarity, through enjoying the small, safe things in life. She is not a climber and not a revolutionary. She is someone who knows her place, knows her task, and fulfils this task with quiet consistency.</p>
+          <p class="vb-intro">Bärbel Bas embodies this energy in German politics: growing up in Duisburg-Walsum as the daughter of a working-class family, trained as a health insurance specialist, active in health policy for years &ndash; without glamorous career leaps, without media staging. The SE9 works. She works steadily, reliably, and without fuss &ndash; and suddenly she is where no one expected her.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der One-wing: Die Pflicht zur Form</h2>
+        <h2 class="vb-section">3. The One-wing: The Duty to Form</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>One-wing</strong> verleiht der selbsterhaltenden Neun eine besondere Qualität: ein Gefühl für Ordnung, für das Richtige, für die Form, die den Inhalt erst möglich macht. Die <strong>SE9w1</strong> ist nicht nur geduldig &ndash; sie ist auch prinzipientreu. Sie duldet keine Willkür, kein Chaos aus Bequemlichkeit, keine Ungerechtigkeit, die man einfach übersehen könnte.</p>
-          <p class="vb-intro">Als Bundestagspräsidentin hat Bärbel Bas diesen Flügel deutlich gezeigt. Sie leitet das Parlament mit ruhiger Bestimmtheit, greift durch, wenn die Grenze des Sagbaren überschritten wird, und besteht auf den Regeln des Hauses &ndash; nicht aus Pedanterie, sondern weil sie weiß, dass ohne Form keine echte Debatte möglich ist. Der One-wing gibt ihr den Mut zu sagen: Bis hierher und nicht weiter.</p>
+          <p class="vb-intro">The <strong>One-wing</strong> gives the Self-Preservation Nine a special quality: a sense of order, of what is right, of the form that first makes content possible. The <strong>SE9w1</strong> is not only patient &ndash; she is also true to principles. She tolerates no arbitrariness, no chaos born of convenience, no injustice that could simply be overlooked.</p>
+          <p class="vb-intro">As President of the Bundestag, Bärbel Bas has shown this wing clearly. She chairs the parliament with quiet firmness, intervenes when the limits of acceptable speech are crossed, and insists on the rules of the chamber &ndash; not out of pedantry, but because she knows that without form no genuine debate is possible. The One-wing gives her the courage to say: this far and no further.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Die Leidenschaft: Trägheit als Schutz</h2>
+        <h2 class="vb-section">4. The Passion: Inertia as Protection</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die Leidenschaft der Neun heißt <strong>Trägheit</strong> &ndash; aber nicht im Sinne von Faulheit. Es ist eine innere Trägheit, ein Beharren im Bestehenden, eine Tendenz, den eigenen Willen und die eigenen Bedürfnisse zu übersehen, um den Frieden nicht zu gefährden. Die Neun schläft nicht. Sie schlummert &ndash; und wartet darauf, dass der Moment kommt, in dem sie aufwacht.</p>
-          <p class="vb-intro">Bei Bärbel Bas zeigt sich die Überwindung dieser Trägheit in ihrem politischen Weg: Es hat lange gedauert, bis sie in den Vordergrund getreten ist. Jahrzehntelange stille Arbeit, bis 2021 der Schritt an die Spitze des Bundestags kam &ndash; ein Amt, das sie nicht gesucht hat, aber das sie mit einer Konsequenz ausfüllt, die zeigt, dass die Neun, wenn sie erst einmal erwacht ist, unerschütterlich sein kann.</p>
+          <p class="vb-intro">The passion of the Nine is called <strong>Inertia</strong> &ndash; but not in the sense of laziness. It is an inner inertia, a tendency to stay with the existing, an inclination to overlook one's own will and one's own needs so as not to endanger the peace. The Nine does not sleep. She slumbers &ndash; and waits for the moment to come when she wakes.</p>
+          <p class="vb-intro">In Bärbel Bas the overcoming of this inertia shows itself in her political path: it took a long time before she stepped into the foreground. Decades of quiet work, until 2021 brought the step to the top of the Bundestag &ndash; an office she did not seek, but which she fills with a consistency that shows that the Nine, once awakened, can be unshakeable.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Das Geschenk: Die Stille, die bindet</h2>
+        <h2 class="vb-section">5. The Gift: The Silence That Binds</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Was Bärbel Bas in das Amt der Bundestagspräsidentin mitgebracht hat, ist etwas, das selten geworden ist: die Fähigkeit, alle gleich zu behandeln. Nicht als abstraktes Prinzip, sondern als gelebte Haltung. Sie ist nicht Parteipoliitikerin am Rednerpult &ndash; sie ist Gastgeberin des Hauses. Sie hört zu, bevor sie spricht. Sie wägt ab, bevor sie entscheidet.</p>
-          <p class="vb-intro">Das Geschenk der SE9w1 ist diese integrierende Kraft: die Fähigkeit, Menschen zusammenzuhalten, die eigentlich auseinanderdriften wollen, und dem Diskurs einen Rahmen zu geben, in dem er überhaupt stattfinden kann. Der Elefant erinnert sich an alles. Er vergisst keine Ungerechtigkeit &ndash; aber er macht nicht jeden Tag Theater darüber. Er trägt. Still, beharrlich und ohne Applaus zu brauchen.</p>
+          <p class="vb-intro">What Bärbel Bas has brought to the office of President of the Bundestag is something that has become rare: the ability to treat everyone equally. Not as an abstract principle, but as a lived attitude. She is not a party politician at the podium &ndash; she is the host of the chamber. She listens before she speaks. She weighs before she decides.</p>
+          <p class="vb-intro">The gift of the SE9w1 is this integrating force: the ability to hold together people who actually want to drift apart, and to give discourse a framework within which it can take place at all. The elephant remembers everything. It forgets no injustice &ndash; but it does not make a scene about it every day. It carries. Quietly, persistently, and without needing applause.</p>
         </blockquote>
 
       </div>
@@ -9827,8 +9827,8 @@ function baerbelBasPortraitPage() {
       ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
       ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/se9", label:"SE9 – Der Elefant: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/se9", label:"SE9 – The Elephant: Subtype Profile"},
         {route:"kriminalpsychologie-alfons-schuhbeck", label:"Portrait: Alfons Schuhbeck (SE9w1)"},
       ])}
     </div>
@@ -9845,41 +9845,41 @@ function herbertGroenomeyerPortraitPage() {
           <img src="./assets/portraits/beruehmte-herbert-groenemeyer-portrait.jpg" alt="Erdmännchen" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Herbert Grönemeyer</p>
-        <p class="krim-portrait-typ">SO6w7 &middot; Social Type 6 mit Seven-wing</p>
-        <p class="krim-portrait-subtitle">Musiker, Komponist &amp; Schauspieler, geb. 1956 &ndash; Animal correspondence: Erdmännchen</p>
+        <p class="krim-portrait-typ">SO6w7 &middot; Social Type 6 with Seven-wing</p>
+        <p class="krim-portrait-subtitle">Musician, Composer &amp; Actor, born 1956 &ndash; Animal correspondence: Meerkat</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Das Erdmännchen</h2>
+        <h2 class="vb-section">1. The Meerkat</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das <strong>Erdmännchen</strong> ist das Tier des sozialen Typs 6 &ndash; wachsam, loyal, tief in der Gemeinschaft verwurzelt. Es lebt nicht für sich. Es lebt mit und für die anderen. Wenn Gefahr droht, schlägt es Alarm. Wenn die Gruppe in Not ist, bleibt es. Und wenn es einen Verlust gibt &ndash; es steht wieder auf, weil die Gemeinschaft es braucht.</p>
-          <p class="vb-intro">Herbert Grönemeyer ist dieses Erdmännchen. Einer der erfolgreichsten deutschen Musiker überhaupt, mit einem Werk, das seit vier Jahrzehnten Gemeinschaft stiftet &ndash; in Stadien, in Wohnzimmern, in den Momenten, in denen Menschen Worte für das suchen, was sie selbst nicht sagen können. <em>Bochum</em>, <em>Männer</em>, <em>Alkohol</em>, <em>Mensch</em> &ndash; das sind keine Songs. Das sind Treffpunkte.</p>
+          <p class="vb-intro">The <strong>Meerkat</strong> is the animal of Social Type 6 &ndash; watchful, loyal, deeply rooted in the community. It does not live for itself. It lives with and for others. When danger threatens, it raises the alarm. When the group is in need, it stays. And when there is a loss &ndash; it stands up again, because the community needs it.</p>
+          <p class="vb-intro">Herbert Grönemeyer is this meerkat. One of the most successful German musicians of all time, with a body of work that has been creating community for four decades &ndash; in stadiums, in living rooms, in those moments when people search for words for what they themselves cannot say. <em>Bochum</em>, <em>Männer</em>, <em>Alkohol</em>, <em>Mensch</em> &ndash; these are not songs. They are meeting points.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die soziale Sechs: Pflicht zur Gemeinschaft</h2>
+        <h2 class="vb-section">2. The Social Six: Duty to the Community</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>soziale Sechs (SO6)</strong> ist nach Naranjo der Subtype, den er <em>Pflicht</em> nannte: Sicherheit entsteht durch Zugehörigkeit, durch das Erfüllen einer Aufgabe für das Kollektiv, durch die Überzeugung, dass man gebraucht wird &ndash; und dass man da ist, wenn man gebraucht wird. Die SO6 singt nicht für sich. Sie singt für die, die zuhören.</p>
-          <p class="vb-intro">Grönemeyers Verbindung zur Gemeinschaft beginnt mit einem Ort: Bochum, das Ruhrgebiet, die Arbeiterwelt des deutschen Westens. Sein erstes Megaalbum war eine Liebeserklärung an eine Stadt &ndash; nicht an eine glamouröse, sondern an eine echte, dreckige, warmherzige. <em>Du bist keine Schönheit, doch das macht nichts.</em> Das ist SO6-Wärme: Ich sehe dich, wie du bist. Ich liebe dich trotzdem. Ich liebe dich deshalb.</p>
-          <p class="vb-intro">Diese Pflicht zur Gemeinschaft zeigt sich auch in Grönemeyers politischem Engagement: gegen Rassismus, für Geflüchtete, für ein solidarisches Europa. Er nutzt seine Reichweite nicht für sich selbst. Er nutzt sie für das, was er für richtig hält &ndash; auch wenn er dafür Gegenwind bekommt. Das Erdmännchen schlägt Alarm, weil es seine Pflicht ist.</p>
+          <p class="vb-intro">The <strong>Social Six (SO6)</strong> is, according to Naranjo, the subtype he called <em>Duty</em>: security arises through belonging, through fulfilling a task for the collective, through the conviction that one is needed &ndash; and that one is there when needed. The SO6 does not sing for herself. She sings for those who listen.</p>
+          <p class="vb-intro">Grönemeyer's connection to the community begins with a place: Bochum, the Ruhr region, the working world of the German West. His first mega-album was a declaration of love to a city &ndash; not a glamorous one, but a real, gritty, warm-hearted one. <em>Du bist keine Schönheit, doch das macht nichts.</em> That is SO6 warmth: I see you as you are. I love you anyway. I love you because of it.</p>
+          <p class="vb-intro">This duty to the community also shows itself in Grönemeyer's political engagement: against racism, for refugees, for a Europe of solidarity. He does not use his reach for himself. He uses it for what he considers right &ndash; even when he gets pushback for it. The meerkat raises the alarm, because it is its duty.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Seven-wing: Vorwärts, immer vorwärts</h2>
+        <h2 class="vb-section">3. The Seven-wing: Forward, Always Forward</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Seven-wing (w7)</strong> bringt der sozialen Sechs eine charakteristische Leichtigkeit: den Drang nach vorne, die Freude an Vielfalt, die Fähigkeit, selbst aus Schmerz noch Energie zu ziehen. Die SO6w7 trauert &ndash; aber sie trauert nicht still. Sie verwandelt.</p>
-          <p class="vb-intro">Das zeigt sich bei Grönemeyer in seiner außerordentlichen Bandbreite: Musiker, Produzent, Komponist, Texter, Schauspieler &ndash; er wechselt die Ausdrucksformen, weil ihn jede neue Form reizt. Der Seven-wing erklärt auch seinen unverwechselbaren Sound: diese Mischung aus Tiefe und Energie, aus Schmerz und Aufbruch, aus dem Gefühl, dass das Leben schwer ist &ndash; und trotzdem weitergeht. Unbedingt weitergeht.</p>
-          <p class="vb-intro">1998 verlor Grönemeyer innerhalb weniger Tage seine Frau Marion an Krebs und seinen Bruder Wilhelm. Es war einer der verheerendsten Verluste, die ein Mensch tragen kann. Er zog sich zurück, lebte jahrelang in London. Und dann &ndash; er kam zurück. <em>Mensch</em>, das Album von 2002, wurde das meistverkaufte deutsche Studioalbum aller Zeiten. Aus dem tiefsten Verlust entstand das größte Zeichen des Lebens. Das ist der Seven-wing: <em>Ich war unten. Und ich bin wieder da.</em></p>
+          <p class="vb-intro">The <strong>Seven-wing (w7)</strong> brings the Social Six a characteristic lightness: the drive forward, the joy in variety, the ability to draw energy even from pain. The SO6w7 grieves &ndash; but she does not grieve in silence. She transforms.</p>
+          <p class="vb-intro">This shows itself in Grönemeyer's extraordinary range: musician, producer, composer, lyricist, actor &ndash; he changes forms of expression because every new form excites him. The Seven-wing also explains his unmistakable sound: that mixture of depth and energy, of pain and departure, of the feeling that life is hard &ndash; and yet goes on. Unconditionally goes on.</p>
+          <p class="vb-intro">In 1998 Grönemeyer lost his wife Marion to cancer and his brother Wilhelm within a few days. It was one of the most devastating losses a person can bear. He withdrew, lived in London for years. And then &ndash; he came back. <em>Mensch</em>, the 2002 album, became the best-selling German studio album of all time. From the deepest loss came the greatest sign of life. That is the Seven-wing: <em>I was down. And I am back.</em></p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten</h2>
+        <h2 class="vb-section">4. Light and Shadow</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SO6w7 ist ihre Fähigkeit, Gemeinschaft zu stiften und dabei lebendig zu bleiben &ndash; nicht verbittert, nicht erstarrt, sondern in Bewegung. Grönemeyer hat über vier Jahrzehnte hinweg eine Verbindung zu seinem Publikum aufrechterhalten, die für einen Popstar außergewöhnlich ist: Sie basiert nicht auf Image, sondern auf Echtheit. Die Menschen glauben ihm, weil er es meint.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Sechs ist die <strong>Feigheit</strong> &ndash; die innere Bewegung, die zögert, die zweifelt, die fragt: <em>Bin ich genug? Halte ich das aus?</em> Der Seven-wing beantwortet diese Frage mit Tempo: <em>Ich halte es aus, indem ich weitermache.</em> Das kann in Überaktivität kippen &ndash; das Nicht-Innehalten als Schutz vor dem, was man fühlen müsste, wenn man anhält. Grönemeyers Jahre in London nach dem Tod seiner Frau waren vielleicht auch das: der notwendige Stopp, den der Seven-wing alleine nicht zulässt.</p>
+          <p class="vb-intro">The light of the SO6w7 is her ability to create community while remaining alive &ndash; not bitter, not rigid, but in motion. Grönemeyer has maintained a connection to his audience over four decades that is extraordinary for a pop star: it is not based on image, but on authenticity. People believe him, because he means it.</p>
+          <p class="vb-intro">The shadow pattern of the Six is <strong>Cowardice</strong> &ndash; the inner movement that hesitates, that doubts, that asks: <em>Am I enough? Can I bear this?</em> The Seven-wing answers this question with speed: <em>I bear it by keeping going.</em> This can tip into overactivity &ndash; the inability to pause as a protection against what one would have to feel if one stopped. Grönemeyer's years in London after the death of his wife were perhaps also that: the necessary stop that the Seven-wing alone does not allow.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Bleiben und Singen</h2>
+        <h2 class="vb-section">5. The Healing Path: Stay and Sing</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Sechs führt von der Frage <em>Bin ich sicher genug, um da zu sein?</em> zur Erkenntnis <em>Ich bin da &ndash; und das reicht.</em> Für die SO6w7 bedeutet das, nicht nur vorwärts zu rennen, sondern auch anzuhalten, zu fühlen, zu trauern &ndash; und dann aus einem echten Ort heraus wieder zu singen, nicht aus Pflicht oder Bewegungsdrang allein.</p>
-          <p class="vb-intro">Herbert Grönemeyer ist diesen Weg gegangen. Das Erdmännchen, das nach jedem Verlust wieder aufsteht &ndash; nicht weil es keine Wahl hat, sondern weil die Gemeinschaft wartet und weil das Singen selbst heilt. Das ist die SO6w7 auf ihrem Heilungsweg: Wenn die Pflicht und die Freude zusammenfallen, entsteht das, wofür Menschen in Stadien stehen.</p>
+          <p class="vb-intro">The healing path of the Six leads from the question <em>Am I safe enough to be here?</em> to the recognition <em>I am here &ndash; and that is enough.</em> For the SO6w7 this means not only running forward, but also pausing, feeling, grieving &ndash; and then singing again from a genuine place, not out of duty or the drive to move alone.</p>
+          <p class="vb-intro">Herbert Grönemeyer has walked this path. The meerkat that stands up after every loss &ndash; not because it has no choice, but because the community is waiting and because singing itself heals. That is the SO6w7 on its healing path: when duty and joy coincide, what arises is what makes people stand in stadiums.</p>
         </blockquote>
 
       </div>
@@ -9887,8 +9887,8 @@ function herbertGroenomeyerPortraitPage() {
       ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
       ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/so6", label:"SO6 – Das Erdmännchen: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/so6", label:"SO6 – The Meerkat: Subtype Profile"},
         {route:"beruehmte-sigmund-freud", label:"Portrait: Sigmund Freud (SO6w5)"},
       ])}
     </div>
@@ -9905,42 +9905,42 @@ function sigmundFreudPortraitPage() {
           <img src="./assets/portraits/beruehmte-sigmund-freud-portrait.jpg" alt="Erdmännchen" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Sigmund Freud</p>
-        <p class="krim-portrait-typ">SO6w5 &middot; Social Type 6 mit Five-wing</p>
-        <p class="krim-portrait-subtitle">Arzt, Neurophysiologe &amp; Begründer der Psychoanalyse, 1856&ndash;1939 &ndash; Animal correspondence: Erdmännchen</p>
+        <p class="krim-portrait-typ">SO6w5 &middot; Social Type 6 with Five-wing</p>
+        <p class="krim-portrait-subtitle">Physician, Neurophysiologist &amp; Founder of Psychoanalysis, 1856&ndash;1939 &ndash; Animal correspondence: Meerkat</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Das Erdmännchen</h2>
+        <h2 class="vb-section">1. The Meerkat</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das <strong>Erdmännchen</strong> ist das Tier des sozialen Typs 6 &ndash; ein hochsoziales Wesen, das in streng organisierten Gemeinschaften lebt und seinen Zusammenhalt durch Wachheit sichert. Erdmännchen stellen Posten auf: Wächter, die aufrecht auf den Hinterbeinen stehen und den Horizont beobachten &ndash; bereit, beim ersten Anzeichen von Gefahr Alarm zu schlagen. Sie sind mutig, loyal und zutiefst auf die Gruppe ausgerichtet. Ohne Gemeinschaft sind sie verloren. In ihr sind sie unerschöpflich.</p>
-          <p class="vb-intro">Sigmund Freud war dieses Erdmännchen &ndash; aufrecht, wachsam, den Blick auf das gerichtet, was andere nicht sehen wollten oder konnten: das Unbewusste. Er stand auf den Hinterbeinen seiner Zeit und rief Alarm &ndash; nicht vor äußeren Feinden, sondern vor den inneren. Die Psychoanalyse war sein Wachposten: ein System, das die verborgenen Kräfte der Seele sichtbar machen sollte, bevor sie den Menschen von innen heraus zerstörten.</p>
+          <p class="vb-intro">The <strong>Meerkat</strong> is the animal of Social Type 6 &ndash; a highly social creature that lives in strictly organised communities and secures its cohesion through vigilance. Meerkats post sentries: watchmen who stand upright on their hind legs and scan the horizon &ndash; ready to raise the alarm at the first sign of danger. They are courageous, loyal, and deeply oriented toward the group. Without community they are lost. Within it they are inexhaustible.</p>
+          <p class="vb-intro">Sigmund Freud was this meerkat &ndash; upright, watchful, his gaze directed at what others would not or could not see: the unconscious. He stood on the hind legs of his time and called out the alarm &ndash; not against external enemies, but against internal ones. Psychoanalysis was his watch post: a system that was to make the hidden forces of the soul visible before they destroyed the person from within.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die soziale Sechs: Pflicht und Bewegung</h2>
+        <h2 class="vb-section">2. The Social Six: Duty and Movement</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>soziale Sechs (SO6)</strong> ist nach Naranjo der Subtype, den er <em>Pflicht</em> nannte: Sicherheit entsteht durch Zugehörigkeit zu einer Gruppe mit klaren Regeln, durch Treue zur Gemeinschaft, durch das Erfüllen einer Aufgabe, die größer ist als man selbst. Die SO6 baut Institutionen, Bewegungen, Systeme &ndash; weil das Kollektiv Schutz bietet, den der Einzelne allein nicht findet.</p>
-          <p class="vb-intro">Freud gründete nicht nur eine Therapiemethode &ndash; er begründete eine Bewegung. Die Wiener Psychoanalytische Vereinigung, später die Internationale Psychoanalytische Vereinigung: Freud wollte eine Gemeinschaft von Gleichgesinnten, die seine Erkenntnisse trügen, verbreiteten, verteidigten. Er war ihnen gegenüber tief loyal &ndash; und erwartete dieselbe Loyalität zurück. Als Carl Gustav Jung und Alfred Adler eigene Wege gingen, erlebte Freud das nicht als intellektuelle Meinungsverschiedenheit, sondern als persönlichen Verrat. Das ist die SO6: <em>Wir sind eine Gemeinschaft. Wer geht, bricht den Bund.</em></p>
-          <p class="vb-intro">Seine Pflicht sah Freud in der Wahrheit &ndash; auch dort, wo sie unbequem war. Sexualität als treibende Kraft der Psyche, das Unbewusste als eigentliches Zentrum des Seelenlebens, Religion als kollektive Neurose: Das waren keine harmlosen Thesen in einer Zeit, die das alles lieber verdrängte. Freud sagte es trotzdem. Das Erdmännchen schlägt Alarm, auch wenn der Schwarm es nicht hören will.</p>
+          <p class="vb-intro">The <strong>Social Six (SO6)</strong> is, according to Naranjo, the subtype he called <em>Duty</em>: security arises through belonging to a group with clear rules, through loyalty to the community, through fulfilling a task larger than oneself. The SO6 builds institutions, movements, systems &ndash; because the collective offers protection that the individual cannot find alone.</p>
+          <p class="vb-intro">Freud did not only found a therapy method &ndash; he founded a movement. The Vienna Psychoanalytic Society, later the International Psychoanalytic Association: Freud wanted a community of like-minded people who would carry, spread, and defend his findings. He was deeply loyal to them &ndash; and expected the same loyalty in return. When Carl Gustav Jung and Alfred Adler went their own ways, Freud experienced this not as an intellectual disagreement, but as personal betrayal. That is the SO6: <em>We are a community. Whoever leaves, breaks the bond.</em></p>
+          <p class="vb-intro">Freud saw his duty in truth &ndash; even where it was uncomfortable. Sexuality as the driving force of the psyche, the unconscious as the true centre of mental life, religion as collective neurosis: these were not harmless theses in a time that preferred to repress all of this. Freud said it anyway. The meerkat raises the alarm, even when the group does not want to hear it.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Five-wing: Das System der Seele</h2>
+        <h2 class="vb-section">3. The Five-wing: The System of the Soul</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Five-wing (w5)</strong> bringt der sozialen Sechs eine charakteristische intellektuelle Tiefe: die Fähigkeit, nicht nur zu beobachten, sondern das Beobachtete in ein kohärentes System zu überführen. Die SO6w5 genügt sich nicht mit Warnrufen &ndash; sie will verstehen, warum die Gefahr existiert, wie sie funktioniert, wie man ihr systematisch begegnen kann.</p>
-          <p class="vb-intro">Freuds Werk ist das reinste Beispiel dafür: Triebtheorie, Topisches Modell, Strukturmodell (Es, Ich, Über-Ich), Traumdeutung, Abwehrmechanismen, Übertragung, Gegenübertragung &ndash; ein theoretisches Gebäude von außerordentlicher Geschlossenheit. Der Five-wing ermöglichte ihm, jahrzehntelang an einem System zu bauen, ohne den Faden zu verlieren. <em>Die Traumdeutung</em>, <em>Drei Abhandlungen zur Sexualtheorie</em>, <em>Das Unbehagen in der Kultur</em>: Diese Werke kommen nicht aus Intuition allein. Sie kommen aus jahrelangem Beobachten, Sammeln, Denken, Ordnen.</p>
-          <p class="vb-intro">Der Five-wing erklärt auch Freuds berühmte Unnahbarkeit im analytischen Setting: Schweigen, Abstinenz, die Couch statt des Augenkontakts. Das ist nicht Kälte. Das ist der Five-wing, der Beobachtungsraum schafft &ndash; damit die SO6 sehen kann, was wirklich geschieht.</p>
+          <p class="vb-intro">The <strong>Five-wing (w5)</strong> brings the Social Six a characteristic intellectual depth: the ability not only to observe, but to transfer the observed into a coherent system. The SO6w5 is not satisfied with warning calls &ndash; she wants to understand why the danger exists, how it works, how one can confront it systematically.</p>
+          <p class="vb-intro">Freud's work is the purest example of this: drive theory, topographical model, structural model (id, ego, super-ego), dream interpretation, defence mechanisms, transference, counter-transference &ndash; a theoretical edifice of extraordinary coherence. The Five-wing enabled him to build a system for decades without losing the thread. <em>Die Traumdeutung</em>, <em>Drei Abhandlungen zur Sexualtheorie</em>, <em>Das Unbehagen in der Kultur</em>: these works do not come from intuition alone. They come from years of observing, collecting, thinking, ordering.</p>
+          <p class="vb-intro">The Five-wing also explains Freud's famous aloofness in the analytic setting: silence, abstinence, the couch instead of eye contact. That is not coldness. That is the Five-wing creating a space of observation &ndash; so that the SO6 can see what is really happening.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten</h2>
+        <h2 class="vb-section">4. Light and Shadow</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SO6w5 ist ihre Fähigkeit, das Unsichtbare sichtbar zu machen und daraus ein Werkzeug zu bauen, das anderen hilft. Freuds Entdeckung des Unbewussten hat die Art, wie Menschen über sich selbst denken, für immer verändert. Ob man seine Theorien für richtig hält oder nicht: Die Frage nach dem, was unter der Oberfläche des Bewusstseins wirkt, ist seitdem nicht mehr wegzudenken.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Sechs ist die <strong>Feigheit</strong> &ndash; nicht als mangelnder Mut, sondern als die innere Bewegung, die Autoritäten aufbaut und dann fürchtet, was passiert, wenn diese Autoritäten fallen. Freud, der Religionskritiker, war in seiner eigenen Bewegung nicht frei davon: Er erwartete Gefolgschaft, reagierte auf Abweichung mit Ausschluss, baute eine Orthodoxie auf, die er selbst zu hinterfragen nicht immer bereit war. Das Erdmännchen, das den Wachposten verteidigt &ndash; manchmal auch gegen die eigene Herde.</p>
-          <p class="vb-intro">Der Five-wing bringt die Gefahr der Systemgeschlossenheit: Wenn das Gebäude zu fest gebaut ist, lässt es keine neuen Fenster mehr zu. Freuds späte Unbeugsamkeit gegenüber Kritik ist auch das: der Preis eines Lebenswerks, das sich selbst nicht mehr in Frage stellen kann.</p>
+          <p class="vb-intro">The light of the SO6w5 is her ability to make the invisible visible and to build from it a tool that helps others. Freud's discovery of the unconscious has permanently changed the way people think about themselves. Whether one considers his theories correct or not: the question of what operates beneath the surface of consciousness has been impossible to ignore ever since.</p>
+          <p class="vb-intro">The shadow pattern of the Six is <strong>Cowardice</strong> &ndash; not as a lack of courage, but as the inner movement that builds authorities and then fears what happens when those authorities fall. Freud the religion-critic was not free of this in his own movement: he expected allegiance, responded to deviation with exclusion, built an orthodoxy that he himself was not always willing to question. The meerkat that defends the watch post &ndash; sometimes even against its own herd.</p>
+          <p class="vb-intro">The Five-wing brings the danger of systemic closure: when the edifice is built too firmly, it no longer admits new windows. Freud's late inflexibility in the face of criticism is also this: the price of a life's work that can no longer question itself.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vertrauen ohne Kontrolle</h2>
+        <h2 class="vb-section">5. The Healing Path: Trust Without Control</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Sechs führt von der Frage <em>Kann ich der Gruppe vertrauen?</em> zur Erkenntnis <em>Ich kann mir selbst vertrauen &ndash; auch ohne Wachposten.</em> Für die SO6w5 bedeutet das, die Bewegung, die man aufgebaut hat, loszulassen &ndash; nicht zu verlassen, aber nicht mehr zu kontrollieren. Wissen zu teilen, ohne zu bestimmen, was daraus wird.</p>
-          <p class="vb-intro">Freud floh 1938, mit 82 Jahren und schwer krank, aus Wien nach London &ndash; nachdem die Nationalsozialisten seine Bücher verbrannt und seine Welt zerstört hatten. Er arbeitete bis kurz vor seinem Tod weiter. Das Erdmännchen auf seinem Posten, bis zum letzten Moment. Das ist die SO6w5 auf ihrem Heilungsweg: nicht aus Pflicht, sondern weil das Wachen selbst Sinn ergibt &ndash; und weil man dem vertraut, was man gesehen hat.</p>
+          <p class="vb-intro">The healing path of the Six leads from the question <em>Can I trust the group?</em> to the recognition <em>I can trust myself &ndash; even without a watch post.</em> For the SO6w5 this means letting go of the movement one has built &ndash; not leaving it, but no longer controlling it. Sharing knowledge without determining what becomes of it.</p>
+          <p class="vb-intro">In 1938, aged 82 and gravely ill, Freud fled from Vienna to London &ndash; after the National Socialists had burned his books and destroyed his world. He kept working until shortly before his death. The meerkat at its post, until the last moment. That is the SO6w5 on its healing path: not out of duty, but because the watching itself makes sense &ndash; and because one trusts what one has seen.</p>
         </blockquote>
 
       </div>
@@ -9948,8 +9948,8 @@ function sigmundFreudPortraitPage() {
       ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
       ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/so6", label:"SO6 – Das Erdmännchen: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/so6", label:"SO6 – The Meerkat: Subtype Profile"},
         {route:"beruehmte-herbert-kickl", label:"Portrait: Herbert Kickl (SE6w5)"},
       ])}
     </div>
@@ -9966,41 +9966,41 @@ function beatriceChebetPortraitPage() {
           <img src="./assets/portraits/beruehmte-beatrice-chebet-portrait.jpg" alt="Kaninchen" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Beatrice Chebet</p>
-        <p class="krim-portrait-typ">SE6w7 &middot; Self-Preservation Type 6 mit Seven-wing</p>
-        <p class="krim-portrait-subtitle">Langstreckenläuferin, geb. 2000 &ndash; Animal correspondence: Kaninchen</p>
+        <p class="krim-portrait-typ">SE6w7 &middot; Self-Preservation Type 6 with Seven-wing</p>
+        <p class="krim-portrait-subtitle">Long-distance runner, born 2000 &ndash; Animal correspondence: Rabbit</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Das Kaninchen</h2>
+        <h2 class="vb-section">1. The Rabbit</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das <strong>Kaninchen</strong> ist das Tier des selbsterhaltenden Typs 6 &ndash; wachsam, schnell, in der Gemeinschaft verwurzelt. Es kennt das Gefühl der Bedrohung, und genau deshalb hat es gelernt, schneller zu sein als das, was es bedroht. Sein Lauf ist kein panisches Fliehen &ndash; er ist trainiert, präzise, kraftvoll. Das Kaninchen rennt nicht weg. Es rennt nach Hause.</p>
-          <p class="vb-intro">Beatrice Chebet ist dieses Kaninchen. Mit zwanzig Jahren gehört sie zur Weltspitze der Langstrecke. Bei den Olympischen Spielen 2024 in Paris gewann sie Gold über 5000 Meter &ndash; und vier Tage später Gold über 10.000 Meter. Doppel-Olympiasiegerin. Eine Leistung, die selbst in der Geschichte des kenianischen Laufsports herausragt. Und das mit einer Leichtigkeit, die täuscht: Was auf der Bahn wie Schwerelosigkeit aussieht, ist das Ergebnis von Jahren disziplinierter Arbeit, von Zugehörigkeit zu einer Gemeinschaft, die diese Disziplin trägt.</p>
+          <p class="vb-intro">The <strong>Rabbit</strong> is the animal of Self-Preservation Type 6 &ndash; watchful, fast, rooted in the community. It knows the feeling of threat, and it is precisely for this reason that it has learned to be faster than what threatens it. Its run is not a panicked flight &ndash; it is trained, precise, powerful. The rabbit does not run away. It runs home.</p>
+          <p class="vb-intro">Beatrice Chebet is this rabbit. At twenty years old she belongs to the world elite in long-distance running. At the 2024 Olympic Games in Paris she won gold in the 5,000 metres &ndash; and four days later gold in the 10,000 metres. Double Olympic champion. An achievement that stands out even in the history of Kenyan athletics. And with an ease that deceives: what looks like weightlessness on the track is the result of years of disciplined work, of belonging to a community that sustains that discipline.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die selbsterhaltende Sechs: Heimat als Kraft</h2>
+        <h2 class="vb-section">2. The Self-Preservation Six: Home as Strength</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>selbsterhaltende Sechs (SE6)</strong> ist nach Naranjo der Subtype, den er <em>Wärme</em> nannte: Sicherheit entsteht nicht durch Stärke oder durch Regeln, sondern durch echte menschliche Zugehörigkeit. Die SE6 trägt ihre Gemeinschaft in sich &ndash; als Fundament, als Orientierung, als Grund, weiterzumachen, wenn es schwer wird.</p>
-          <p class="vb-intro">Beatrice Chebet stammt aus Kenia &ndash; einem Land, dessen Läuferinnen und Läufer nicht einfach trainieren, sondern eine Tradition verkörpern. Das Rift Valley, die Höhenlagen, die Gemeinschaft der Trainingsgruppen: Das ist nicht Kulisse, das ist Heimat. Chebet läuft nicht trotz dieser Verwurzelung &ndash; sie läuft aus ihr heraus. Die SE6-Wärme zeigt sich in der Art, wie kenianische Athleten einander tragen: gemeinsame Trainingseinheiten, gegenseitiges Anfeuern, das Wissen, dass man nicht allein ist auf der langen Strecke.</p>
-          <p class="vb-intro">Der selbsterhaltende Instinkt der Sechs fragt: <em>Bin ich sicher? Habe ich, was ich brauche, um durchzuhalten?</em> Chebets Antwort ist die Strecke selbst: In der Bewegung, in der Disziplin, in der Gemeinschaft der Läuferinnen findet sie die Sicherheit, die anderen vielleicht in festen Mauern suchen.</p>
+          <p class="vb-intro">The <strong>Self-Preservation Six (SE6)</strong> is, according to Naranjo, the subtype he called <em>Warmth</em>: security arises not through strength or through rules, but through genuine human belonging. The SE6 carries her community within herself &ndash; as a foundation, as orientation, as the reason to keep going when things get hard.</p>
+          <p class="vb-intro">Beatrice Chebet comes from Kenya &ndash; a country whose runners do not simply train, but embody a tradition. The Rift Valley, the high altitudes, the community of training groups: this is not a backdrop, it is home. Chebet does not run despite this rootedness &ndash; she runs from it. The SE6 warmth shows itself in the way Kenyan athletes carry one another: shared training sessions, mutual encouragement, the knowledge that one is not alone on the long course.</p>
+          <p class="vb-intro">The self-preservation instinct of the Six asks: <em>Am I safe? Do I have what I need to endure?</em> Chebet's answer is the course itself: in the movement, in the discipline, in the community of runners she finds the security that others perhaps seek in solid walls.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Seven-wing: Freude als Antrieb</h2>
+        <h2 class="vb-section">3. The Seven-wing: Joy as Drive</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Seven-wing (w7)</strong> bringt der selbsterhaltenden Sechs eine charakteristische Helligkeit: Vorwärtsdrang, Freude an der Bewegung, das Gefühl, dass das Leben etwas Gutes bereithält, wenn man nur schnell genug läuft. Die SE6w7 kennt die Angst der Sechs &ndash; aber der Seven-wing verwandelt sie in Energie, in Leichtigkeit, in den Willen, die nächste Kurve zu nehmen, bevor die Erschöpfung sich festsetzen kann.</p>
-          <p class="vb-intro">Wer Beatrice Chebet laufen sieht, sieht diese Energie. Ihre berühmte Schlussphase &ndash; das Anziehen in den letzten Runden, wenn andere nachlassen &ndash; ist kein Trick und kein taktisches Kalkül allein. Es ist der Seven-wing: <em>Jetzt kommt der Teil, der mir gehört. Jetzt werde ich schneller, nicht langsamer.</em> Die Freude am Laufen ist spürbar, auch wenn der Körper am Limit ist.</p>
-          <p class="vb-intro">Der Seven-wing erklärt auch Chebets Fähigkeit, unter Druck zu strahlen statt zu erstarren. Die Sechs kennt den Impuls, bei Gefahr innezuhalten. Der Seven-wing übersetzt diesen Impuls in Bewegung: <em>Wenn ich schnell genug bin, ist die Bedrohung hinter mir. Also renne ich.</em></p>
+          <p class="vb-intro">The <strong>Seven-wing (w7)</strong> brings the Self-Preservation Six a characteristic brightness: the drive forward, joy in movement, the feeling that life holds something good if one only runs fast enough. The SE6w7 knows the anxiety of the Six &ndash; but the Seven-wing transforms it into energy, into lightness, into the will to take the next corner before exhaustion can set in.</p>
+          <p class="vb-intro">Those who watch Beatrice Chebet run see this energy. Her famous finishing phase &ndash; the acceleration in the final laps when others fade &ndash; is not a trick and not tactical calculation alone. It is the Seven-wing: <em>Now comes the part that belongs to me. Now I get faster, not slower.</em> The joy of running is palpable, even when the body is at its limit.</p>
+          <p class="vb-intro">The Seven-wing also explains Chebet's ability to radiate under pressure rather than freeze. The Six knows the impulse to halt when danger approaches. The Seven-wing translates this impulse into movement: <em>If I am fast enough, the threat is behind me. So I run.</em></p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten</h2>
+        <h2 class="vb-section">4. Light and Shadow</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SE6w7 ist ihre Fähigkeit, Gemeinschaft und Freude zu verbinden &ndash; die Zugehörigkeit der Sechs mit dem Vorwärtsdrang der Sieben. Beatrice Chebet trägt beides: Sie läuft für sich, aber sie läuft auch für ihr Land, für ihre Trainingsgruppe, für die Frauen, die nach ihr kommen werden. Dieses doppelte Fundament gibt ihr eine Stabilität, die man auf der Bahn sieht: Sie bricht nicht ein. Sie zieht an.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Sechs ist die <strong>Feigheit</strong> &ndash; nicht im Sinne von Schwäche, sondern als die innere Bewegung, die zögert, die zweifelt, die fragt: <em>Bin ich wirklich gut genug? Reicht das?</em> Jede Langstreckenläuferin kennt diesen inneren Dialog. Der Seven-wing hilft, ihn zu übertönen &ndash; mit Tempo, mit Freude, mit dem Rhythmus der Schritte.</p>
+          <p class="vb-intro">The light of the SE6w7 is her ability to connect community and joy &ndash; the belonging of the Six with the forward drive of the Seven. Beatrice Chebet carries both: she runs for herself, but she also runs for her country, for her training group, for the women who will come after her. This double foundation gives her a stability that one can see on the track: she does not buckle. She accelerates.</p>
+          <p class="vb-intro">The shadow pattern of the Six is <strong>Cowardice</strong> &ndash; not in the sense of weakness, but as the inner movement that hesitates, that doubts, that asks: <em>Am I really good enough? Is that enough?</em> Every long-distance runner knows this inner dialogue. The Seven-wing helps to drown it out &ndash; with pace, with joy, with the rhythm of footsteps.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Dem eigenen Schritt vertrauen</h2>
+        <h2 class="vb-section">5. The Healing Path: Trust Your Own Step</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Sechs führt von der Frage <em>Bin ich sicher genug, um loszulaufen?</em> zur Erkenntnis <em>Im Laufen selbst entsteht die Sicherheit.</em> Für die SE6w7 bedeutet das, dem eigenen Körper zu vertrauen, dem eigenen Rhythmus, der eigenen Kraft &ndash; nicht weil alles garantiert ist, sondern weil die Erfahrung zeigt: Ich komme an. Ich halte durch. Ich werde schneller, wenn es darauf ankommt.</p>
-          <p class="vb-intro">Beatrice Chebet hat dieses Vertrauen auf der größten Bühne der Welt bewiesen &ndash; zweimal, innerhalb weniger Tage, in Paris. Das Kaninchen, das nicht vor der Strecke flieht, sondern auf ihr nach Hause kommt. Das ist die SE6w7 auf ihrem Heilungsweg: Nicht trotz der Angst laufen &ndash; sondern so lange laufen, bis die Angst keine Rolle mehr spielt.</p>
+          <p class="vb-intro">The healing path of the Six leads from the question <em>Am I safe enough to start running?</em> to the recognition <em>Safety itself arises in the running.</em> For the SE6w7 this means trusting one's own body, one's own rhythm, one's own strength &ndash; not because everything is guaranteed, but because experience shows: I arrive. I endure. I get faster when it matters.</p>
+          <p class="vb-intro">Beatrice Chebet has proven this trust on the world's biggest stage &ndash; twice, within a few days, in Paris. The rabbit that does not flee the course, but finds its way home on it. That is the SE6w7 on its healing path: not running despite the fear &ndash; but running long enough until the fear no longer matters.</p>
         </blockquote>
 
       </div>
@@ -10008,8 +10008,8 @@ function beatriceChebetPortraitPage() {
       ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
       ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/se6", label:"SE6 – Das Kaninchen: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/se6", label:"SE6 – The Rabbit: Subtype Profile"},
         {route:"beruehmte-herbert-kickl", label:"Portrait: Herbert Kickl (SE6w5)"},
       ])}
     </div>
@@ -10026,42 +10026,42 @@ function herbertKicklPortraitPage() {
           <img src="./assets/portraits/beruehmte-herbert-kickl-portrait.jpg" alt="Kaninchen" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Herbert Kickl</p>
-        <p class="krim-portrait-typ">SE6w5 &middot; Self-Preservation Type 6 mit Five-wing</p>
-        <p class="krim-portrait-subtitle">Politiker &amp; FPÖ-Parteiobmann, geb. 1968 &ndash; Animal correspondence: Kaninchen</p>
+        <p class="krim-portrait-typ">SE6w5 &middot; Self-Preservation Type 6 with Five-wing</p>
+        <p class="krim-portrait-subtitle">Politician &amp; FPÖ party leader, born 1968 &ndash; Animal correspondence: Rabbit</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Das Kaninchen</h2>
+        <h2 class="vb-section">1. The Rabbit</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das <strong>Kaninchen</strong> ist das Tier des selbsterhaltenden Typs 6 &ndash; ein Wesen von außerordentlicher Wachheit. Seine Sinne sind auf Gefahr ausgerichtet: Es hört früher, riecht früher, spürt früher als andere, wenn etwas nicht stimmt. Es lebt in Gemeinschaft &ndash; der Bau ist sein Zuhause, und das Zuhause ist das Volk, dem es zugehört. Das Kaninchen ist kein Tier der großen Geste. Aber wer glaubt, es sei nur scheu, hat es missverstanden: Wenn es gilt, verteidigt es sein Territorium mit einer Entschlossenheit, die überrascht.</p>
-          <p class="vb-intro">Herbert Kickl ist dieses Kaninchen. Ein Mann, der früher als die meisten spürt, was in der Luft liegt &ndash; welche Bedrohungen real sind, welche Narrative gebaut werden, welche Angst die Politik instrumentalisiert. Er hat diese Wachheit in eine politische Sprache verwandelt, die Millionen von Menschen ansprechen, weil sie sich in ihr wiedererkennen: das Gefühl, dass irgendetwas nicht stimmt. Dass man nicht gehört wird. Dass die Institutionen nicht mehr schützen, sondern kontrollieren.</p>
+          <p class="vb-intro">The <strong>Rabbit</strong> is the animal of Self-Preservation Type 6 &ndash; a creature of extraordinary alertness. Its senses are trained on danger: it hears earlier, smells earlier, senses earlier than others when something is wrong. It lives in community &ndash; the burrow is its home, and the home is the people to whom it belongs. The rabbit is not a creature of grand gestures. But those who think it is merely timid have misunderstood it: when it counts, it defends its territory with a resolve that surprises.</p>
+          <p class="vb-intro">Herbert Kickl is this rabbit. A man who senses earlier than most what is in the air &ndash; which threats are real, which narratives are being constructed, which fear politics is instrumentalising. He has transformed this alertness into a political language that speaks to millions of people, because they recognise themselves in it: the feeling that something is not right. That one is not being heard. That the institutions no longer protect, but control.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die selbsterhaltende Sechs: Wärme und Wachheit</h2>
+        <h2 class="vb-section">2. The Self-Preservation Six: Warmth and Alertness</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>selbsterhaltende Sechs (SE6)</strong> ist nach Naranjo der Subtype, den er <em>Wärme</em> nannte: Sicherheit wird nicht durch Stärke oder Pflicht gesucht, sondern durch echte menschliche Verbindung, durch Zugehörigkeit, durch das Vertrauen in die Menschen, die man kennt und schätzt. Die SE6 baut keine Hierarchien &ndash; sie baut Gemeinschaft. Ihr Schutz ist nicht die Institution, sondern das Wir.</p>
-          <p class="vb-intro">Bei Herbert Kickl zeigt sich das in seiner tiefen Verbindung zur österreichischen Bevölkerung &ndash; nicht als abstraktem Wahlvolk, sondern als konkreten Menschen mit konkreten Sorgen. Seine politische Sprache ist direkt, manchmal ruppig, aber sie ist nicht kalt. Sie sucht den Contact. Sie will, dass die Menschen sich verstanden fühlen. Das ist SE6-Wärme: <em>Ich bin einer von euch. Ich sehe, was ihr seht. Und ich spreche es aus, auch wenn es unbequem ist.</em></p>
-          <p class="vb-intro">Die selbsterhaltende Sechs trägt eine tiefe Sorge um das, was Bestand hat: Heimat, Identität, die Sicherheit des Vertrauten. Diese Sorge ist kein Rückwärtsblick &ndash; sie ist die ernsthafte Frage: <em>Was schützen wir? Und wer schützt es, wenn wir es nicht tun?</em></p>
+          <p class="vb-intro">The <strong>Self-Preservation Six (SE6)</strong> is, according to Naranjo, the subtype he called <em>Warmth</em>: security is sought not through strength or duty, but through genuine human connection, through belonging, through trust in the people one knows and values. The SE6 does not build hierarchies &ndash; it builds community. Its protection is not the institution, but the we.</p>
+          <p class="vb-intro">In Herbert Kickl this shows itself in his deep connection to the Austrian population &ndash; not as an abstract electorate, but as concrete people with concrete concerns. His political language is direct, sometimes blunt, but it is not cold. It seeks contact. It wants people to feel understood. That is SE6 warmth: <em>I am one of you. I see what you see. And I say it out loud, even when it is uncomfortable.</em></p>
+          <p class="vb-intro">The Self-Preservation Six carries a deep concern for what endures: homeland, identity, the security of the familiar. This concern is not a backward glance &ndash; it is the serious question: <em>What are we protecting? And who protects it if we do not?</em></p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Five-wing: Analyse statt Schlagwort</h2>
+        <h2 class="vb-section">3. The Five-wing: Analysis Instead of Slogans</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Five-wing (w5)</strong> bringt der selbsterhaltenden Sechs eine charakteristische intellektuelle Tiefe: die Fähigkeit, Zusammenhänge zu analysieren, Narrative auseinanderzunehmen, Argumente Schritt für Schritt aufzubauen. Die SE6w5 begnügt sich nicht mit dem Bauchgefühl &ndash; sie will wissen, warum etwas nicht stimmt. Sie will es belegen können.</p>
-          <p class="vb-intro">Bei Kickl zeigt sich das in seiner Rolle als politischer Stratege und Redner. Er ist kein Mann der spontanen Emotion &ndash; er ist ein Mann der vorbereiteten Argumentation, der präzisen Analyse, der Fähigkeit, komplexe politische Zusammenhänge in klare Sprache zu übersetzen. Das ist der Five-wing: Wissen als Rüstzeug, Analyse als Mittel der Sicherheit. <em>Wenn ich verstehe, was geschieht, bin ich weniger ausgeliefert.</em></p>
-          <p class="vb-intro">Diese Kombination &ndash; die emotionale Verbindung der SE6 mit der analytischen Schärfe des Five-wings &ndash; macht ihn zu einem ungewöhnlich wirksamen politischen Kommunikator: Er spricht das Herz an und liefert gleichzeitig die Argumente dazu.</p>
+          <p class="vb-intro">The <strong>Five-wing (w5)</strong> brings the Self-Preservation Six a characteristic intellectual depth: the ability to analyse connections, to deconstruct narratives, to build arguments step by step. The SE6w5 is not satisfied with gut feeling &ndash; she wants to know why something is wrong. She wants to be able to demonstrate it.</p>
+          <p class="vb-intro">In Kickl this shows itself in his role as political strategist and orator. He is not a man of spontaneous emotion &ndash; he is a man of prepared argumentation, of precise analysis, of the ability to translate complex political connections into clear language. That is the Five-wing: knowledge as armour, analysis as a means of security. <em>If I understand what is happening, I am less at the mercy of it.</em></p>
+          <p class="vb-intro">This combination &ndash; the emotional connection of the SE6 with the analytical sharpness of the Five-wing &ndash; makes him an unusually effective political communicator: he speaks to the heart and simultaneously delivers the arguments for it.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Die Coronakrise: Angst aktiv überwinden</h2>
+        <h2 class="vb-section">4. The Corona Crisis: Actively Overcoming Fear</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die Coronakrise war für den Typ 6 eine besondere Prüfung &ndash; denn nirgendwo wurde Angst so systematisch eingesetzt wie in dieser Zeit. Für eine Sechs, die Bedrohungen früh wahrnimmt und auf Sicherheit ausgerichtet ist, war das eine doppelte Herausforderung: die Angst vor dem Virus auf der einen Seite &ndash; und die Angst vor einer Politik, die Angst als Steuerungsinstrument nutzt, auf der anderen.</p>
-          <p class="vb-intro">Herbert Kickl wählte den zweiten Weg. Er stellte sich öffentlich gegen Lockdowns, Impfpflicht und die Einschränkung von Grundrechten &ndash; zu einem Zeitpunkt, als das politisch und gesellschaftlich mit erheblichem Gegenwind verbunden war. Das ist kein kleiner Schritt für eine Sechs: die Institutionen, die normalerweise Sicherheit garantieren sollen, als Bedrohung zu benennen, erfordert, die eigene Angst zu durcharbeiten und trotzdem zu sprechen. Das ist die Sechs auf ihrem Mut-Weg: nicht das Fehlen von Angst &ndash; sondern das Handeln trotz ihr.</p>
-          <p class="vb-intro">Er gab damit vielen Menschen eine Stimme, die sich in der offiziellen Politik nicht mehr wiederfanden &ndash; Menschen, die dieselbe Dissonanz spürten, aber keine Sprache dafür hatten. Das ist der tiefste Dienst, den eine SE6w5 leisten kann: die kollektive Wahrnehmung benennen, die andere noch nicht aussprechen können.</p>
+          <p class="vb-intro">The corona crisis was a particular test for Type 6 &ndash; for nowhere was fear deployed as systematically as in that period. For a Six who perceives threats early and is oriented toward security, this was a double challenge: the fear of the virus on one side &ndash; and the fear of a politics that uses fear as an instrument of control on the other.</p>
+          <p class="vb-intro">Herbert Kickl chose the second path. He publicly opposed lockdowns, compulsory vaccination and the restriction of fundamental rights &ndash; at a point when this was associated with considerable headwinds politically and socially. This is no small step for a Six: naming the institutions that are normally supposed to guarantee security as a threat requires working through one's own fear and speaking anyway. That is the Six on its path of courage: not the absence of fear &ndash; but acting despite it.</p>
+          <p class="vb-intro">In doing so he gave a voice to many people who no longer recognised themselves in official politics &ndash; people who felt the same dissonance, but had no language for it. That is the deepest service an SE6w5 can render: naming the collective perception that others cannot yet put into words.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vertrauen wählen</h2>
+        <h2 class="vb-section">5. The Healing Path: Choosing Trust</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Sechs führt von der Frage <em>Wo lauert die nächste Gefahr?</em> zur Erkenntnis <em>Ich habe genug Kraft, um mit dem umzugehen, was kommt.</em> Für die SE6w5 bedeutet das, die Wachheit nicht aufzugeben &ndash; sie ist ein Geschenk &ndash; aber sich nicht von Angst antreiben zu lassen, sondern von Mut. Nicht dem System zu misstrauen, weil es Systeme gibt, die misstrauenswürdig sind &ndash; sondern selektiv zu vertrauen, weil es Menschen gibt, die vertrauenswürdig sind.</p>
-          <p class="vb-intro">Das Kaninchen, das früher spürt als andere &ndash; und das gelernt hat, diese Gabe nicht als Last zu tragen, sondern als Verantwortung: <em>Ich sehe, was kommt. Also sage ich es. Damit wir uns vorbereiten können.</em> Das ist Herbert Kickl auf seinem besten Weg.</p>
+          <p class="vb-intro">The healing path of the Six leads from the question <em>Where does the next danger lurk?</em> to the recognition <em>I have enough strength to deal with what comes.</em> For the SE6w5 this means not giving up alertness &ndash; it is a gift &ndash; but not being driven by fear, but by courage. Not distrusting the system because there are systems that are untrustworthy &ndash; but trusting selectively, because there are people who are trustworthy.</p>
+          <p class="vb-intro">The rabbit that senses earlier than others &ndash; and that has learned to carry this gift not as a burden, but as a responsibility: <em>I see what is coming. So I say it. So that we can prepare.</em> That is Herbert Kickl on his best path.</p>
         </blockquote>
 
       </div>
@@ -10069,8 +10069,8 @@ function herbertKicklPortraitPage() {
       ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
       ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/se6", label:"SE6 – Das Kaninchen: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/se6", label:"SE6 – The Rabbit: Subtype Profile"},
         {route:"beruehmte-edward-snowden", label:"Portrait: Edward Snowden (SX5w6)"},
       ])}
     </div>
@@ -15330,7 +15330,7 @@ function jeffreyEpsteinPortraitPage() {
           <img src="./assets/portraits/jeffrey-epstein-portrait.jpg" alt="Jeffrey Epstein – Portrait" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Jeffrey Epstein</p>
-        <p class="krim-portrait-typ">SX8w9 · Sexual Type 8 mit Nine-wing</p>
+        <p class="krim-portrait-typ">SX8w9 · Sexual Type 8 with Nine-wing</p>
         <p style="color:var(--muted);font-size:0.9rem;margin:0;">US-amerikanischer Finanzier und Sexualstraftäter · Animal correspondence: Krokodil</p>
       </div>
 
@@ -19546,7 +19546,7 @@ function johnMcAfeePortraitPage() {
           <img src="./assets/portraits/john-mcafee-portrait.jpg" alt="John McAfee – Portrait" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">John McAfee</p>
-        <p class="krim-portrait-typ">SX8w9 · Sexual Type 8 mit Nine-wing</p>
+        <p class="krim-portrait-typ">SX8w9 · Sexual Type 8 with Nine-wing</p>
         <p style="color:var(--muted);font-size:0.9rem;margin:0;">US-amerikanischer Unternehmer und Grenzgänger · Animal correspondence: Krokodil</p>
       </div>
 
@@ -20067,7 +20067,7 @@ function wolfgangBeltracchiPortraitPage() {
           <img src="./assets/portraits/wolfgang-beltracchi-portrait.jpg" alt="Wolfgang Beltracchi – Portrait" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Wolfgang Beltracchi</p>
-        <p class="krim-portrait-typ">SX9w1 · Sexual Type 9 mit One-wing</p>
+        <p class="krim-portrait-typ">SX9w1 · Sexual Type 9 with One-wing</p>
         <p style="color:var(--muted);font-size:0.9rem;margin:0;">Deutscher Kunstfälscher, Jahrhundertbetrug · Animal correspondence: Faultier</p>
       </div>
 
@@ -36048,7 +36048,7 @@ function render() {
   const routes = {
     start: startPage,
     leseprobe: leseprobePage,
-    table-of-contents: inhaltsübersichtPage,
+    "table-of-contents": inhaltsübersichtPage,
     dashboard: dashboardPage,
     typalbum: typalbumPage,
     reflection: reflectionPage,
