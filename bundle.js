@@ -10087,51 +10087,51 @@ function markZuckerbergPortraitPage() {
           <img src="./assets/portraits/beruehmte-mark-zuckerberg-portrait.jpg" alt="Igel" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Mark Zuckerberg</p>
-        <p class="krim-portrait-typ">SX5w6 &middot; Sexual Type 5 mit Six-wing</p>
-        <p class="krim-portrait-subtitle">Gründer &amp; CEO von Meta (Facebook, Instagram, WhatsApp), geb. 1984 &ndash; Animal correspondence: Igel</p>
+        <p class="krim-portrait-typ">SX5w6 &middot; Sexual Type 5 with Six-wing</p>
+        <p class="krim-portrait-subtitle">Founder &amp; CEO of Meta (Facebook, Instagram, WhatsApp), born 1984 &ndash; Animal correspondence: Hedgehog</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der Igel</h2>
+        <h2 class="vb-section">1. The Hedgehog</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Igel</strong> ist das Tier des sexuellen Typs 5 &ndash; ein stilles, nachtaktives Wesen mit stacheligen Abwehrmechanismen, das die Welt aus sicherer Distanz erkundet. Wer ihn antrifft, merkt sofort: Das hier ist kein Tier der großen Gesten. Aber unterschätze es nicht. Darunter liegt etwas außergewöhnlich Scharfes &ndash; ein Verstand, der mehr wahrnimmt, als er zeigt.</p>
-          <p class="vb-intro">Mark Zuckerberg ist dieser Igel. Er hat als 19-Jähriger aus seinem Harvardstudenten-Zimmer heraus ein Netzwerk gebaut, das heute mehr als drei Milliarden Menschen täglich nutzen. Er ist einer der mächtigsten Menschen der Welt &ndash; und zugleich jemand, der in einem Interview wirkt, als ob er lieber woanders wäre. Die Stacheln sind aus Code. Das Innere sieht nur, wem er wirklich vertraut.</p>
+          <p class="vb-intro">The <strong>hedgehog</strong> is the animal of the sexual Type 5 &ndash; a quiet, nocturnal creature with spiny defenses that explores the world from a safe distance. Anyone who encounters one notices immediately: this is not a creature of grand gestures. But do not underestimate it. Beneath the surface lies something extraordinarily sharp &ndash; a mind that perceives far more than it reveals.</p>
+          <p class="vb-intro">Mark Zuckerberg is this hedgehog. At nineteen, from his Harvard dorm room, he built a network that more than three billion people now use daily. He is one of the most powerful people in the world &ndash; and yet someone who in an interview looks as though he would rather be elsewhere. The spines are made of code. The interior is visible only to those he truly trusts.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die sexuelle Fünf: Vertrauen als Fundament</h2>
+        <h2 class="vb-section">2. The Sexual Five: Trust as Foundation</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>sexuelle Fünf (SX5)</strong> ist nach Naranjo der <strong>Kontratyp</strong> der Fünf: Die Leidenschaft des Geizes zeigt sich hier am wenigsten offensichtlich &ndash; weil die sexuelle Energie die Fünf aus ihrer Isolation herauszieht und nach tiefer, intensiver Verbindung suchen lässt. Naranjo nannte diesen Subtype <em>Vertrauen</em>: Die SX5 sucht die eine Verbindung, die alles trägt. Aber diese Öffnung gilt nur für wenige. Für den Rest: Stacheln.</p>
-          <p class="vb-intro">Bei Zuckerberg zeigt sich das mit großer Klarheit in seiner Beziehung zu Priscilla Chan, die er in Harvard kennenlernte &ndash; lange bevor er berühmt wurde. Sie heirateten 2012, einen Tag nach dem Börsengang von Facebook. Sie haben drei Kinder. Was in dieser Ehe vorgeht, ist fast vollständig öffentlich unsichtbar &ndash; und das ist kein Zufall. Die SX5 bewacht den Kern dessen, was ihr wirklich gehört. Was die Welt sieht, ist die Hülle. Was zählt, ist privat.</p>
-          <p class="vb-intro">Facebook selbst &ndash; das globale Netzwerk menschlicher Verbindungen &ndash; kann man als die nach außen projizierte SX5-Sehnsucht lesen: das Begehren, Nähe zu skalieren, Verbindung zum Prinzip zu machen, das die Welt organisiert. Zuckerberg wollte nicht nur eine App bauen. Er wollte verstehen, wie Menschen sich verbinden &ndash; und das System sein, das dabei hilft.</p>
+          <p class="vb-intro">The <strong>sexual Five (SX5)</strong> is, according to Naranjo, the <strong>counter-type</strong> of the Five: the passion of avarice is least obvious here &ndash; because the sexual energy pulls the Five out of isolation and drives a search for deep, intense connection. Naranjo named this subtype <em>Trust</em>: the SX5 seeks the one bond that sustains everything. But this openness is reserved for very few. For everyone else: spines.</p>
+          <p class="vb-intro">In Zuckerberg, this is evident with remarkable clarity in his relationship with Priscilla Chan, whom he met at Harvard long before he became famous. They married in 2012, the day after Facebook&apos;s IPO. They have three children. What goes on in that marriage is almost entirely invisible to the public &ndash; and that is no accident. The SX5 guards the core of what truly belongs to it. What the world sees is the shell. What matters is private.</p>
+          <p class="vb-intro">Facebook itself &ndash; the global network of human connections &ndash; can be read as the outward projection of SX5 longing: the desire to scale intimacy, to make connection the organizing principle of the world. Zuckerberg did not simply want to build an app. He wanted to understand how people connect &ndash; and to become the system that facilitates it.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Six-wing: Loyalität und Kontrolle</h2>
+        <h2 class="vb-section">3. The Six-wing: Loyalty and Control</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Six-wing (w6)</strong> bringt der sexuellen Fünf ein tiefes Sicherheitsbedürfnis, ein Denken in Bedrohungsszenarien und eine außerordentliche Loyalität gegenüber dem inneren Kreis. Die SX5w6 baut keine offenen Strukturen. Sie baut Systeme, die sie versteht und kontrolliert &ndash; weil Kontrolle Sicherheit bedeutet.</p>
-          <p class="vb-intro">Das zeigt sich bei Zuckerberg in seiner Art, Meta zu führen. Er ist keine Führungskraft aus Überzeugung. Die wichtigsten Entscheidungen &ndash; Produktstrategie, Akquisitionen, die grundlegenden architektonischen Entscheidungen der Plattform &ndash; trifft er selbst oder mit einem winzigen Kreis enger Vertrauter. Der Kauf von Instagram (2012) und WhatsApp (2014) für jeweils Milliarden Dollar, als beide noch kaum Umsatz machten &ndash; das waren keine Entscheidungen aus Datenbankmodellen. Das war der Six-wing, der potenzielle Bedrohungen früh erkennt und eliminiert: <em>Was mich gefährden könnte, will ich lieber kontrollieren.</em></p>
-          <p class="vb-intro">Der Six-wing zeigt sich auch in Zuckerbergs ungewöhnlicher Reaktion auf Kritik und Druck: Er wird nicht emotional, er wird systematischer. Auf die Facebook-Anhörungen im US-Kongress (2018) bereitete er sich mit einer Intensität vor, die Insider als fast beängstigend beschrieben. Stundenlange Vorbereitung, auswendig gelernte Antworten, kein Anzeichen von Nervosität &ndash; aber auch kein Anzeichen von Spontaneität. Das ist die SX5w6 unter Beobachtung: Sie gibt nicht nach. Sie bereitet sich vor.</p>
+          <p class="vb-intro">The <strong>Six-wing (w6)</strong> brings to the sexual Five a deep need for security, a tendency to think in threat scenarios, and an extraordinary loyalty toward the inner circle. The SX5w6 does not build open structures. It builds systems it understands and controls &ndash; because control means safety.</p>
+          <p class="vb-intro">This is visible in the way Zuckerberg runs Meta. He is not a leader by conviction. The most important decisions &ndash; product strategy, acquisitions, the fundamental architectural choices of the platform &ndash; he makes himself or with a tiny circle of trusted individuals. The purchase of Instagram (2012) and WhatsApp (2014) for billions of dollars each, when both companies barely generated revenue, were not decisions derived from spreadsheet models. That was the Six-wing identifying potential threats early and eliminating them: <em>What could endanger me, I would rather control.</em></p>
+          <p class="vb-intro">The Six-wing is also visible in Zuckerberg&apos;s unusual response to criticism and pressure: he does not become emotional, he becomes more systematic. He prepared for the congressional hearings in 2018 with an intensity that insiders described as almost unnerving. Hours of preparation, memorized responses, no sign of nervousness &ndash; but also no sign of spontaneity. That is the SX5w6 under scrutiny: it does not yield. It prepares.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten</h2>
+        <h2 class="vb-section">4. Light and Shadow</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SX5w6 ist ihre Fähigkeit zur außergewöhnlichen Fokussierung. Zuckerberg hat mit 19 Jahren etwas gebaut, das die Kommunikation der Menschheit verändert hat &ndash; und er hat es nicht aus Geltungsdrang getan, sondern aus echter intellektueller Faszination: <em>Wie funktioniert das, wie Menschen sich kennenlernen, was hält Gemeinschaften zusammen?</em> Diese Fragen waren real. Der Antrieb war nicht Ego, sondern Neugier &ndash; und das ist das Geschenk der Fünf.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Fünf ist der <strong>Geiz</strong> &ndash; das Backhalten, das Nicht-Teilen, die Angst, durch Geben weniger zu werden. Bei Zuckerberg zeigt sich das auf einer strukturellen Ebene: Meta teilt enorme Mengen an Nutzerdaten mit Werbetreibenden, aber Zuckerberg selbst teilt kaum etwas von sich. Die Asymmetrie ist bemerkenswert: Das System lebt vom Teilen. Der Mensch dahinter verweigert es.</p>
-          <p class="vb-intro">Der Six-wing bringt seinen eigenen Schatten: das Denken in Loyalität und Verrat, in Freund und Feind. Ehemalige Mitgründer &ndash; Eduardo Saverin, Chris Hughes &ndash; erfuhren, wie schnell man im Zuckerberg-System vom Vertrauten zum Außenseiter werden kann. Die SX5w6 vergibt nicht leicht. Und sie vergisst nicht.</p>
+          <p class="vb-intro">The light of the SX5w6 is its capacity for extraordinary focus. Zuckerberg, at nineteen, built something that changed the way humanity communicates &ndash; and he did it not from a desire for recognition, but from genuine intellectual fascination: <em>How does it actually work, the way people get to know each other, what holds communities together?</em> These were real questions. The drive was not ego but curiosity &ndash; and that is the gift of the Five.</p>
+          <p class="vb-intro">The karmic pattern of the Five is <strong>avarice</strong> &ndash; the withholding, the not-sharing, the fear of becoming less through giving. In Zuckerberg, this manifests at a structural level: Meta shares enormous quantities of user data with advertisers, yet Zuckerberg himself shares almost nothing of himself. The asymmetry is striking: the system lives on sharing. The person behind it refuses.</p>
+          <p class="vb-intro">The Six-wing casts its own shadow: thinking in terms of loyalty and betrayal, of friend and enemy. Former co-founders &ndash; Eduardo Saverin, Chris Hughes &ndash; learned how quickly one can move in the Zuckerberg system from trusted ally to outsider. The SX5w6 does not forgive easily. And it does not forget.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Das Innere zeigen</h2>
+        <h2 class="vb-section">5. The Healing Path: Showing the Inner Self</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Fünf führt von <em>Ich habe nicht genug, um zu geben</em> zu <em>Was ich bin, reicht &ndash; auch ohne Kontrolle über das Bild.</em> Für die SX5w6 bedeutet das: das Vertrauen, das sie dem inneren Kreis schenkt, langsam auch in die eigene Sichtbarkeit zu verlängern &ndash; nicht alles zu steuern, nicht jede Reaktion zu antizipieren, sich zeigen ohne Rüstung.</p>
-          <p class="vb-intro">Zuckerberg hat in den letzten Jahren Schritte in diese Richtung unternommen, die für einen SX5w6 erstaunlich sind: Jiu-Jitsu, MMA-Training, öffentlich Kampfsport zu betreiben &ndash; mit dem Körper präsent sein statt hinter Bildschirmen. Das ist nicht nur ein Hobby. Das ist der Igel, der sich bewegt &ndash; der die Stacheln nicht einzieht, aber lernt, auch ohne sie stabil zu sein. Die Reise ist nicht abgeschlossen. Aber sie hat begonnen.</p>
+          <p class="vb-intro">The healing path of the Five leads from <em>I do not have enough to give</em> to <em>What I am is sufficient &ndash; even without controlling the image.</em> For the SX5w6 this means gradually extending the trust it gives to its inner circle into its own visibility &ndash; not controlling everything, not anticipating every reaction, allowing itself to be seen without armor.</p>
+          <p class="vb-intro">In recent years, Zuckerberg has taken steps in this direction that are remarkable for an SX5w6: jiu-jitsu, MMA training, practicing martial arts publicly &ndash; being present in the body rather than behind screens. This is not merely a hobby. It is the hedgehog in motion &ndash; one that does not retract its spines, but is learning to be stable even without them. The journey is not complete. But it has begun.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+            ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/sx5", label:"SX5 – Der Igel: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/sx5", label:"SX5 – The Hedgehog: Subtype Profile"},
         {route:"beruehmte-edward-snowden", label:"Portrait: Edward Snowden (SX5w6)"},
       ])}
     </div>
@@ -10148,51 +10148,51 @@ function edwardSnowdenPortraitPage() {
           <img src="./assets/portraits/beruehmte-edward-snowden-portrait.jpg" alt="Igel" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Edward Snowden</p>
-        <p class="krim-portrait-typ">SX5w6 &middot; Sexual Type 5 mit Six-wing</p>
-        <p class="krim-portrait-subtitle">Whistleblower &amp; ehem. NSA-Mitarbeiter, geb. 1983 &ndash; Animal correspondence: Igel</p>
+        <p class="krim-portrait-typ">SX5w6 &middot; Sexual Type 5 with Six-wing</p>
+        <p class="krim-portrait-subtitle">Whistleblower &amp; former NSA contractor, born 1983 &ndash; Animal correspondence: Hedgehog</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der Igel</h2>
+        <h2 class="vb-section">1. The Hedgehog</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Igel</strong> ist das Tier des sexuellen Typs 5 &ndash; ein Wesen, das in der Stille lebt, das beobachtet statt lärmt, das sich bei Gefahr zur Kugel zusammenrollt und seine Stacheln zeigt. Wer einen Igel sehen will, muss Geduld haben. Wer ihn berühren will, muss sein Vertrauen gewinnen. Und wer ihn zwingt, wird sich stechen.</p>
-          <p class="vb-intro">Edward Snowden ist dieser Igel: ein Mann, der jahrelang im Innern eines der mächtigsten Geheimdienstapparate der Welt arbeitete &ndash; still, präzise, unsichtbar &ndash; und dann, in einem einzigen Moment, alles preisgab. Nicht aus Impulsivität. Nicht aus Rache. Sondern weil er zu viel gesehen hatte, um schweigen zu können. 2013 übergab er der Presse Tausende von geheimen NSA-Dokumenten und enthüllte das Ausmaß globaler Massenüberwachung. Seitdem lebt er in Moskau &ndash; im Exil, im Verborgenen. Der Igel, der alles riskiert hat &ndash; und nun wieder in seiner Höhle sitzt.</p>
+          <p class="vb-intro">The <strong>hedgehog</strong> is the animal of the sexual Type 5 &ndash; a creature that lives in silence, that observes rather than makes noise, that curls into a ball at danger and shows its spines. Anyone who wants to see a hedgehog must be patient. Anyone who wants to touch it must earn its trust. And anyone who forces it will be stung.</p>
+          <p class="vb-intro">Edward Snowden is this hedgehog: a man who worked for years inside one of the most powerful intelligence apparatuses in the world &ndash; quiet, precise, invisible &ndash; and then, in a single moment, disclosed everything. Not out of impulsiveness. Not out of revenge. But because he had seen too much to remain silent. In 2013 he handed the press thousands of secret NSA documents, revealing the extent of global mass surveillance. Since then he has lived in Moscow &ndash; in exile, in concealment. The hedgehog that risked everything &ndash; and now sits again in its burrow.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die sexuelle Fünf: Vertrauen als Gewissen</h2>
+        <h2 class="vb-section">2. The Sexual Five: Trust as Conscience</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>sexuelle Fünf (SX5)</strong> ist nach Naranjo der <strong>Kontratyp</strong> der Fünf: Hier tritt die Leidenschaft des Geizes am wenigsten offen zutage &ndash; weil die sexuelle Energie die Fünf aus ihrer Isolation herauszieht und nach tiefer, intensiver Verbindung suchen lässt. Naranjo nannte diesen Subtype <em>Vertrauen</em>: Die SX5 sucht die eine Verbindung, die alles trägt &ndash; den Menschen, das Prinzip, die Wahrheit &ndash; dem sie sich vollständig öffnen kann. Für alle anderen: Stacheln.</p>
-          <p class="vb-intro">Bei Snowden war diese Verbindung keine Person &ndash; es war ein Prinzip: die Überzeugung, dass Menschen das Recht haben zu wissen, was in ihrem Namen getan wird. Er arbeitete jahrelang als Systemtechniker für CIA und NSA, hatte Zugang zu Informationen, die kaum jemand sah &ndash; und er schwieg. Bis er nicht mehr schweigen konnte. Die SX5 hortet nicht ewig. Wenn das Vertrauen in eine tiefere Wahrheit stark genug ist, gibt sie alles preis &ndash; und nimmt dafür jeden Preis in Kauf.</p>
-          <p class="vb-intro">Snowden lebt seit 2013 in Moskau. Er hat seine Heimat, seine Familie, seine Freiheit riskiert. Das ist nicht Kalkulation. Das ist die SX5, die ihrem Vertrauen folgt &ndash; bis zur letzten Konsequenz.</p>
+          <p class="vb-intro">The <strong>sexual Five (SX5)</strong> is, according to Naranjo, the <strong>counter-type</strong> of the Five: the passion of avarice is least obvious here &ndash; because the sexual energy pulls the Five out of isolation and drives a search for deep, intense connection. Naranjo named this subtype <em>Trust</em>: the SX5 seeks the one bond that sustains everything &ndash; the person, the principle, the truth &ndash; to which it can open completely. For everyone else: spines.</p>
+          <p class="vb-intro">For Snowden, this bond was not a person &ndash; it was a principle: the conviction that people have the right to know what is being done in their name. He worked for years as a systems engineer for the CIA and NSA, had access to information almost no one else saw &ndash; and he stayed silent. Until he could no longer. The SX5 does not hoard forever. When trust in a deeper truth is strong enough, it gives everything away &ndash; and accepts any price for doing so.</p>
+          <p class="vb-intro">Snowden has lived in Moscow since 2013. He risked his homeland, his family, his freedom. This is not calculation. This is the SX5 following its trust &ndash; to the last consequence.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Six-wing: Pflicht und Widerstand</h2>
+        <h2 class="vb-section">3. The Six-wing: Duty and Resistance</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Six-wing (w6)</strong> bringt der sexuellen Fünf ein tiefes Pflichtgefühl und eine wache Skepsis gegenüber Institutionen. Die SX5w6 folgt nicht blind dem System &ndash; sie prüft es. Sie fragt: <em>Ist das, was hier getan wird, wirklich das, wofür es ausgegeben wird? Und wenn nicht &ndash; was bin ich schuldig?</em> Die Antwort des Six-wings ist nicht immer Mut. Oft ist es zuerst Angst. Aber manchmal &ndash; wenn die Angst durchgearbeitet ist &ndash; wird aus Pflichtgefühl Handlung.</p>
-          <p class="vb-intro">Snowden beschreibt in seiner Autobiografie <em>Permanent Record</em>, wie er lange zögerte, wie er hoffte, dass andere handeln würden, wie er sich fragte, ob er das Richtige tue. Das ist der Six-wing: nicht der Held, der keine Angst kennt, sondern der Mensch, der Angst hat &ndash; und trotzdem handelt, weil er nicht anders kann. Der Zweifel gehört dazu. Er ist kein Zeichen von Schwäche. Er ist der Beweis, dass die Entscheidung ernst genommen wurde.</p>
-          <p class="vb-intro">Der Six-wing erklärt auch Snowdens tiefe Loyalität gegenüber den Grundsätzen der Verfassung, der er einst einen Eid geschworen hatte. Er brach die Geheimhaltung nicht trotz seines Eids &ndash; sondern weil er glaubte, dass der Staat seinen Eid gebrochen hatte. Das ist die SX5w6: Loyalität gegenüber dem Prinzip, nicht gegenüber der Institution.</p>
+          <p class="vb-intro">The <strong>Six-wing (w6)</strong> brings to the sexual Five a deep sense of duty and a watchful skepticism toward institutions. The SX5w6 does not follow the system blindly &ndash; it tests it. It asks: <em>Is what is being done here really what it claims to be? And if not &ndash; what do I owe?</em> The Six-wing&apos;s answer is not always courage. Often it is fear first. But sometimes &ndash; once the fear has been worked through &ndash; a sense of duty becomes action.</p>
+          <p class="vb-intro">Snowden describes in his autobiography <em>Permanent Record</em> how long he hesitated, how he hoped others would act, how he asked himself whether he was doing the right thing. That is the Six-wing: not the hero who knows no fear, but the person who is afraid &ndash; and acts anyway, because he cannot do otherwise. The doubt belongs to it. It is not a sign of weakness. It is proof that the decision was taken seriously.</p>
+          <p class="vb-intro">The Six-wing also explains Snowden&apos;s deep loyalty to the principles of the Constitution he had once sworn an oath to uphold. He did not break secrecy despite his oath &ndash; but because he believed the state had broken its oath. That is the SX5w6: loyalty to the principle, not to the institution.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten</h2>
+        <h2 class="vb-section">4. Light and Shadow</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SX5w6 ist ihre Fähigkeit, trotz allem Wissen &ndash; trotz des vollständigen Einblicks in das, was wirklich geschieht &ndash; handlungsfähig zu bleiben. Snowden hatte gesehen, was Massenüberwachung bedeutet: jede E-Mail, jedes Telefonat, jeder Klick &ndash; gespeichert, ausgewertet, verfügbar. Er hätte schweigen können. Er hätte sich hinter sein Wissen zurückziehen können. Stattdessen hat er es geteilt &ndash; mit der ganzen Welt, auf einmal, unumkehrbar.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Fünf ist der <strong>Geiz</strong> &ndash; das Backhalten, das Horten, das Nicht-Geben. Snowdens Akt war die radikalste Überwindung dieses Musters, die man sich vorstellen kann: Er gab alles. Und er wusste, dass er es nicht zurückbekommen würde. Das ist kein geringer Preis für eine Fünf.</p>
-          <p class="vb-intro">Der Schatten: Das Leben im Exil, weit weg von allem, was vertraut war, in einem Land, dessen Sprache er kaum spricht &ndash; das ist auch eine Form des Rückzugs. Der Igel in seiner Höhle. Die Frage, ob die Isolation gewählt ist oder auferlegt, lässt sich von außen nicht beantworten.</p>
+          <p class="vb-intro">The light of the SX5w6 is its ability to remain capable of action despite all knowledge &ndash; despite complete insight into what is really happening. Snowden had seen what mass surveillance means: every email, every phone call, every click &ndash; stored, analyzed, available. He could have remained silent. He could have retreated behind his knowledge. Instead he shared it &ndash; with the whole world, all at once, irreversibly.</p>
+          <p class="vb-intro">The karmic pattern of the Five is <strong>avarice</strong> &ndash; the withholding, the hoarding, the not-giving. Snowden&apos;s act was the most radical possible overcoming of this pattern: he gave everything. And he knew he would not get it back. That is no small price for a Five.</p>
+          <p class="vb-intro">The shadow: life in exile, far from everything familiar, in a country whose language he barely speaks &ndash; that is also a form of withdrawal. The hedgehog in its burrow. Whether the isolation is chosen or imposed cannot be answered from the outside.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Sichtbar bleiben</h2>
+        <h2 class="vb-section">5. The Healing Path: Remaining Visible</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Fünf führt von <em>Ich habe nicht genug, um zu geben</em> zu <em>Was ich weiß, gehört nicht nur mir.</em> Snowden hat diesen Schritt vollzogen &ndash; in einer Radikalität, die ihresgleichen sucht. Der Igel, der sich öffnet, ist verletzlich. Und Snowden ist verletzlich: rechtlich, politisch, persönlich. Er kann nicht zurück. Er kann sich nicht verstecken. Er hat sich sichtbar gemacht &ndash; für immer.</p>
-          <p class="vb-intro">Was bleibt, ist die Frage, die sein Leben stellt: <em>Was bist du bereit zu riskieren, wenn du weißt, was du weißt?</em> Die SX5w6 gibt darauf keine einfache Antwort. Aber Snowden hat gezeigt, dass es eine Antwort gibt.</p>
+          <p class="vb-intro">The healing path of the Five leads from <em>I do not have enough to give</em> to <em>What I know does not belong only to me.</em> Snowden has taken this step &ndash; with a radicality that has no equal. The hedgehog that opens itself is vulnerable. And Snowden is vulnerable: legally, politically, personally. He cannot go back. He cannot hide. He has made himself visible &ndash; permanently.</p>
+          <p class="vb-intro">What remains is the question his life poses: <em>What are you willing to risk when you know what you know?</em> The SX5w6 gives no simple answer to that. But Snowden has shown that an answer exists.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+            ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/sx5", label:"SX5 – Der Igel: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/sx5", label:"SX5 – The Hedgehog: Subtype Profile"},
         {route:"beruehmte-taylor-swift", label:"Portrait: Taylor Swift (SX5w4)"},
       ])}
     </div>
@@ -10209,51 +10209,51 @@ function taylorSwiftPortraitPage() {
           <img src="./assets/portraits/beruehmte-taylor-swift-portrait.jpg" alt="Igel" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Taylor Swift</p>
-        <p class="krim-portrait-typ">SX5w4 &middot; Sexual Type 5 mit Four-wing</p>
-        <p class="krim-portrait-subtitle">Sängerin, Songwriterin &amp; Musikproduzentin, geb. 1989 &ndash; Animal correspondence: Igel</p>
+        <p class="krim-portrait-typ">SX5w4 &middot; Sexual Type 5 with Four-wing</p>
+        <p class="krim-portrait-subtitle">Singer, songwriter &amp; music producer, born 1989 &ndash; Animal correspondence: Hedgehog</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der Igel</h2>
+        <h2 class="vb-section">1. The Hedgehog</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Igel</strong> ist das Tier des sexuellen Typs 5 &ndash; ein kleines, nachtaktives Wesen, das sich bei Gefahr blitzschnell zusammenrollt und ein Geflecht aus Stacheln zeigt. Wer ihn kennt, weiß: Darunter ist etwas außerordentlich Weiches. Aber man muss Vertrauen aufgebaut haben, um es zu berühren. Der Igel erkundet die Welt neugierig und intensiv &ndash; wenn er sich sicher fühlt. Andernfalls: Kugel. Stacheln. Warten.</p>
-          <p class="vb-intro">Taylor Swift ist dieser Igel. Eine der meistgehörten Künstlerinnen der Welt, mit einem Werk, das aus persönlichsten Erfahrungen destilliert ist &ndash; und zugleich eine Frau, die außerordentlich kontrolliert damit umgeht, was sie wirklich von sich preisgibt. Die Musik ist das Innere. Alles andere ist die Oberfläche. Und die Stacheln sind aus Worten gemacht.</p>
+          <p class="vb-intro">The <strong>hedgehog</strong> is the animal of the sexual Type 5 &ndash; a small, nocturnal creature that curls up in a flash at danger and reveals a web of spines. Those who know it understand: beneath them lies something extraordinarily soft. But trust must be built before one can touch it. The hedgehog explores the world with curiosity and intensity &ndash; when it feels safe. Otherwise: a ball. Spines. Waiting.</p>
+          <p class="vb-intro">Taylor Swift is this hedgehog. One of the most-heard artists in the world, with a body of work distilled from the most personal experiences &ndash; and yet a woman who is extraordinarily controlled about what she actually reveals of herself. The music is the interior. Everything else is the surface. And the spines are made of words.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die sexuelle Fünf: Vertrauen als Fundament</h2>
+        <h2 class="vb-section">2. The Sexual Five: Trust as Foundation</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>sexuelle Fünf (SX5)</strong> ist nach Naranjo der <strong>Kontratyp</strong> der Fünf: Hier zeigt sich die Leidenschaft des Geizes am wenigsten offensichtlich &ndash; weil die sexuelle Energie die Fünf aus ihrer Isolation herauszieht und nach tiefer, intensiver Verbindung suchen lässt. Naranjo nannte diesen Subtype <em>Vertrauen</em>: Die SX5 sucht die eine Verbindung, die alles trägt &ndash; den Partner, den Freund, das Publikum &ndash; dem sie sich wirklich öffnen kann. Aber diese Öffnung gilt nur für wenige. Für den Rest: Stacheln.</p>
-          <p class="vb-intro">Bei Taylor Swift zeigt sich das in der Art, wie sie Nähe organisiert. Öffentlich ist sie überall &ndash; in den Charts, auf Bühnen, in den Schlagzeilen. Aber was sie wirklich denkt, fühlt, glaubt: das steht in den Songs. Nicht in Interviews. Nicht in Social Media. In den Texten, in den Vault Tracks, in den Easter Eggs, die nur diejenigen entschlüsseln können, die wirklich zuhören. Das ist SX5: Ich gebe alles preis &ndash; aber nur für die, die die Sprache sprechen.</p>
-          <p class="vb-intro">Das Horten der Fünf zeigt sich bei Swift in einem anderen Bereich: dem Horten von Kontrolle. Als ihr früheres Label ihre ersten sechs Alben an den Manager Scooter Braun verkaufte, ohne sie zu fragen, reagierte sie nicht mit Resignation. Sie nahm ihre Alben neu auf &ndash; eines nach dem anderen, unter dem Zusatz <em>Taylor's Version</em> &ndash; und rief ihre Fans dazu auf, nur noch diese Versionen zu streamen. Das ist die SX5 im Kampf um ihr ureigenes Werk: <em>Das hier gehört mir. Ich hole es zurück.</em></p>
+          <p class="vb-intro">The <strong>sexual Five (SX5)</strong> is, according to Naranjo, the <strong>counter-type</strong> of the Five: the passion of avarice is least obvious here &ndash; because the sexual energy pulls the Five out of isolation and drives a search for deep, intense connection. Naranjo named this subtype <em>Trust</em>: the SX5 seeks the one bond that sustains everything &ndash; the partner, the friend, the audience &ndash; to whom it can truly open. But this openness is reserved for very few. For everyone else: spines.</p>
+          <p class="vb-intro">In Taylor Swift, this shows in the way she organizes closeness. Publicly she is everywhere &ndash; on the charts, on stages, in the headlines. But what she truly thinks, feels, believes: that is in the songs. Not in interviews. Not on social media. In the lyrics, in the vault tracks, in the Easter eggs that only those who truly listen can decode. That is SX5: I reveal everything &ndash; but only to those who speak the language.</p>
+          <p class="vb-intro">The Five&apos;s hoarding manifests in Swift in a different domain: hoarding control. When her former label sold her first six albums to manager Scooter Braun without asking her, she did not respond with resignation. She re-recorded her albums &ndash; one by one, with the addition of <em>Taylor&apos;s Version</em> &ndash; and called on her fans to stream only those versions. That is the SX5 fighting for its most personal work: <em>This belongs to me. I am taking it back.</em></p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Four-wing: Die Poetin der eigenen Welt</h2>
+        <h2 class="vb-section">3. The Four-wing: The Poet of Her Own World</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Four-wing (w4)</strong> bringt der sexuellen Fünf eine charakteristische Tiefe: das Bedürfnis, das Einzigartige zu benennen, das Unsagbare in Sprache zu fassen, die eigene Erfahrung als etwas zu behandeln, das Bedeutung verdient. Die SX5w4 lebt nicht nur &ndash; sie beobachtet, wie sie lebt, und verwandelt das Beobachtete in Kunst.</p>
-          <p class="vb-intro">Taylor Swifts Songwriting ist das reinste Beispiel dafür. Sie schreibt nicht über abstrakte Gefühle &ndash; sie schreibt über bestimmte Momente, bestimmte Menschen, bestimmte Dezemberabende. Sie dokumentiert obsessiv: Tagebücher, geheime Notizen, versteckte Hinweise in Albumartworks. Das ist der Four-wing: <em>Ich muss festhalten, was war. Weil es sonst verloren geht. Weil es bedeutsam ist, auch wenn es niemand sieht.</em></p>
-          <p class="vb-intro">Der Four-wing erklärt auch Swifts Fähigkeit zur künstlerischen Neuerfindung. Von Country zu Pop zu Indie-Folk zu Electropop &ndash; jedes Album ist eine neue Identität, ein neuer Blick auf sich selbst. Das ist keine Marketingstrategie. Das ist die SX5w4: immer auf der Search nach dem Bild, das noch genauer trifft, was innen ist.</p>
+          <p class="vb-intro">The <strong>Four-wing (w4)</strong> brings the sexual Five a characteristic depth: the need to name the unique, to put the unsayable into language, to treat one&apos;s own experience as something that deserves meaning. The SX5w4 does not merely live &ndash; she observes how she lives, and transforms what she observes into art.</p>
+          <p class="vb-intro">Taylor Swift&apos;s songwriting is the purest example of this. She does not write about abstract feelings &ndash; she writes about specific moments, specific people, specific December evenings. She documents obsessively: diaries, secret notes, hidden clues in album artwork. That is the Four-wing: <em>I must hold on to what was. Because otherwise it will be lost. Because it is meaningful, even if no one sees it.</em></p>
+          <p class="vb-intro">The Four-wing also explains Swift&apos;s capacity for artistic reinvention. From country to pop to indie folk to electropop &ndash; each album is a new identity, a new perspective on herself. This is not a marketing strategy. That is the SX5w4: always searching for the image that captures more precisely what is within.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten</h2>
+        <h2 class="vb-section">4. Light and Shadow</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SX5w4 ist ihre Fähigkeit, das Innen in Außen zu verwandeln &ndash; persönliche Erfahrungen in Kunst, die Millionen berührt. Taylor Swifts Songs haben eine Präzision, die nur aus echter Beobachtung kommt: der richtige Schuh auf dem falschen Boden, das falsche Lächeln zum richtigen Zeitpunkt. Das ist das Geschenk der Igelin: Sie sieht, wo andere wegsehen.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Fünf ist der <strong>Geiz</strong> &ndash; und bei der SX5 zeigt er sich als Kontrollsucht über das eigene Bild. Swifts Verhältnis zur Öffentlichkeit ist ambivalent: Sie inszeniert sich mit enormem Aufwand, aber immer auf eigenen Bedingungen. Narrative, die nicht passen, werden in Songs verarbeitet &ndash; und damit endgültig definiert. <em>Ich entscheide, wie diese Geschichte erzählt wird.</em></p>
-          <p class="vb-intro">Der Four-wing bringt die Gefahr der Selbstbezogenheit: wenn die eigene Erfahrung so sehr zum Zentrum wird, dass andere hauptsächlich als Material vorkommen. Songs über Ex-Partner, die sie nicht gefragt hat &ndash; das ist ein Grenzbereich, den Swift selbst immer wieder berührt.</p>
+          <p class="vb-intro">The light of the SX5w4 is her ability to transform the inner into the outer &ndash; personal experiences into art that touches millions. Taylor Swift&apos;s songs have a precision that comes only from genuine observation: the right shoe on the wrong floor, the wrong smile at the right moment. That is the gift of the hedgehog: she sees where others look away.</p>
+          <p class="vb-intro">The karmic pattern of the Five is <strong>avarice</strong> &ndash; and in the SX5 it shows as a drive to control one&apos;s own image. Swift&apos;s relationship with the public is ambivalent: she stages herself with enormous effort, but always on her own terms. Narratives that do not fit are processed in songs &ndash; and thus definitively defined. <em>I decide how this story is told.</em></p>
+          <p class="vb-intro">The Four-wing brings the risk of self-centeredness: when one&apos;s own experience becomes so central that others appear primarily as material. Songs about ex-partners who were not asked &ndash; this is a boundary zone that Swift herself repeatedly touches.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Horten zum Vertrauen</h2>
+        <h2 class="vb-section">5. The Healing Path: From Hoarding to Trust</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Fünf führt von der Frage <em>Habe ich genug?</em> zur Erkenntnis <em>Ich bin genug &ndash; auch ohne Kontrolle über alles.</em> Für die SX5w4 bedeutet das, das Vertrauen, das sie in ihren engsten Kreis legt, langsam auch in die Welt zu verlängern: nicht jede Geschichte selbst zu erzählen, nicht jeden Angriff in einen Song zu gießen, nicht jede Deutungshoheit zu behalten.</p>
-          <p class="vb-intro">Der Igel, der sich zusammenrollt, schützt sich &ndash; aber er erkundet die Welt nicht. Taylor Swift hat in ihrem Werk immer wieder Momente der echten Öffnung gefunden: <em>folklore</em> und <em>evermore</em>, geschrieben im Lockdown, ohne Publikum, ohne Inszenierung &ndash; nur Worte und Gitarre. Das ist die SX5w4 auf ihrem Heilungsweg: Wenn die Stacheln fallen, kommt das Weichste raus. Und das ist das Stärkste.</p>
+          <p class="vb-intro">The healing path of the Five leads from the question <em>Do I have enough?</em> to the realization <em>I am enough &ndash; even without controlling everything.</em> For the SX5w4 this means gradually extending the trust she places in her closest circle into the wider world: not telling every story herself, not pouring every attack into a song, not retaining every right of interpretation.</p>
+          <p class="vb-intro">The hedgehog that curls up is protecting itself &ndash; but it is not exploring the world. Taylor Swift has found moments of genuine opening throughout her work: <em>folklore</em> and <em>evermore</em>, written during lockdown, without an audience, without staging &ndash; just words and guitar. That is the SX5w4 on her healing path: when the spines fall, the softest thing emerges. And that is the strongest.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+            ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/sx5", label:"SX5 – Der Igel: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/sx5", label:"SX5 – The Hedgehog: Subtype Profile"},
         {route:"beruehmte-christian-raetsch", label:"Portrait: Christian Rätsch (SE5w4)"},
       ])}
     </div>
@@ -10270,52 +10270,52 @@ function claudioNaranjoPortraitPage() {
           <img src="./assets/portraits/beruehmte-claudio-naranjo-portrait.jpg" alt="Claudio Naranjo" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Claudio Naranjo</p>
-        <p class="krim-portrait-typ">SO5w4 &middot; Social Type 5 mit Four-wing</p>
-        <p class="krim-portrait-subtitle">Psychiater, Autor, Enneagramm- &amp; Meditationslehrer, 1932&ndash;2019 &ndash; Animal correspondence: Oktopus</p>
+        <p class="krim-portrait-typ">SO5w4 &middot; Social Type 5 with Four-wing</p>
+        <p class="krim-portrait-subtitle">Psychiatrist, author, Enneagram &amp; meditation teacher, 1932&ndash;2019 &ndash; Animal correspondence: Octopus</p>
       </div>
       <div class="page-content">
 
         <h2 class="vb-section">1. The Octopus</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Oktopus</strong> ist das Tier des sozialen Typs 5 &ndash; und kaum ein Bild trifft Claudio Naranjo präziser. Der Oktopus ist das intelligenteste wirbellose Tier der Erde: ein Wesen mit neun Gehirnen, das gleichzeitig in acht verschiedene Richtungen denken kann. Er lebt in der Tiefe, wo das Licht nicht mehr hinreicht &ndash; und dort findet er, was anderen verborgen bleibt. Er ist kein Tier der Oberfläche. Er ist ein Tier des Grundes.</p>
-          <p class="vb-intro">Claudio Naranjo war dieser Oktopus. Ein chilenischer Psychiater, der in den 1970er Jahren begann, das Enneagramm systematisch zu erforschen &ndash; und der daraus ein Werk entwickelte, das bis heute keine wirkliche Äquivalenz hat. Die neun Typen, die siebenundzwanzig Subtypees, die Charakterleidenschaften, die Heilungswege &ndash; alles, was heute als modernes Enneagramm-Wissen gilt, geht im Kern auf seine Arbeit zurück. Der Oktopus hat getan, was Oktopusse tun: Er hat die Tiefe erkundet. Und er hat mitgebracht, was er dort fand.</p>
+          <p class="vb-intro">The <strong>octopus</strong> is the animal of the social Type 5 &ndash; and barely any image fits Claudio Naranjo more precisely. The octopus is the most intelligent invertebrate on earth: a creature with nine brains, capable of thinking simultaneously in eight different directions. It lives in the depths where light no longer reaches &ndash; and there it finds what remains hidden from others. It is not a creature of the surface. It is a creature of the ground.</p>
+          <p class="vb-intro">Claudio Naranjo was this octopus. A Chilean psychiatrist who in the 1970s began to explore the Enneagram systematically &ndash; and from it developed a body of work that to this day has no real equivalent. The nine types, the twenty-seven subtypes, the character passions, the healing paths &ndash; everything that today counts as modern Enneagram knowledge goes back in essence to his work. The octopus did what octopuses do: it explored the depths. And it brought back what it found there.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die soziale Fünf: Totem</h2>
+        <h2 class="vb-section">2. The Social Five: Totem</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>soziale Fünf (SO5)</strong> nannte Naranjo selbst <em>Totem</em>: Das Wissen als Schutzgeist der Gemeinschaft, als lebendiges Erbe, das weitergegeben werden will. Während die selbsterhaltende Fünf ihr Wissen hütet und die sexuelle Fünf es als Brücke zum Einzelnen nutzt, richtet die SO5 ihr Wissen auf die Welt. Sie möchte, dass das, was sie weiß, weiterläuft &ndash; dass es anderen nützt, dass es in Menschen übergeht, die es tragen und mehren.</p>
-          <p class="vb-intro">Naranjo hat diesen Impuls ein Leben lang gelebt. Seine SAT-Kurse &ndash; Seekers After Truth &ndash; wurden zu einem weltweiten Netzwerk der Selbsterkenntnisarbeit. Er lehrte in Spanien, in Mexiko, in Chile, in den USA. Er schrieb Bücher, die übersetzt wurden. Er bildete Lehrer aus, die wieder Lehrer ausbildeten. Der Oktopus der SO5 streckt seine Arme aus &ndash; nicht um zu halten, sondern um zu übergeben.</p>
+          <p class="vb-intro">The <strong>social Five (SO5)</strong> Naranjo himself called <em>Totem</em>: knowledge as the protective spirit of the community, as a living legacy that wants to be passed on. While the self-preservation Five guards its knowledge and the sexual Five uses it as a bridge to the individual, the SO5 directs its knowledge toward the world. It wants what it knows to continue &ndash; to benefit others, to pass into people who will carry it and expand it.</p>
+          <p class="vb-intro">Naranjo lived this impulse throughout his life. His SAT courses &ndash; Seekers After Truth &ndash; became a worldwide network of self-knowledge work. He taught in Spain, in Mexico, in Chile, in the United States. He wrote books that were translated. He trained teachers who trained further teachers. The octopus of the SO5 extends its arms &ndash; not to hold, but to pass on.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Four-wing: Die Tiefe hinter dem Wissen</h2>
+        <h2 class="vb-section">3. The Four-wing: The Depth Behind the Knowledge</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Four-wing</strong> verleiht der sozialen Fünf eine Qualität, die reine Wissensvermittlung überschreitet: emotionale Tiefe, künstlerische Sensibilität und ein Bewusstsein für das, was im Inneren des Menschen wirklich vorgeht. Die <strong>SO5w4</strong> weiß nicht nur &ndash; sie fühlt auch. Und sie weiß, dass Wissen ohne diese Fähigkeit leer bleibt.</p>
-          <p class="vb-intro">Naranjo war musisch veranlagt auf eine Weise, die viele überraschte. Er komponierte, er liebte Musik als Weg zur Seele &ndash; nicht als Hintergrundkulisse, sondern als Erkenntnisquelle. Diesen Zug hat der Four-wing: das Gefühl, dass bestimmte Wahrheiten sich nicht rein sprachlich ausdrücken lassen, sondern nur in der Form, im Klang, im Bild. Sein Werk hat diese Tiefe &ndash; es ist nicht nur Systematik, sondern gelebte Menschenkunde.</p>
+          <p class="vb-intro">The <strong>Four-wing</strong> gives the social Five a quality that transcends pure knowledge transmission: emotional depth, artistic sensibility, and an awareness of what is truly happening within a person. The <strong>SO5w4</strong> does not only know &ndash; it also feels. And it knows that knowledge without this capacity remains empty.</p>
+          <p class="vb-intro">Naranjo was musically gifted in a way that surprised many. He composed; he loved music as a path to the soul &ndash; not as background ambience but as a source of insight. That is the Four-wing: the sense that certain truths cannot be expressed in purely verbal form, but only in form, in sound, in image. His work has this depth &ndash; it is not only systematics but lived human science.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Das Werk: Die siebenundzwanzig Gesichter des Menschen</h2>
+        <h2 class="vb-section">4. The Work: The Twenty-Seven Faces of Humanity</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Was Naranjo der Welt gegeben hat, lässt sich in einer Zahl zusammenfassen: <strong>27</strong>. Neun Typen, drei Instinkte, siebenundzwanzig Subtypees &ndash; ein System, das jeden Menschen präziser beschreibt, als jedes andere Persönlichkeitsmodell es vermag. Wo andere Systeme an der Oberfläche bleiben, geht das Subtypees-Enneagramm in die Tiefe des Charakters, der Leidenschaften, der unbewussten Muster. Es ist kein Schubladensystem. Es ist ein Spiegel.</p>
-          <p class="vb-intro">Naranjo hat dieses System nicht erfunden &ndash; aber er hat es aus dem Dunkeln geholt, es systematisiert, beschrieben und lehrbar gemacht. Auf der Grundlage von Oscar Ichazo, Fritz Perls und seiner eigenen jahrzehntelangen therapeutischen Praxis hat er ein Werk geschaffen, das nach seinem Tod 2019 weiterlebt &ndash; in Tausenden von Lehrern, Büchern, Kursen und Menschen, die sich in ihm erkannt haben.</p>
-          <p class=vb-intro>Entscheidend für die weltweite Verbreitung war seine Verbindung zur <strong>University of California, Berkeley</strong>. Dort lehrte er und zog einen Kreis von Schülern an, die das Enneagramm-Wissen in die Welt trugen und zu bedeutenden Lehrern in eigener Hinsicht wurden: <strong>Helen Palmer</strong>, die das Enneagramm im englischsprachigen Raum popularisierte und die Oral Tradition begründete; <strong>Sandra Maitri</strong>, die die spirituelle Dimension des Systems tiefer erforschte; <strong>Beatrice Chestnut</strong>, die später das umfassendste englischsprachige Buch über die 27 Subtypees schrieb; und <strong>Eli Jaxon-Bear</strong>, der Naranjos Arbeit mit meditativen Ansätzen verband. Sie alle gehen auf denselben Ursprung zurück: auf den Oktopus aus Chile, der in Berkeley seine Arme ausstreckte.</p>
+          <p class="vb-intro">What Naranjo gave the world can be summarized in one number: <strong>27</strong>. Nine types, three instincts, twenty-seven subtypes &ndash; a system that describes each person more precisely than any other personality model. Where other systems remain on the surface, the subtype Enneagram goes into the depths of character, passions, and unconscious patterns. It is not a pigeonhole system. It is a mirror.</p>
+          <p class="vb-intro">Naranjo did not invent this system &ndash; but he retrieved it from the darkness, systematized it, described it, and made it teachable. On the basis of Oscar Ichazo, Fritz Perls, and his own decades of therapeutic practice, he created a body of work that lives on after his death in 2019 &ndash; in thousands of teachers, books, courses, and people who have recognized themselves in it.</p>
+          <p class=vb-intro>Decisive for its worldwide spread was his connection to the <strong>University of California, Berkeley</strong>. There he taught and drew around him a circle of students who carried Enneagram knowledge into the world and became significant teachers in their own right: <strong>Helen Palmer</strong>, who popularized the Enneagram in the English-speaking world and founded the Oral Tradition; <strong>Sandra Maitri</strong>, who explored the spiritual dimension of the system more deeply; <strong>Beatrice Chestnut</strong>, who later wrote the most comprehensive English-language book on the 27 subtypes; and <strong>Eli Jaxon-Bear</strong>, who combined Naranjo&apos;s work with meditative approaches. They all trace back to the same origin: to the octopus from Chile who extended his arms in Berkeley.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Lehrer: Großzügigkeit des Wissenden</h2>
+        <h2 class="vb-section">5. The Teacher: Generosity of the Knower</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Naranjo war, trotz seines Weltruhms, kein Mensch, der sich hinter seiner Bekanntheit versteckte. Wer ihm mit echter Neugier begegnete &ndash; mit einer Frage, die wirklich eine Frage war und nicht nur Bewunderung &ndash; der bekam eine Antwort, die es wert war. Er war ein Lehrer im alten Sinn: jemand, der nicht nur Wissen weitergibt, sondern auch das Denken selbst.</p>
-          <p class="vb-intro">So entstand auch ein Austausch mit dem Autor dieses Kompasses: Im Zuge des Buchs <em>Wer Du wirklich bist</em> (2015) &ndash; dem ersten deutschsprachigen Buch, das die 27 Subtypees umfassend darstellte &ndash; kam es zu einem Contact über E-Mail und später Skype. Naranjo las, kommentierte, gab Rückmeldungen zu den Chartsn berühmter Komponisten im Buch &ndash; er, der selbst musisch war, hatte dafür ein besonderes Gespür. Und als das Gespräch auf Homöopathie kam &ndash; auf die Frage, welche Mittel zu welchen Subtypees passen &ndash; reagierte er sofort mit einer Gegenfrage: Er sprach von den einundfünfzig Opiumderivaten, die sein eigener Lehrer klassifiziert hatte. Zwei Wissende, die aneinander tasteten, jeder vom anderen Feld fasziniert. Das ist das Bild einer SO5w4 in echter Begegnung: nicht Belehrung, sondern echtes Staunen darüber, was der andere weiß.</p>
+          <p class="vb-intro">Naranjo, despite his world renown, was not someone who hid behind his fame. Anyone who approached him with genuine curiosity &ndash; with a question that was truly a question rather than mere admiration &ndash; received an answer worth having. He was a teacher in the old sense: someone who passes on not only knowledge but also thinking itself.</p>
+          <p class="vb-intro">This is how an exchange also came about with the author of this compass: in the course of the book <em>Wer Du wirklich bist</em> (2015) &ndash; the first German-language book to present the 27 subtypes comprehensively &ndash; contact was made via email and later Skype. Naranjo read, commented, gave feedback on the charts of famous composers in the book &ndash; he, who was himself musically gifted, had a particular feeling for this. And when the conversation turned to homeopathy &ndash; to the question of which remedies correspond to which subtypes &ndash; he responded immediately with a counter-question: he spoke of the fifty-one opium derivatives that his own teacher had classified. Two knowers probing one another, each fascinated by the other&apos;s field. That is the image of an SO5w4 in genuine encounter: not instruction, but real wonder at what the other knows.</p>
         </blockquote>
 
-        <h2 class="vb-section">6. Das Geschenk: Das Licht, das bleibt</h2>
+        <h2 class="vb-section">6. The Gift: The Light That Remains</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Claudio Naranjo ist 2019 mit 87 Jahren gestorben &ndash; in einem Alter, das einem Leben Raum gegeben hat, das wirklich zu Ende gedacht wurde. Er hat gesehen, was er in die Welt gesetzt hat. Er hat Menschen erlebt, die sein Werk trugen, es übersetzten, es weiterführten. Er hatte die seltene Erfahrung, das Wachsen des eigenen Erbes noch mitzuerleben &ndash; und dabei ruhig zu bleiben.</p>
-          <p class="vb-intro">Das Geschenk der SO5w4 ist dieses Licht: das Wissen, das nicht stirbt, weil es weitergegeben wurde. Der Oktopus ist vergangen &ndash; aber die neun Gehirne, die er in die Welt gesetzt hat, denken weiter. In jedem Menschen, der sich durch das Subtypees-Enneagramm selbst besser versteht. In jedem Lehrer, der sein Werk trägt. Und in diesem Kompass.</p>
+          <p class="vb-intro">Claudio Naranjo died in 2019 at the age of 87 &ndash; at an age that gave a life room to be truly thought through to its end. He saw what he had set in motion in the world. He experienced people who carried his work, translated it, continued it. He had the rare experience of watching his own legacy grow while still alive &ndash; and remaining at peace with it.</p>
+          <p class="vb-intro">The gift of the SO5w4 is this light: knowledge that does not die because it was passed on. The octopus is gone &ndash; but the nine brains it sent into the world continue to think. In every person who understands themselves better through the subtype Enneagram. In every teacher who carries his work. And in this compass.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+            ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
         {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
         {route:"subtype/so5", label:"SO5 – The Octopus: Subtype Profile"},
@@ -10336,50 +10336,50 @@ function gertrudeElionPortraitPage() {
           <img src="./assets/portraits/beruehmte-gertrude-elion-portrait.jpg" alt="Oktopus" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Gertrude Belle Elion</p>
-        <p class="krim-portrait-typ">SO5w4 &middot; Social Type 5 mit Four-wing</p>
-        <p class="krim-portrait-subtitle">Biochemikerin &amp; Pharmakologin, 1918&ndash;1999 &ndash; Animal correspondence: Oktopus</p>
+        <p class="krim-portrait-typ">SO5w4 &middot; Social Type 5 with Four-wing</p>
+        <p class="krim-portrait-subtitle">Biochemist &amp; pharmacologist, 1918&ndash;1999 &ndash; Animal correspondence: Octopus</p>
       </div>
       <div class="page-content">
 
         <h2 class="vb-section">1. The Octopus</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Oktopus</strong> ist das Tier des sozialen Typs 5 &ndash; und er ist eines der intelligentesten Lebewesen der Erde. Acht Arme, jeder mit eigenem Nervensystem, jeder fähig, unabhängig zu denken und zu handeln. Der Oktopus löst Probleme, die kein anderes Tier seiner Art löst. Er passt sich an, er beobachtet, er versteht Zusammenhänge &ndash; und er macht das meist im Verborgenen, ohne Aufheben, ohne Publikum.</p>
-          <p class="vb-intro">Gertrude Belle Elion war dieser Oktopus: eine Wissenschaftlerin, die gleichzeitig in mehreren Richtungen dachte, die Zusammenhänge sah, die andere nicht sahen &ndash; und die mit ihrer Arbeit Millionen von Menschenleben gerettet hat, ohne dass die meisten Menschen heute ihren Namen kennen. 1988 erhielt sie den Nobelpreis für Physiologie oder Medizin. Aber ihr eigentliches Werk begann Jahrzehnte früher &ndash; in einem Labor, in das man sie zunächst gar nicht hineinlassen wollte.</p>
+          <p class="vb-intro">The <strong>octopus</strong> is the animal of the social Type 5 &ndash; and it is one of the most intelligent creatures on earth. Eight arms, each with its own nervous system, each capable of thinking and acting independently. The octopus solves problems no other animal of its kind can solve. It adapts, it observes, it understands connections &ndash; and it does so mostly in concealment, without fanfare, without an audience.</p>
+          <p class="vb-intro">Gertrude Belle Elion was this octopus: a scientist who thought simultaneously in multiple directions, who saw connections others did not see &ndash; and whose work saved millions of human lives, without most people today knowing her name. In 1988 she received the Nobel Prize in Physiology or Medicine. But her actual work had begun decades earlier &ndash; in a laboratory that initially did not want to let her in at all.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die soziale Fünf: Wissen als Beitrag</h2>
+        <h2 class="vb-section">2. The Social Five: Knowledge as Contribution</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>soziale Fünf (SO5)</strong> ist nach Naranjo der Subtype, der die Isolation der Fünf am stärksten überwindet &ndash; nicht durch Emotionalität, sondern durch den Wunsch, das eigene Wissen der Gemeinschaft zur Verfügung zu stellen. Naranjo nannte diesen Subtype <em>Totem</em>: Das Wissen wird zum Identitätsmerkmal, zum Beitrag für die Gruppe, zum Band zwischen dem Einzelnen und der Welt. Die SO5 forscht nicht nur für sich &ndash; sie forscht, weil sie der Überzeugung ist, dass Wissen etwas verändern kann.</p>
-          <p class="vb-intro">Bei Gertrude Elion zeigte sich das in dem, was sie die <em>rationale Wirkstoffforschung</em> nannte: statt systematisch Tausende von Substanzen blind zu testen, verstand sie zuerst die Biochemie des Feindes &ndash; des Krebses, des Virus, der Krankheit &ndash; und entwarf dann gezielt Moleküle, die dort angreifen, wo es wirkt. Das war damals revolutionär. Ihre Entdeckungen umfassen Medikamente gegen Leukämie, gegen Abstoßungsreaktionen nach Organtransplantationen, gegen Herpes &ndash; und sie legten den Grundstein für die Entwicklung der ersten HIV-Medikamente.</p>
-          <p class="vb-intro">Die SO5 fragt nicht: <em>Was nützt mir dieses Wissen?</em> Sie fragt: <em>Was kann dieses Wissen bewirken?</em> Elion forschte ihr Leben lang für Menschen, die sie nie treffen würde. Das ist Totem &ndash; Wissen, das über den Einzelnen hinausweist.</p>
+          <p class="vb-intro">The <strong>social Five (SO5)</strong> is, according to Naranjo, the subtype that most strongly overcomes the isolation of the Five &ndash; not through emotionality, but through the desire to make one&apos;s knowledge available to the community. Naranjo named this subtype <em>Totem</em>: knowledge becomes an identity marker, a contribution to the group, a bond between the individual and the world. The SO5 does not research only for itself &ndash; it researches because it believes knowledge can change things.</p>
+          <p class="vb-intro">In Gertrude Elion, this showed in what she called <em>rational drug design</em>: rather than systematically testing thousands of substances blindly, she first understood the biochemistry of the enemy &ndash; cancer, virus, disease &ndash; and then designed targeted molecules that attack where they are effective. This was revolutionary at the time. Her discoveries include drugs against leukemia, against organ transplant rejection, against herpes &ndash; and they laid the groundwork for the development of the first HIV medications.</p>
+          <p class="vb-intro">The SO5 does not ask: <em>What does this knowledge benefit me?</em> It asks: <em>What can this knowledge achieve?</em> Elion researched her whole life for people she would never meet. That is Totem &ndash; knowledge that points beyond the individual.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Four-wing: Tiefe und Beharrlichkeit</h2>
+        <h2 class="vb-section">3. The Four-wing: Depth and Perseverance</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Four-wing (w4)</strong> bringt der sozialen Fünf eine charakteristische Tiefe: das Bedürfnis nach Einzigartigkeit, nach dem Unverwechselbaren, nach Arbeit, die nicht nur nützlich ist, sondern auch <em>bedeutsam</em>. Die SO5w4 sucht nicht nur Wissen &ndash; sie sucht Wissen, das zählt. Erkenntnis, die wirklich etwas verändert.</p>
-          <p class="vb-intro">Bei Gertrude Elion zeigte sich der Four-wing in ihrer besonderen Beharrlichkeit angesichts von Ausgrenzung. Als Frau und als Jüdin wurde sie aus Doktorandenprogrammen abgelehnt, erhielt keine Stellen, die ihren Fähigkeiten entsprachen. Sie ließ sich davon nicht definieren. Sie arbeitete als Lehrerin, als Lebensmittelchemikerin &ndash; und forschte nebenbei weiter, bis sich eine Tür öffnete. Diese Unnachgiebigkeit ist SO5w4: <em>Ich weiß, was ich zu geben habe. Ich warte, bis man es annimmt.</em></p>
-          <p class="vb-intro">Der Four-wing erklärt auch Elions lebenslange Verbindung zu ihrer Arbeit als persönlichem Ausdruck. Ihr Antrieb zur Forschung entstand, als ihr Großvater an Krebs starb &ndash; sie war fünfzehn. Aus einem persönlichen Verlust wurde ein wissenschaftliches Lebenswerk. Das ist die SO5w4: Wissen, das aus dem Inneren kommt und nach außen wirkt.</p>
+          <p class="vb-intro">The <strong>Four-wing (w4)</strong> brings the social Five a characteristic depth: the need for uniqueness, for the distinctive, for work that is not only useful but also <em>meaningful</em>. The SO5w4 does not just seek knowledge &ndash; it seeks knowledge that matters. Insight that truly changes something.</p>
+          <p class="vb-intro">In Gertrude Elion, the Four-wing showed in her particular perseverance in the face of exclusion. As a woman and as a Jew she was rejected from doctoral programs and denied positions commensurate with her abilities. She did not allow herself to be defined by this. She worked as a teacher, as a food chemist &ndash; and continued to research on the side until a door opened. That stubbornness is SO5w4: <em>I know what I have to give. I will wait until it is accepted.</em></p>
+          <p class="vb-intro">The Four-wing also explains Elion&apos;s lifelong connection to her work as personal expression. Her drive to research arose when her grandfather died of cancer &ndash; she was fifteen. From a personal loss came a scientific life&apos;s work. That is the SO5w4: knowledge that comes from within and works outward.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der sozialen Fünf</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Social Five</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SO5w4 ist ihre Fähigkeit, komplexes Wissen mit Hingabe und Ausdauer zu durchdringen und daraus etwas zu erschaffen, das der Welt nützt. Gertrude Elion hat nicht popularisiert, nicht vereinfacht, nicht verkauft. Sie hat geforscht &ndash; präzise, geduldig, jahrzehntelang &ndash; und das Ergebnis hat das Leben unzähliger Menschen verlängert und gerettet.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Fünf ist der <strong>Geiz</strong> &ndash; das Backhalten von Energie und Contact. Die SO5 überwindet dieses Muster am stärksten durch ihren Beitrag zur Gemeinschaft. Aber auch sie kennt die Versuchung des Rückzugs: hinter die Forschung, hinter das Labor, hinter das Thema. Elion blieb ihr Leben lang verhältnismäßig im Hintergrund &ndash; bis der Nobelpreis sie ins Licht drängte, das sie nicht gesucht hatte.</p>
+          <p class="vb-intro">The light of the SO5w4 is its ability to penetrate complex knowledge with dedication and endurance and from it create something that benefits the world. Gertrude Elion did not popularize, did not simplify, did not sell. She researched &ndash; precisely, patiently, for decades &ndash; and the result extended and saved the lives of countless people.</p>
+          <p class="vb-intro">The karmic pattern of the Five is <strong>avarice</strong> &ndash; the withholding of energy and contact. The SO5 overcomes this pattern most strongly through its contribution to the community. But it too knows the temptation of withdrawal: behind the research, behind the laboratory, behind the subject. Elion remained relatively in the background throughout her life &ndash; until the Nobel Prize pushed her into a spotlight she had not sought.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Wissen zum Wirken</h2>
+        <h2 class="vb-section">5. The Healing Path: From Knowledge to Impact</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Fünf führt von der Frage <em>Habe ich genug?</em> zur Erkenntnis <em>Was ich weiß, kann gebraucht werden &ndash; jetzt, hier, von echten Menschen.</em> Für die SO5w4 bedeutet das, das Wissen nicht nur zu vervollständigen, sondern es loszulassen: in die Welt zu geben, ohne Kontrolle darüber zu behalten, was daraus wird.</p>
-          <p class="vb-intro">Gertrude Elion hat diesen Schritt vollzogen &ndash; nicht in einem Moment, sondern über ein ganzes Forscherleben. Der Oktopus, der mit acht Armen gleichzeitig denkt, der Zusammenhänge erkennt, die andere nicht sehen &ndash; und der sein Wissen in Moleküle verwandelt hat, die Menschen heilen. Das ist das Geschenk der SO5w4: Intelligenz, die nicht für sich selbst leuchtet, sondern für die, die im Dunkeln sitzen.</p>
+          <p class="vb-intro">The healing path of the Five leads from the question <em>Do I have enough?</em> to the realization <em>What I know can be used &ndash; now, here, by real people.</em> For the SO5w4 this means not only completing the knowledge but releasing it: giving it to the world without retaining control over what becomes of it.</p>
+          <p class="vb-intro">Gertrude Elion took this step &ndash; not in a single moment, but over an entire research life. The octopus that thinks in eight arms simultaneously, that recognizes connections others do not see &ndash; and that transformed its knowledge into molecules that heal people. That is the gift of the SO5w4: intelligence that does not shine for itself, but for those sitting in the dark.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+            ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/so5", label:"SO5 – Der Oktopus: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/so5", label:"SO5 – The Octopus: Subtype Profile"},
         {route:"beruehmte-christian-raetsch", label:"Portrait: Christian Rätsch (SE5w4)"},
       ])}
     </div>
@@ -10396,51 +10396,51 @@ function peterLustigPortraitPage() {
           <img src="./assets/portraits/beruehmte-peter-lustig-portrait.jpg" alt="Eule" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Peter Lustig</p>
-        <p class="krim-portrait-typ">SE5w6 &middot; Self-Preservation Type 5 mit Six-wing</p>
-        <p class="krim-portrait-subtitle">Fernsehmoderator &amp; Kinderbuchautor, 1937&ndash;2016 &ndash; Animal correspondence: Eule</p>
+        <p class="krim-portrait-typ">SE5w6 &middot; Self-Preservation Type 5 with Six-wing</p>
+        <p class="krim-portrait-subtitle">TV presenter &amp; children&apos;s book author, 1937&ndash;2016 &ndash; Animal correspondence: Owl</p>
       </div>
       <div class="page-content">
 
         <h2 class="vb-section">1. The Owl</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>Eule</strong> ist das Tier des selbsterhaltenden Typs 5 &ndash; ein Tier der Stille, der Beobachtung und der konzentrierten Wahrnehmung. Sie sieht, was andere übersehen. Sie fragt nicht laut &ndash; sie schaut. Und wenn sie spricht, dann mit einer Klarheit, die aus langem Beobachten kommt, nicht aus Selbstdarstellung.</p>
-          <p class="vb-intro">Peter Lustig war diese Eule: Ein Mann, der sich einen Wohnwagen auf eine Wiese stellte, die Welt mit wachem Blick betrachtete &ndash; und daraus eine der erfolgreichsten Kindersendungen des deutschen Fernsehens machte. <em>Löwenzahn</em> war kein Unterhaltungsprogramm. Es war ein Denkprogramm. Die Frage hinter jeder Folge: <em>Wie funktioniert das eigentlich?</em> Das ist die Eule.</p>
+          <p class="vb-intro">The <strong>owl</strong> is the animal of the self-preservation Type 5 &ndash; a creature of silence, observation, and concentrated perception. It sees what others overlook. It does not ask loudly &ndash; it watches. And when it speaks, it does so with a clarity that comes from long observation, not from self-display.</p>
+          <p class="vb-intro">Peter Lustig was this owl: a man who set a caravan in a meadow, observed the world with watchful eyes &ndash; and from this created one of the most successful children&apos;s programs in German television. <em>Löwenzahn</em> was not an entertainment program. It was a thinking program. The question behind each episode: <em>How does that actually work?</em> That is the owl.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die selbsterhaltende Fünf: Der Wohnwagen als Burg</h2>
+        <h2 class="vb-section">2. The Self-Preservation Five: The Caravan as Castle</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>selbsterhaltende Fünf (SE5)</strong> ist nach Naranjo der <strong>Verstärkungstyp</strong> der Fünf: Hier lebt die Leidenschaft des Geizes &ndash; das Horten von Energie, Raum und Zeit &ndash; am unverhülltesten. Naranjo nannte diesen Subtype <em>Burg</em>: Das eigene Territorium wird zur Festung. Wer eindringen will, muss sich ankündigen. Wer zu viel will, bekommt zu wenig. Die SE5 ist einer der isoliertesten Typen des gesamten Enneagramms.</p>
-          <p class="vb-intro">Kein Symbol trifft das besser als Peter Lustigs Wohnwagen. Dieser kleine, rollende Rückzugsraum inmitten einer Wiese &ndash; mit allem, was man braucht, und ohne alles, was man nicht braucht &ndash; ist das perfekte Bild der SE5-Burg. Peter Lustig lebte das nicht nur in der Sendung: Auch im wirklichen Leben galt er als ausgesprochen zurückgezogen, medienscheu, schwer erreichbar. Der Wohnwagen war kein Requisit. Er war ein Weltbild.</p>
-          <p class="vb-intro">Der selbsterhaltende Instinkt fragt: <em>Habe ich genug? Bin ich sicher? Wie viel Raum brauche ich, um frei zu denken?</em> Peters Antwort war radikal einfach: wenig Besitz, viel Stille, ein klarer Blick auf das, was wirklich wichtig ist. Sein berühmtes „Tschüss!" am Ende jeder Folge &ndash; der Kopf aus dem Wohnwagenfenster &ndash; war kein Abschied. Es war eine Grenzziehung: <em>Das war es für heute. Ich ziehe mich zurück.</em></p>
+          <p class="vb-intro">The <strong>self-preservation Five (SE5)</strong> is, according to Naranjo, the <strong>amplification type</strong> of the Five: here the passion of avarice &ndash; the hoarding of energy, space, and time &ndash; lives most undisguised. Naranjo named this subtype <em>Castle</em>: one&apos;s own territory becomes a fortress. Anyone who wants to enter must announce themselves. Anyone who wants too much gets too little. The SE5 is one of the most isolated types in the entire Enneagram.</p>
+          <p class="vb-intro">No symbol captures this better than Peter Lustig&apos;s caravan. This small, mobile retreat in the middle of a meadow &ndash; with everything one needs, and without everything one does not need &ndash; is the perfect image of the SE5 castle. Peter Lustig lived this not only in the program: in real life he was also considered exceptionally withdrawn, media-shy, hard to reach. The caravan was not a prop. It was a worldview.</p>
+          <p class="vb-intro">The self-preservation instinct asks: <em>Do I have enough? Am I safe? How much space do I need in order to think freely?</em> Peter&apos;s answer was radically simple: few possessions, much silence, a clear view of what truly matters. His famous &quot;Tschüss!&quot; at the end of each episode &ndash; the head out of the caravan window &ndash; was not a farewell. It was a boundary: <em>That is enough for today. I am withdrawing.</em></p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Six-wing: Skepsis und Verantwortung</h2>
+        <h2 class="vb-section">3. The Six-wing: Skepticism and Responsibility</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Six-wing (w6)</strong> bringt der selbsterhaltenden Fünf eine charakteristische Färbung: Skepsis gegenüber Autoritäten, ein waches Auge für Systeme und deren Schwächen, ein tiefes Verantwortungsgefühl gegenüber dem, was man für richtig hält. Die SE5w6 sammelt nicht nur Wissen &ndash; sie fragt, was dieses Wissen bedeutet, wem es nützt, und was man dagegen tun kann.</p>
-          <p class="vb-intro">Bei Peter Lustig zeigte sich das in der ökologischen und gesellschaftskritischen Haltung, die <em>Löwenzahn</em> durchzog. Die Sendung erklärte nicht nur, wie ein Blitzableiter funktioniert oder warum Löwenzahn so hartnäckig ist. Sie fragte immer auch: <em>Was machen wir mit dieser Welt? Warum bauen wir Dinge so, dass man sie nicht reparieren kann? Wem gehört eigentlich dieser Boden?</em> Das ist der Six-wing: Wissen als Werkzeug für Verantwortung.</p>
-          <p class="vb-intro">Der Six-wing erklärt auch Peters tiefe Loyalität gegenüber seinem Publikum &ndash; den Kindern. Nicht als Entertainer, der gefallen will, sondern als jemand, der Kinder ernst nimmt und ihnen zutraut, die Welt zu verstehen. Dahinter steckt eine SE5w6-Überzeugung: <em>Wer versteht, kann sich schützen. Wer weiß, kann handeln.</em></p>
+          <p class="vb-intro">The <strong>Six-wing (w6)</strong> gives the self-preservation Five a characteristic coloring: skepticism toward authorities, a watchful eye for systems and their weaknesses, a deep sense of responsibility toward what one holds to be right. The SE5w6 does not merely collect knowledge &ndash; it asks what that knowledge means, whom it serves, and what can be done about it.</p>
+          <p class="vb-intro">In Peter Lustig, this showed in the ecological and socially critical attitude that ran through <em>Löwenzahn</em>. The program did not merely explain how a lightning rod works or why dandelions are so tenacious. It always also asked: <em>What are we doing with this world? Why do we build things that cannot be repaired? Who does this land actually belong to?</em> That is the Six-wing: knowledge as a tool for responsibility.</p>
+          <p class="vb-intro">The Six-wing also explains Peter&apos;s deep loyalty toward his audience &ndash; the children. Not as an entertainer seeking to please, but as someone who takes children seriously and trusts them to understand the world. Behind this lies an SE5w6 conviction: <em>Those who understand can protect themselves. Those who know can act.</em></p>
         </blockquote>
 
         <h2 class="vb-section">4. Light and Shadow of the Self-Preservation Five</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SE5w6 ist ihre Fähigkeit, komplexe Zusammenhänge klar und ohne Selbstbezug zu vermitteln. Peter Lustig hat Millionen von Kindern das Staunen beigebracht &ndash; nicht durch Spektakel, sondern durch Genauigkeit. Das ist das Geschenk der Eule: Sie sieht, was wirklich da ist, und zeigt es, ohne es aufzublasen.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Fünf ist der <strong>Geiz</strong> &ndash; das Horten von Energie, die Angst, zu viel zu geben und dabei leer zu werden. Bei der SE5 äußert sich das als Rückzug hinter die Burgmauern: <em>Ich gebe euch diese Sendung. Den Rest behalte ich für mich.</em> Peter Lustig war off-screen kaum greifbar. Interviews, öffentliche Auftritte, persönliche Nähe &ndash; das blieb hinter der Burg.</p>
-          <p class="vb-intro">Der Six-wing kann die Skepsis in Misstrauen kippen lassen &ndash; eine Welt voller Gefahren, Systeme und Mächte, gegen die man sich schützen muss. Das kann lähmen. Bei Lustig blieb es produktiv: Die Skepsis wurde zur Frage, die Frage wurde zur Sendung.</p>
+          <p class="vb-intro">The light of the SE5w6 is its ability to communicate complex connections clearly and without self-reference. Peter Lustig taught millions of children how to wonder &ndash; not through spectacle but through precision. That is the gift of the owl: it sees what is truly there, and shows it without inflating it.</p>
+          <p class="vb-intro">The karmic pattern of the Five is <strong>avarice</strong> &ndash; the hoarding of energy, the fear of giving too much and becoming empty. In the SE5 this expresses as withdrawal behind the castle walls: <em>I give you this program. The rest I keep for myself.</em> Peter Lustig was barely reachable off-screen. Interviews, public appearances, personal closeness &ndash; that stayed behind the castle.</p>
+          <p class="vb-intro">The Six-wing can tip skepticism into mistrust &ndash; a world full of dangers, systems, and powers one must defend against. This can be paralyzing. In Lustig it remained productive: the skepticism became the question, the question became the program.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Beobachten zum Teilhaben</h2>
+        <h2 class="vb-section">5. The Healing Path: From Observing to Participating</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Fünf führt von der Frage <em>Habe ich genug, um zu geben?</em> zur Erkenntnis <em>Das Wissen wird nicht weniger, wenn ich es teile &ndash; es wird mehr.</em> Für die SE5w6 bedeutet das, die Burg nicht aufzugeben, aber die Zugbrücke gelegentlich herunterzulassen &ndash; nicht weil man muss, sondern weil echter Contact nährt statt kostet.</p>
-          <p class="vb-intro">Peter Lustig hat diesen Schritt über seine Arbeit getan. Der Wohnwagen blieb seine Burg &ndash; aber er öffnete das Fenster. Jedes „Tschüss!" war auch ein Versprechen: <em>Ich komme wieder. Ich zeige euch mehr.</em> Die Eule, die in der Dunkelheit sieht und das, was sie sieht, in Worte fasst &ndash; damit andere lernen, ebenfalls zu schauen.</p>
+          <p class="vb-intro">The healing path of the Five leads from the question <em>Do I have enough to give?</em> to the realization <em>Knowledge does not diminish when shared &ndash; it grows.</em> For the SE5w6 this means not abandoning the castle, but occasionally lowering the drawbridge &ndash; not because one must, but because genuine contact nourishes rather than costs.</p>
+          <p class="vb-intro">Peter Lustig took this step through his work. The caravan remained his castle &ndash; but he opened the window. Each &quot;Tschüss!&quot; was also a promise: <em>I will be back. I will show you more.</em> The owl that sees in the dark and puts what it sees into words &ndash; so that others learn to look too.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+            ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/se5", label:"SE5 – Die Eule: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/se5", label:"SE5 – The Owl: Subtype Profile"},
         {route:"beruehmte-christian-raetsch", label:"Portrait: Christian Rätsch (SE5w4)"},
       ])}
     </div>
@@ -10457,51 +10457,51 @@ function ladyDianaPortraitPage() {
           <img src="./assets/portraits/beruehmte-lady-diana-portrait.jpg" alt="Taube" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Lady Diana</p>
-        <p class="krim-portrait-typ">SE4w3 &middot; Self-Preservation Type 4 mit Three-wing</p>
-        <p class="krim-portrait-subtitle">Princess of Wales, 1961&ndash;1997 &ndash; Animal correspondence: Taube</p>
+        <p class="krim-portrait-typ">SE4w3 &middot; Self-Preservation Type 4 with Three-wing</p>
+        <p class="krim-portrait-subtitle">Princess of Wales, 1961&ndash;1997 &ndash; Animal correspondence: Dove</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Die Taube</h2>
+        <h2 class="vb-section">1. The Dove</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>Taube</strong> ist seit Jahrtausenden das Symbol des Friedens &ndash; und es ist ein Tier, das auf den ersten Blick zart wirkt, fast verletzlich. Und doch ist die Taube zäh: Sie findet ihren Weg auch über weite Strecken, auch durch Sturm. Sie trägt Botschaften. Sie kehrt zurück. Die Taube hält inne, wo andere weiterfliegen &ndash; und in diesem Innehalten entsteht etwas Stilles, das mehr bewegt als viele laute Gesten.</p>
-          <p class="vb-intro">Diana Frances Spencer, Princess of Wales, war eines der bekanntesten Gesichter des 20. Jahrhunderts &ndash; und gleichzeitig eine der einsamsten Persönlichkeiten ihrer Zeit. In einer Welt aus Protokoll, Palast und Öffentlichkeit trug sie etwas in sich, das sich nicht einordnen ließ: eine Empfindlichkeit, die manchmal lähmte, und eine Fähigkeit zur Verbindung, die Millionen berührte. Die Taube, die Botschaften trägt &ndash; auch dann, wenn der Weg beschwerlich ist.</p>
+          <p class="vb-intro">The <strong>dove</strong> has been the symbol of peace for millennia &ndash; and at first glance it seems delicate, almost vulnerable. And yet the dove is resilient: it finds its way even over long distances, even through storms. It carries messages. It returns. The dove pauses where others fly on &ndash; and in that pausing something quiet arises that moves more than many loud gestures.</p>
+          <p class="vb-intro">Diana Frances Spencer, Princess of Wales, was one of the most recognized faces of the twentieth century &ndash; and at the same time one of the loneliest personalities of her era. In a world of protocol, palace, and public life, she carried something within her that resisted categorization: a sensitivity that sometimes paralyzed her, and a capacity for connection that touched millions. The dove that carries messages &ndash; even when the journey is arduous.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die selbsterhaltende Vier: Leiden als stille Welt</h2>
+        <h2 class="vb-section">2. The Self-Preservation Four: Suffering as a Silent World</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>selbsterhaltende Vier (SE4)</strong> ist in der Enneagramm-Tradition der Kontratyp der Vier: Sie zeigt ihr Innenleben nicht nach außen, sie zieht es nicht in große Gesten oder dramatische Selbstdarstellung. Naranjo beschreibt diesen Subtype als <em>Rücksichtslosigkeit</em> &ndash; nicht im Sinn von Härte gegenüber anderen, sondern als einen Antrieb, sich selbst gegenüber kompromisslos zu sein. Die SE4 kämpft mit dem Schmerz &ndash; aber sie kämpft ihn still aus. Sie zeigt Stärke nach außen, während sie innen ringt.</p>
-          <p class="vb-intro">Bei Diana zeigt sich das in dem Widerspruch, der ihr Leben prägte: Die Frau, die auf öffentlichen Fotos strahlte und Menschenmassen in Begeisterung versetzte, kämpfte privat mit Essstörungen, Depressionen und dem tiefen Gefühl, nicht gesehen zu werden. Die SE4 trägt den Schmerz nach innen, weil Klagen ihr zu viel erscheint &ndash; oder weil sie gelernt hat, dass niemand zuhört. Diana hat beides erlebt: die Last der inneren Welt und die Erschöpfung, sie allein zu tragen.</p>
-          <p class="vb-intro">Der selbsterhaltende Instinkt richtet die Vier auf das eigene Überleben aus &ndash; nicht als Rückzug, sondern als stilles Ausharren. Diana hat in den Jahren am Hof ausgeharrt, lange nach dem Ende der Liebe, lange nach dem Ende des Scheins. Das ist SE4-Energie: das Durchhalten, das niemand sieht.</p>
+          <p class="vb-intro">The <strong>self-preservation Four (SE4)</strong> is, in the Enneagram tradition, the counter-type of the Four: it does not display its inner life outwardly, does not draw it into grand gestures or dramatic self-presentation. Naranjo describes this subtype as <em>Recklessness</em> &ndash; not in the sense of harshness toward others, but as a drive toward ruthless honesty with oneself. The SE4 wrestles with pain &ndash; but wrestles with it silently. It shows strength outwardly while struggling within.</p>
+          <p class="vb-intro">In Diana, this shows in the contradiction that defined her life: the woman who radiated in public photographs and sent crowds into rapture struggled privately with eating disorders, depression, and the deep feeling of not being seen. The SE4 carries pain inward, because complaining seems too much &ndash; or because it has learned that no one listens. Diana experienced both: the weight of the inner world and the exhaustion of carrying it alone.</p>
+          <p class="vb-intro">The self-preservation instinct orients the Four toward its own survival &ndash; not as withdrawal, but as quiet endurance. Diana endured the years at court, long after love had ended, long after appearances had ended. That is SE4 energy: the persevering that no one sees.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Three-wing: Die Botschaft nach außen tragen</h2>
+        <h2 class="vb-section">3. The Three-wing: Carrying the Message Outward</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Three-wing (w3)</strong> bringt der selbsterhaltenden Vier etwas Entscheidendes: die Fähigkeit, das Innere nach außen zu wenden und in Wirkung zu verwandeln. Die reine SE4 könnte sich in der inneren Welt verlieren &ndash; tief empfindend, aber unsichtbar. Der Three-wing gibt ihr eine Bühne &ndash; nicht aus Eitelkeit, sondern aus dem Bedürfnis, das Erlebte zu gestalten und weiterzugeben.</p>
-          <p class="vb-intro">Bei Diana zeigt sich der Three-wing in ihrer außergewöhnlichen öffentlichen Wirksamkeit. Sie hat die Rolle der Königin nie bekommen &ndash; aber sie hat eine eigene Macht entwickelt, die keine Institution verleihen konnte: die Macht der Zugewandtheit. Ihr Einsatz für AIDS-Kranke, für Krebskinder, gegen Landminen &ndash; das war nicht Pflicht, das war Berufung. Die SE4w3 weiß: Was ich durchlebt habe, kann anderen helfen. Der eigene Schmerz wird zur Brücke.</p>
-          <p class="vb-intro">Der Three-wing erklärt auch Dianas Fähigkeit zur Selbstdarstellung &ndash; nicht im oberflächlichen Sinn, sondern als Bewusstsein dafür, wie Bilder wirken. Das berühmte Interview mit Martin Bashir 1995, das Minefeld-Foto in Angola, der Händedruck ohne Handschuhe mit einem AIDS-Patienten &ndash; das sind Bilder, die Geschichte gemacht haben. Die SE4w3 weiß, dass die richtige Geste zur richtigen Zeit die Welt verändert.</p>
+          <p class="vb-intro">The <strong>Three-wing (w3)</strong> brings the self-preservation Four something decisive: the ability to turn the interior outward and transform it into impact. The pure SE4 might lose itself in the inner world &ndash; deeply feeling, but invisible. The Three-wing gives it a stage &ndash; not out of vanity, but from the need to shape and pass on what has been experienced.</p>
+          <p class="vb-intro">In Diana, the Three-wing shows in her extraordinary public effectiveness. She never received the role of queen &ndash; but she developed a power of her own that no institution could confer: the power of attentiveness. Her work for AIDS patients, for children with cancer, against landmines &ndash; this was not duty, it was vocation. The SE4w3 knows: what I have lived through can help others. One&apos;s own pain becomes a bridge.</p>
+          <p class="vb-intro">The Three-wing also explains Diana&apos;s ability to self-present &ndash; not in the superficial sense, but as an awareness of how images work. The famous Bashir interview in 1995, the minefield photograph in Angola, the handshake without gloves with an AIDS patient &ndash; these are images that made history. The SE4w3 knows that the right gesture at the right moment changes the world.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der selbsterhaltenden Vier</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Self-Preservation Four</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SE4 ist ihre Empathie &ndash; die Fähigkeit, den Schmerz anderer nicht nur zu verstehen, sondern wirklich zu fühlen. Diana hat an Krankenbetten gesessen, hat Hände gehalten, hat geschaut und zugehört, während andere wegsahen. Das ist kein Talent, das man lernt. Das ist die SE4, die den eigenen Schmerz in Verbindung verwandelt: <em>Ich kenne das. Du bist nicht allein.</em></p>
-          <p class="vb-intro">Das Schicksalsmuster der Vier ist der <strong>Neid</strong> &ndash; nicht als Missgunst, sondern als das tiefe Gefühl, dass anderen etwas mitgegeben wurde, das einem selbst fehlt. Bei der SE4 äußert sich das als das chronische Gefühl der Unvollständigkeit: nie ganz richtig, nie ganz genug, immer etwas außen vor. Diana hat dieses Gefühl ihr Leben lang beschrieben &ndash; das Gefühl, in einer Welt zu leben, die für andere gemacht war, nicht für sie.</p>
-          <p class="vb-intro">Der Three-wing bringt die Gefahr, den eigenen Wert an äußerer Wirksamkeit zu messen. Wenn der Applaus verstummt, wenn die Kameras wegschauen &ndash; wer ist die SE4w3 dann? Diese Frage hat Diana begleitet, gerade in den Jahren nach der Scheidung, als das Protokoll wegfiel und eine neue Identität gefunden werden musste.</p>
+          <p class="vb-intro">The light of the SE4 is its empathy &ndash; the ability not merely to understand the pain of others but to truly feel it. Diana sat at bedsides, held hands, looked and listened while others looked away. That is not a talent one learns. That is the SE4 transforming its own pain into connection: <em>I know this. You are not alone.</em></p>
+          <p class="vb-intro">The karmic pattern of the Four is <strong>envy</strong> &ndash; not as ill will, but as the deep feeling that others were given something that was withheld from oneself. In the SE4 this expresses as the chronic feeling of incompleteness: never quite right, never quite enough, always somewhat excluded. Diana described this feeling throughout her life &ndash; the feeling of living in a world made for others, not for her.</p>
+          <p class="vb-intro">The Three-wing brings the danger of measuring one&apos;s own worth by external effectiveness. When the applause falls silent, when the cameras look away &ndash; who is the SE4w3 then? This question accompanied Diana, especially in the years after the divorce, when the protocol fell away and a new identity had to be found.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Ausharren zum Ankommen</h2>
+        <h2 class="vb-section">5. The Healing Path: From Enduring to Arriving</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Vier führt von der Frage <em>Warum fehlt mir, was anderen gegeben wurde?</em> zur Erkenntnis <em>Was ich bin, ist genug &ndash; und es ist einmalig.</em> Für die SE4 bedeutet das, den inneren Kampf nicht länger allein auszufechten &ndash; sondern zuzulassen, dass auch die eigene Wunde gesehen und berührt wird.</p>
-          <p class="vb-intro">Diana hat in den letzten Jahren ihres Lebens Schritte in diese Richtung gemacht. Sie hat öffentlich über ihre Essstörungen gesprochen, hat Hilfe gesucht, hat ihre eigene Geschichte in die Hand genommen. Die Taube, die aufhört, nur Botschaften für andere zu tragen, und beginnt, auch für sich selbst zu fliegen &ndash; das war Diana auf dem Weg. Dieser Weg wurde 1997 abrupt beendet. Was bleibt, ist das Bild einer Frau, die in ihrer Verletzlichkeit mehr Kraft zeigte als viele in ihrer Stärke.</p>
+          <p class="vb-intro">The healing path of the Four leads from the question <em>Why is what others were given withheld from me?</em> to the realization <em>What I am is enough &ndash; and it is unique.</em> For the SE4 this means no longer fighting the inner struggle alone &ndash; but allowing one&apos;s own wound to be seen and touched as well.</p>
+          <p class="vb-intro">Diana took steps in this direction in the final years of her life. She spoke publicly about her eating disorders, sought help, took her own story in hand. The dove that stops carrying only messages for others and begins to fly for itself as well &ndash; that was Diana on her path. This path was abruptly ended in 1997. What remains is the image of a woman who showed more strength in her vulnerability than many show in their strength.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+            ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/se4", label:"SE4 – Die Taube: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/se4", label:"SE4 – The Dove: Subtype Profile"},
         {route:"beruehmte-greta-thunberg", label:"Portrait: Greta Thunberg (SE2w1)"},
       ])}
     </div>
@@ -10519,51 +10519,51 @@ function dieterBohlenPortraitPage() {
           <img src="./assets/portraits/beruehmte-dieter-bohlen-portrait.jpg" alt="Pfau" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Dieter Bohlen</p>
-        <p class="krim-portrait-typ">SX3w4 &middot; Sexual Type 3 mit Four-wing</p>
-        <p class="krim-portrait-subtitle">Musikproduzent &amp; Komponist, geb. 1954 &ndash; Animal correspondence: Pfau</p>
+        <p class="krim-portrait-typ">SX3w4 &middot; Sexual Type 3 with Four-wing</p>
+        <p class="krim-portrait-subtitle">Music producer &amp; composer, born 1954 &ndash; Animal correspondence: Peacock</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der Pfau</h2>
+        <h2 class="vb-section">1. The Peacock</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Pfau</strong> ist das Tier der sexuellen Drei &ndash; und er ist das einzige Tier, das seinen schönsten Moment vollständig für andere entfaltet. Das Rad des Pfaus ist kein privates Vergnügen. Es ist eine Vorstellung. Eine Darbietung, die sagt: <em>Schau mich an. Ich bin das Schönste, was du heute siehst.</em> Der Pfau weiß genau, was er ist &ndash; und er versteckt es nicht.</p>
-          <p class="vb-intro">Dieter Bohlen hat Deutschland über vier Jahrzehnte lang mit einer Energie beschäftigt, die man lieben oder hassen kann, aber nicht ignorieren. Als Hälfte von Modern Talking hat er mit Thomas Anders in den 1980er Jahren Welthits produziert, die bis heute gespielt werden. Als Juror bei <em>Deutschland sucht den Superstar</em> hat er ein Jahrzehnt lang das Fernsehen geprägt. Als Autor seiner Biografie <em>Nichts bleibt für immer</em> hat er Millionen Exemplare verkauft. Der Pfau schlägt das Rad &ndash; und das Rad ist groß.</p>
+          <p class="vb-intro">The <strong>peacock</strong> is the animal of the sexual Three &ndash; and it is the only animal that unfolds its most beautiful moment entirely for others. The peacock&apos;s fan is not a private pleasure. It is a performance. A display that says: <em>Look at me. I am the most beautiful thing you will see today.</em> The peacock knows exactly what it is &ndash; and does not hide it.</p>
+          <p class="vb-intro">Dieter Bohlen has engaged Germany for over four decades with an energy one can love or hate but not ignore. As one half of Modern Talking, he produced with Thomas Anders in the 1980s worldwide hits that are still played today. As a judge on <em>Deutschland sucht den Superstar</em> he shaped television for a decade. As the author of his biography <em>Nichts bleibt für immer</em> he sold millions of copies. The peacock spreads its fan &ndash; and the fan is large.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die sexuelle Drei: Verführung als Kunst</h2>
+        <h2 class="vb-section">2. The Sexual Three: Seduction as Art</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>sexuelle Drei (SX3)</strong> ist in der Enneagramm-Tradition derjenige Subtype, der die Energie der Drei in die unmittelbare persönliche Anziehung lenkt. Nicht die öffentliche Bühne wie die soziale Drei, nicht die stille Kompetenz wie die selbsterhaltende Drei &ndash; sondern die direkte, elektrisierende Wirkung auf den Menschen gegenüber. Die SX3 verführt. Nicht im banalen Sinn, sondern im tiefen: Sie schafft eine Atmosphäre, in der der andere fühlt, dass er gerade einem besonderen Moment begegnet.</p>
-          <p class="vb-intro">Bei Dieter Bohlen zeigt sich das in einer Mischung aus Charme und Provokation, die sein Markenzeichen ist. Er sagt Dinge, die andere nicht sagen &ndash; direkt, zugespitzt, manchmal verletzend. Aber er sagt sie mit einer Selbstsicherheit, die fasziniert: Wer so redet, glaubt wirklich daran. Die SX3 bezaubert nicht durch Höflichkeit, sondern durch die Kraft der eigenen Überzeugung. Bohlen wirkt echt, weil er vollständig bei sich ist &ndash; zumindest auf der Oberfläche.</p>
-          <p class="vb-intro">Als Musikproduzent ist diese Energie in jedem seiner Hits spürbar. Der Erfolg von Modern Talking liegt nicht allein in eingängigen Melodien &ndash; er liegt in einer emotionalen Unmittelbarkeit, die Millionen Menschen direkt trifft. <em>You're My Heart, You're My Soul</em> spricht keine Köpfe an. Es spricht Körper an. Das ist SX3-Energie: Contact durch Klang.</p>
+          <p class="vb-intro">The <strong>sexual Three (SX3)</strong> is, in the Enneagram tradition, the subtype that channels the Three&apos;s energy into immediate personal attraction. Not the public stage like the social Three, not the quiet competence like the self-preservation Three &ndash; but the direct, electrifying effect on the person opposite. The SX3 seduces. Not in the banal sense, but in the deeper one: it creates an atmosphere in which the other feels they are encountering a special moment.</p>
+          <p class="vb-intro">In Dieter Bohlen, this shows in a mixture of charm and provocation that is his trademark. He says things others do not say &ndash; directly, pointedly, sometimes hurtfully. But he says them with a self-assurance that fascinates: anyone who speaks like that truly believes it. The SX3 enchants not through politeness but through the force of its own conviction. Bohlen seems authentic because he is entirely with himself &ndash; at least on the surface.</p>
+          <p class="vb-intro">As a music producer, this energy is perceptible in each of his hits. The success of Modern Talking lies not only in catchy melodies &ndash; it lies in an emotional immediacy that hits millions of people directly. <em>You&apos;re My Heart, You&apos;re My Soul</em> does not address minds. It addresses bodies. That is SX3 energy: contact through sound.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Four-wing: Die Wunde unter dem Glanz</h2>
+        <h2 class="vb-section">3. The Four-wing: The Wound Beneath the Gloss</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Four-wing (w4)</strong> bringt der sexuellen Drei etwas, das man auf den ersten Blick nicht vermutet: Tiefe. Die reine SX3 könnte in der Verführung aufgehen &ndash; immer glänzend, immer überzeugend, immer auf der Jagd nach dem nächsten Moment der Verbindung. Der Four-wing stellt eine andere Frage dahinter: <em>Aber wer bin ich wirklich? Was bleibt, wenn der Glanz verblasst?</em></p>
-          <p class="vb-intro">Bei Dieter Bohlen zeigt sich der Four-wing in seiner Autobiografie und in den Momenten, in denen er über seine Herkunft spricht &ndash; über die einfachen Verhältnisse in Oldenburg, über den frühen Hunger nach mehr. Die SX3w4 weiß, dass unter dem Pfauenrad etwas liegt, das nicht glänzt. Und manchmal bricht das durch: in den Zuspitzungen, die zu weit gehen, in der Bereitschaft, sich öffentlich zu verletzen, in dem Bedürfnis, nicht nur erfolgreich zu sein, sondern auch <em>bedeutsam</em>.</p>
-          <p class="vb-intro">Der Four-wing erklärt auch die Kontinuität in Bohlens Schaffen: Er hat nicht aufgehört, als der Erfolg gesichert war. Er ist immer weiter gegangen &ndash; neue Projekte, neue Kontroversen, neue Bücher. Das ist nicht nur Geltungsdrang. Das ist die Vier, die fragt: <em>Reicht das? Bin ich wirklich gesehen &ndash; nicht nur als Produzent, sondern als Mensch?</em></p>
+          <p class="vb-intro">The <strong>Four-wing (w4)</strong> brings the sexual Three something one does not initially expect: depth. The pure SX3 could be absorbed in seduction &ndash; always gleaming, always convincing, always in pursuit of the next moment of connection. The Four-wing poses a different question beneath it: <em>But who am I really? What remains when the gloss fades?</em></p>
+          <p class="vb-intro">In Dieter Bohlen the Four-wing shows in his autobiography and in the moments when he speaks about his origins &ndash; about the modest circumstances in Oldenburg, about the early hunger for more. The SX3w4 knows that beneath the peacock&apos;s fan lies something that does not gleam. And sometimes it breaks through: in the pointedness that goes too far, in the willingness to wound oneself publicly, in the need not only to be successful but also <em>significant</em>.</p>
+          <p class="vb-intro">The Four-wing also explains the continuity in Bohlen&apos;s output: he did not stop when success was secured. He kept going &ndash; new projects, new controversies, new books. This is not only vanity. This is the Four asking: <em>Is this enough? Am I truly seen &ndash; not just as a producer but as a person?</em></p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der sexuellen Drei</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Sexual Three</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SX3 ist ihr Gespür für Resonanz. Dieter Bohlen hat einen musikalischen Instinkt, der nicht lehrbar ist: Er weiß, was Menschen bewegt, bevor sie es selbst wissen. Über 500 Millionen verkaufte Tonträger sind kein Zufall &ndash; das ist eine Fähigkeit, die tief in der SX3-Energie wurzelt: den anderen zu spüren, zu wissen, was ihn berührt, und genau das zu liefern.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Drei ist die <strong>Eitelkeit / Täuschung</strong> &ndash; das tiefe Bedürfnis, als erfolgreich und bewundernswert wahrgenommen zu werden, auch dann, wenn die innere Realität komplizierter ist. Bei der SX3 äußert sich das als Schwierigkeit, verletzlich zu sein ohne Publikum: Echte Intimität, die nicht inszeniert ist, fällt der SX3 schwer. Bohlens Beziehungsgeschichte &ndash; viel beschrieben, oft öffentlich &ndash; spiegelt dieses Muster: Verbindung ja, aber immer mit einer Bühne darunter.</p>
-          <p class="vb-intro">Der Four-wing bringt die Gefahr der Selbstdramatisierung: Wenn die innere Leere nicht durch Erfolg gefüllt werden kann, sucht die SX3w4 den Schmerz &ndash; und inszeniert ihn. Dann wird auch das Scheitern zur Vorstellung.</p>
+          <p class="vb-intro">The light of the SX3 is its instinct for resonance. Dieter Bohlen has a musical instinct that cannot be taught: he knows what moves people before they know it themselves. Over 500 million sold recordings are no coincidence &ndash; that is an ability rooted deep in SX3 energy: feeling the other, knowing what touches them, and delivering exactly that.</p>
+          <p class="vb-intro">The karmic pattern of the Three is <strong>vanity / deceit</strong> &ndash; the deep need to be perceived as successful and admirable, even when inner reality is more complicated. In the SX3 this expresses as difficulty being vulnerable without an audience: genuine intimacy, which is not staged, is hard for the SX3. Bohlen&apos;s relationship history &ndash; much described, often public &ndash; mirrors this pattern: connection yes, but always with a stage beneath it.</p>
+          <p class="vb-intro">The Four-wing brings the risk of self-dramatization: when the inner emptiness cannot be filled through success, the SX3w4 seeks pain &ndash; and stages it. Then even failure becomes a performance.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Strahlen zum Schweigen</h2>
+        <h2 class="vb-section">5. The Healing Path: From Radiance to Stillness</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Drei führt von der Frage <em>Wie werde ich gesehen?</em> zur Erkenntnis <em>Ich bin &ndash; auch wenn niemand schaut.</em> Für die SX3 bedeutet das einen besonders persönlichen Schritt: Verbindung ohne Publikum zuzulassen. Den anderen wirklich zu sehen &ndash; nicht als Spiegel des eigenen Erfolgs, sondern als Mensch.</p>
-          <p class="vb-intro">Der Four-wing gibt Dieter Bohlen dabei einen Hinweis: Die Fragen, die er immer wieder stellt &ndash; nach Herkunft, nach Bedeutung, nach dem, was bleibt &ndash; sind keine Schwäche. Sie sind die Einladung. Der Pfau, der das Rad einmal einklappt und einfach steht &ndash; ruhig, ohne Vorstellung, ohne Publikum &ndash; ist nicht weniger Pfau. Er ist vollständiger.</p>
+          <p class="vb-intro">The healing path of the Three leads from the question <em>How am I seen?</em> to the realization <em>I am &ndash; even when no one is watching.</em> For the SX3 this means a particularly personal step: allowing connection without an audience. Truly seeing the other &ndash; not as a mirror of one&apos;s own success, but as a person.</p>
+          <p class="vb-intro">The Four-wing gives Dieter Bohlen a pointer in this direction: the questions he keeps asking &ndash; about origins, about meaning, about what remains &ndash; are not weakness. They are the invitation. The peacock that folds its fan once and simply stands &ndash; quiet, without performance, without audience &ndash; is no less a peacock. It is more complete.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+            ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/sx3", label:"SX3 – Der Pfau: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/sx3", label:"SX3 – The Peacock: Subtype Profile"},
         {route:"beruehmte-kai-pflaume", label:"Portrait: Kai Pflaume (SX3w2)"},
       ])}
     </div>
@@ -10581,51 +10581,51 @@ function kaiPflaumePortraitPage() {
           <img src="./assets/portraits/beruehmte-kai-pflaume-portrait.jpg" alt="Pfau" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Kai Pflaume</p>
-        <p class="krim-portrait-typ">SX3w2 &middot; Sexual Type 3 mit Two-wing</p>
-        <p class="krim-portrait-subtitle">Moderator, geb. 1967 &ndash; Animal correspondence: Pfau</p>
+        <p class="krim-portrait-typ">SX3w2 &middot; Sexual Type 3 with Two-wing</p>
+        <p class="krim-portrait-subtitle">TV presenter, born 1967 &ndash; Animal correspondence: Peacock</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der Pfau</h2>
+        <h2 class="vb-section">1. The Peacock</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Pfau</strong> ist das Tier der sexuellen Drei &ndash; und kaum ein Bild trifft Kai Pflaume besser. Der Pfau trägt sein schönstes Gefieder nicht zur Schau, um zu beeindrucken. Er trägt es, weil es zu ihm gehört. Seine Pracht ist keine Inszenierung, sie ist Ausdruck seines Wesens. Wer einen Pfau beobachtet, spürt: Das ist echt. Das braucht keine Bühne.</p>
-          <p class="vb-intro">Kai Pflaume ist seit über dreißig Jahren im deutschen Fernsehen präsent &ndash; und das ohne Skandal, ohne Bruch, ohne die Maske zu wechseln. Er ist derselbe geblieben: warm, neugierig, persönlich. Das ist das Geheimnis des Pfaus. Er strahlt nicht, weil er strahlen muss. Er strahlt, weil sein Licht von innen kommt.</p>
+          <p class="vb-intro">The <strong>peacock</strong> is the animal of the sexual Three &ndash; and barely any image fits Kai Pflaume better. The peacock does not display its most beautiful plumage in order to impress. It displays it because it belongs to him. His splendor is not a performance, it is an expression of his nature. Anyone who observes a peacock senses: this is real. This needs no stage.</p>
+          <p class="vb-intro">Kai Pflaume has been present in German television for more than thirty years &ndash; and without scandal, without rupture, without changing his mask. He has remained the same: warm, curious, personal. That is the secret of the peacock. He does not radiate because he must. He radiates because his light comes from within.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die sexuelle Drei: Magnetismus als Lebensthema</h2>
+        <h2 class="vb-section">2. The Sexual Three: Magnetism as Life Theme</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>sexuelle Drei (SX3)</strong> ist in der Enneagramm-Tradition der Subtype, der persönliche Anziehungskraft zur Lebensaufgabe macht. Nicht Erfolg vor der Masse &ndash; das wäre die soziale Drei &ndash;, sondern die direkte, persönliche Resonanz mit dem Menschen gegenüber. Die SX3 fragt: <em>Wirke ich auf dich? Bin ich begehrenswert für dich?</em> Ihr Charisma ist intim, unmittelbar, auf Augenhöhe.</p>
-          <p class="vb-intro">Das erklärt Kai Pflaumes Moderationsstil präzise. Er sitzt einem Kandidaten beim &bdquo;Wer weiß denn sowas?&ldquo; gegenüber &ndash; und dieser Kandidat fühlt sich gesehen. Nicht als Fernsehgast, sondern als Mensch. Pflaume schaut hin. Er fragt nach. Er lacht nicht für die Kamera, er lacht, weil ihn etwas wirklich amüsiert. Diese Qualität &ndash; echte Präsenz im direkten Contact &ndash; ist das Markenzeichen der SX3.</p>
-          <p class="vb-intro">Claudio Naranjo nennt diesen Subtype <em>Masculinity/Femininity</em>: die Verkörperung von Anziehungskraft in ihrer reinsten, persönlichsten Form. Beim gesunden SX3 ist das keine Fassade &ndash; es ist eine echte Gabe. Die Fähigkeit, in jedem Gegenüber etwas Besonderes zu sehen und ihm das spürbar zu machen.</p>
+          <p class="vb-intro">The <strong>sexual Three (SX3)</strong> is, in the Enneagram tradition, the subtype that makes personal attraction its life&apos;s work. Not success before the masses &ndash; that would be the social Three &ndash; but the direct, personal resonance with the person opposite. The SX3 asks: <em>Do I have an effect on you? Am I desirable to you?</em> Its charisma is intimate, immediate, at eye level.</p>
+          <p class="vb-intro">This explains Kai Pflaume&apos;s presentation style precisely. He sits opposite a contestant on &bdquo;Wer weiß denn sowas?&ldquo; &ndash; and that contestant feels seen. Not as a television guest, but as a person. Pflaume looks carefully. He asks follow-up questions. He does not laugh for the camera; he laughs because something genuinely amuses him. This quality &ndash; real presence in direct contact &ndash; is the hallmark of the SX3.</p>
+          <p class="vb-intro">Claudio Naranjo calls this subtype <em>Masculinity/Femininity</em>: the embodiment of attraction in its purest, most personal form. In the healthy SX3, this is not a facade &ndash; it is a genuine gift. The ability to see something special in every person opposite and to make that perceptible to them.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Two-wing: Wärme als zweite Natur</h2>
+        <h2 class="vb-section">3. The Two-wing: Warmth as Second Nature</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Two-wing (w2)</strong> fügt der Dreierenergie etwas Entscheidendes hinzu: echte Fürsorge. Während die reine Drei mit Charisma und Leistung punktet, kommt beim SX3w2 noch eine zweite Kraft hinzu &ndash; das aufrichtige Interesse an anderen, die Freude daran, jemandem etwas Gutes zu tun. Die Zwei gibt, nicht um Gegenleistung zu erwarten, sondern weil Geben ihr Wesen ist.</p>
-          <p class="vb-intro">Bei Kai Pflaume zeigt sich das in der Art, wie er Kandidaten behandelt &ndash; geduldig, ermutigend, nie auf Kosten anderer. In &bdquo;Klein gegen Groß&ldquo; stehen Kinder neben Weltmeistern. Pflaume moderiert dieses Aufeinandertreffen so, dass immer der Mensch im Mittelpunkt steht, nicht die Quote. Das ist kein Konzept, das ist Charakter.</p>
-          <p class="vb-intro">Der SX3w2er strahlt nicht nur &ndash; er wärmt auch. Er zieht nicht nur an &ndash; er kümmert sich auch. Dieser Unterschied erklärt, warum Pflaume über Jahrzehnte Vertrauen gewonnen hat, das bei anderen Moderatoren schnell verbrennt.</p>
+          <p class="vb-intro">The <strong>Two-wing (w2)</strong> adds something decisive to the Three energy: genuine care. While the pure Three scores with charisma and performance, the SX3w2 gains a second force &ndash; sincere interest in others, the joy of doing something good for someone. The Two gives, not in order to expect something in return, but because giving is its nature.</p>
+          <p class="vb-intro">In Kai Pflaume this shows in the way he treats contestants &ndash; patient, encouraging, never at others&apos; expense. In &bdquo;Klein gegen Groß&ldquo; children stand alongside world champions. Pflaume moderates this encounter so that the person always stands at the center, not the ratings. This is not a concept, it is character.</p>
+          <p class="vb-intro">The SX3w2 does not only radiate &ndash; he also warms. He does not only attract &ndash; he also cares. This difference explains why Pflaume has won trust over decades that burns out quickly with other presenters.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der sexuellen Drei</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Sexual Three</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Jeder Enneagramm-Typ trägt sein Licht und seinen Schatten. Das Licht der SX3 ist offensichtlich: Charisma, Wärme, die Fähigkeit, Menschen direkt zu berühren. Der Schatten ist subtiler: Die Drei kann ihre Identität mit ihrer Wirkung verwechseln. <em>Ich bin, wie andere mich sehen.</em> Wenn niemand mehr bewundert, wer bin ich dann?</p>
-          <p class="vb-intro">Das Schicksalsmuster der Drei ist die <strong>Täuschung</strong> &ndash; nicht als böse Absicht, sondern als strukturelle Gefahr. Die Drei kann beginnen, eine Rolle zu spielen, so überzeugend, dass sie vergisst, dass es eine Rolle ist. Das Image wird zur Identität. Der Pfau vergisst, wie er ohne sein Gefieder aussieht.</p>
-          <p class="vb-intro">Bei Kai Pflaume ist dieser Schatten kaum sichtbar &ndash; und das ist ein Zeichen gesunder Entwicklung. Er hat offenbar eine stabile innere Basis gefunden, die unabhängig von Einschaltquoten trägt. Dreißig Jahre Fernsehen ohne Burnout, ohne Skandal, ohne Imagewechsel: Das spricht für einen SX3er, der seinen Schatten kennt und mit ihm umzugehen gelernt hat.</p>
+          <p class="vb-intro">Every Enneagram type carries its light and its shadow. The light of the SX3 is obvious: charisma, warmth, the ability to touch people directly. The shadow is subtler: the Three can confuse its identity with its effect. <em>I am how others see me.</em> When no one admires anymore, who am I then?</p>
+          <p class="vb-intro">The karmic pattern of the Three is <strong>deceit</strong> &ndash; not as malicious intent, but as a structural risk. The Three can begin to play a role so convincingly that it forgets it is a role. The image becomes the identity. The peacock forgets what it looks like without its plumage.</p>
+          <p class="vb-intro">In Kai Pflaume this shadow is barely visible &ndash; and that is a sign of healthy development. He has apparently found a stable inner foundation that holds independently of ratings. Thirty years of television without burnout, without scandal, without an image change: this speaks for an SX3 who knows his shadow and has learned to live with it.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Von der Wirkung zur Echtheit</h2>
+        <h2 class="vb-section">5. The Healing Path: From Effect to Authenticity</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Drei führt von der Außenwirkung zur inneren Wahrheit. Die wachsende Drei lernt, ihren Wert von innen zu definieren &ndash; nicht aus Reaktionen anderer. Aus dem <em>Ich bin begehrenswert</em> wird: <em>Ich bin.</em> Aus Anziehung wird Echtheit. Aus Charisma wird Charakter.</p>
-          <p class="vb-intro">Kai Pflaume verkörpert diese Entwicklung in seltener Reinheit. Sein Strahlen ist echt geworden &ndash; nicht weil er aufgehört hat zu strahlen, sondern weil die Quelle dieses Lichts nicht mehr die Kamera ist. Der Pfau braucht kein Publikum. Er ist schön, auch wenn niemand hinschaut.</p>
+          <p class="vb-intro">The healing path of the Three leads from external effect to inner truth. The growing Three learns to define its worth from within &ndash; not from others&apos; reactions. From <em>I am desirable</em> comes: <em>I am.</em> From attraction comes authenticity. From charisma comes character.</p>
+          <p class="vb-intro">Kai Pflaume embodies this development with rare purity. His radiance has become real &ndash; not because he stopped radiating, but because the source of that light is no longer the camera. The peacock needs no audience. He is beautiful, even when no one is watching.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+            ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/sx3", label:"SX3 – Der Strahlende: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/sx3", label:"SX3 – The Radiant One: Subtype Profile"},
         {route:"kriminalpsychologie", label:"Criminal Psychology – Portraits"},
       ])}
     </div>
@@ -10642,51 +10642,51 @@ function angelinaJoliePortraitPage() {
           <img src="./assets/portraits/beruehmte-angelina-jolie-portrait.jpg" alt="Angelina Jolie" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Angelina Jolie</p>
-        <p class="krim-portrait-typ">SO1w2 &middot; Social Type 1 mit Two-wing</p>
-        <p class="krim-portrait-subtitle">Schauspielerin &amp; Regisseurin, geb. 1975 &ndash; Animal correspondence: Gans</p>
+        <p class="krim-portrait-typ">SO1w2 &middot; Social Type 1 with Two-wing</p>
+        <p class="krim-portrait-subtitle">Actress &amp; Director, born 1975 &ndash; Animal correspondence: Goose</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Die Gans</h2>
+        <h2 class="vb-section">1. The Goose</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>Gans</strong> ist das Tier der sozialen Eins &ndash; und ein Tier, das auf den ersten Blick unterschätzt wird. Keine Schönheit wie der Pfau. Keine Stärke wie der Adler. Aber wer je einer Gans begegnet ist, weiß: Sie weicht nicht. Sie schützt ihr Revier. Sie warnt ihre Gruppe. Und wenn sie in Formation fliegt, dann nicht für sich &ndash; sondern für alle.</p>
-          <p class="vb-intro">Angelina Jolie ist seit Jahrzehnten im Blickfeld der Weltöffentlichkeit. Nicht weil sie Aufsehen sucht &ndash; sondern weil Aufsehen entsteht, wenn jemand mit dieser Klarheit spricht. Als UN-Sonderbotschafterin für Flüchtlinge, als Regisseurin von Filmen über Genozid, als Mutter von sechs Kindern aus drei Kontinenten: Sie hat ihr Leben in den Dienst einer Überzeugung gestellt. Die Überzeugung, dass es falsch ist, wegzuschauen.</p>
+          <p class="vb-intro">The <strong>Goose</strong> is the animal of the social One &ndash; and a creature that is underestimated at first glance. No beauty like the peacock. No strength like the eagle. But anyone who has ever encountered a goose knows: it does not yield. It protects its territory. It warns its group. And when it flies in formation, it does so not for itself &ndash; but for everyone.</p>
+          <p class="vb-intro">Angelina Jolie has been in the public eye for decades. Not because she seeks attention &ndash; but because attention arises when someone speaks with that kind of clarity. As a UN Special Envoy for Refugees, as a director of films about genocide, as a mother of six children from three continents: she has devoted her life to a conviction. The conviction that it is wrong to look away.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die soziale Eins: Gerechtigkeit als Berufung</h2>
+        <h2 class="vb-section">2. The Social One: Justice as Vocation</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>soziale Eins (SO1)</strong> ist in der Enneagramm-Tradition der Subtype, der seinen Perfektionismus nach außen &ndash; auf die Gesellschaft, auf Systeme, auf kollektive Ungerechtigkeit &ndash; richtet. Während die selbsterhaltende Eins ihr inneres Leben korrigiert und die sexuelle Eins ihre Überzeugungen im direkten Contact ausdrückt, brennt die SO1 für das große Bild: Was ist falsch an dieser Welt? Und was muss getan werden?</p>
-          <p class="vb-intro">Naranjo nennt diesen Subtype <em>Inadaptability</em> &ndash; Unnachgiebigkeit gegenüber dem, was ist, wenn es nicht sein sollte. Die SO1 akzeptiert keine Kompromisse mit Unrecht. Sie hat hohe Maßstäbe &ndash; nicht nur für sich, sondern für die Welt. Das macht sie zur geborenen Reformerin, zur Stimme derer, die keine Stimme haben.</p>
-          <p class="vb-intro">Angelina Jolies Lebensweg ist ohne diese Struktur nicht zu verstehen. Seit 2001 reist sie für den UNHCR in Konfliktgebiete &ndash; Syrien, Irak, Pakistan, Kambodscha, Sudan. Nicht als PR-Aktion. Als Verpflichtung. Sie hat vor dem UN-Sicherheitsrat gesprochen, Gesetze mitentworfen, Reportagen über sexuelle Kriegsgewalt produziert. Die SO1er kämpft nicht für sich. Sie kämpft für das Richtige.</p>
+          <p class="vb-intro">The <strong>social One (SO1)</strong> is, in the Enneagram tradition, the subtype that directs its perfectionism outward &ndash; toward society, toward systems, toward collective injustice. While the self-preservation One corrects its inner life and the sexual One expresses its convictions in direct contact, the SO1 burns for the big picture: What is wrong with this world? And what must be done?</p>
+          <p class="vb-intro">Naranjo calls this subtype <em>Inadaptability</em> &ndash; an unwillingness to accept what is, when it should not be. The SO1 accepts no compromises with injustice. It holds high standards &ndash; not only for itself, but for the world. This makes it a born reformer, a voice for those who have no voice.</p>
+          <p class="vb-intro">Angelina Jolie&#39;s life path cannot be understood without this structure. Since 2001 she has traveled to conflict zones for the UNHCR &ndash; Syria, Iraq, Pakistan, Cambodia, Sudan. Not as a PR exercise. As a duty. She has spoken before the UN Security Council, helped draft legislation, produced reports on sexual violence in war. The SO1 does not fight for herself. She fights for what is right.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Two-wing: Herz hinter der Haltung</h2>
+        <h2 class="vb-section">3. The Two-wing: Heart Behind the Stance</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Two-wing (w2)</strong> fügt der sozialen Eins etwas Entscheidendes hinzu: direktes, persönliches Mitgefühl. Die reine Eins kann kalt wirken in ihrer Geradlinigkeit &ndash; unerbittlich, fordernd, schwer zugänglich. Der Two-wing öffnet diese Energie: Er macht aus der Systemkritikerin einen Menschen, der auch die Hand ausstreckt.</p>
-          <p class="vb-intro">Bei Angelina Jolie zeigt sich das in einer ungewöhnlichen Verbindung: Sie kann vor der UN sprechen und gleichzeitig ein traumatisiertes Kind in Kambodscha halten. Sie kann Gesetze zitieren und gleichzeitig weinen. Die SO1w2er verbindet die Schärfe der Eins mit der Wärme der Zwei &ndash; Haltung mit Herz. Das ist kein Widerspruch. Das ist Stärke.</p>
-          <p class="vb-intro">Ihre sechs Kinder &ndash; drei biologische, drei adoptierte &ndash; sind kein Publicity-Projekt. Sie sind der Ausdruck einer SO1w2er-Überzeugung: Wenn die Welt ungerecht ist, beginnt die Antwort zuhause. Im Kleinen, im Direkten, im Persönlichen.</p>
+          <p class="vb-intro">The <strong>Two-wing (w2)</strong> adds something essential to the social One: direct, personal compassion. The pure One can seem cold in its straightforwardness &ndash; relentless, demanding, hard to reach. The Two-wing opens this energy: it turns the system critic into someone who also extends a hand.</p>
+          <p class="vb-intro">In Angelina Jolie this shows in an unusual combination: she can address the UN and at the same time hold a traumatized child in Cambodia. She can cite legislation and at the same time weep. The SO1w2 combines the sharpness of the One with the warmth of the Two &ndash; stance with heart. That is no contradiction. That is strength.</p>
+          <p class="vb-intro">Her six children &ndash; three biological, three adopted &ndash; are not a publicity project. They are the expression of an SO1w2 conviction: if the world is unjust, the answer begins at home. In the small, the direct, the personal.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der sozialen Eins</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Social One</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SO1 ist offensichtlich: moralische Klarheit, Ausdauer, die Fähigkeit, unbequeme Wahrheiten zu sagen, wenn andere schweigen. Angelina Jolie hat ihre Plattform nie für Banalitäten genutzt. Sie hat sie genutzt, um Dinge sichtbar zu machen, die die Welt lieber nicht sehen möchte.</p>
-          <p class="vb-intro">Der Schatten ist subtiler. Das Schicksalsmuster der Eins ist der <strong>Zorn</strong> &ndash; und bei der SO1 richtet sich dieser Zorn gegen das System, gegen die Ungerechtigkeit, gegen diejenigen, die nicht handeln. Diese Energie kann befreien &ndash; und sie kann erschöpfen. Die SO1 läuft Gefahr, das Gewicht der Welt als persönliche Pflicht zu tragen. Als wäre jedes Unrecht, das noch besteht, ihr Versagen.</p>
-          <p class="vb-intro">Jolies öffentliche Auseinandersetzung mit ihrer Gesundheit &ndash; Mastektomie, Ovarektomie, beide offen kommuniziert &ndash; trägt auch diese Qualität: die Pflicht, das Richtige zu tun und es sichtbar zu machen. Nicht um Bewunderung zu ernten. Sondern weil andere davon profitieren könnten. Die SO1er kann nicht nicht-handeln, wenn sie sieht, dass Handlung möglich ist.</p>
+          <p class="vb-intro">The light of the SO1 is obvious: moral clarity, endurance, the ability to speak uncomfortable truths when others stay silent. Angelina Jolie has never used her platform for trivialities. She has used it to make visible what the world would rather not see.</p>
+          <p class="vb-intro">The shadow is subtler. The fate pattern of the One is <strong>anger</strong> &ndash; and in the SO1 this anger is directed at the system, at injustice, at those who do not act. This energy can liberate &ndash; and it can exhaust. The SO1 risks carrying the weight of the world as a personal duty. As though every injustice still standing were her failure.</p>
+          <p class="vb-intro">Jolie&#39;s public handling of her health &ndash; mastectomy, oophorectomy, both communicated openly &ndash; carries this quality too: the duty to do the right thing and to make it visible. Not to earn admiration. But because others might benefit. The SO1 cannot not-act when she sees that action is possible.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Kampf zur Würde</h2>
+        <h2 class="vb-section">5. The Healing Path: From Battle to Dignity</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Eins führt vom Zorn zur Stille, von der Pflicht zur Freiheit. Die wachsende Eins lernt: Ich muss nicht alles reparieren. Das Richtige geschieht auch ohne meinen Einsatz &ndash; zumindest manchmal. Die Welt darf unvollkommen sein, ohne dass das meine Niederlage ist.</p>
-          <p class="vb-intro">Für die soziale Eins bedeutet das: den Rückzug vom Kämpfen lernen, ohne das Engagement aufzugeben. Die Gans fliegt in Formation &ndash; aber sie fliegt auch manchmal allein. Angelina Jolie ist in den letzten Jahren stiller geworden. Weniger öffentlichkeitswirksam, mehr hinter den Kulissen. Vielleicht ist das der Reifeprozess der SO1er: Die Überzeugung bleibt. Aber der Druck &ndash; auf sich selbst und die Welt &ndash; lässt nach. Und dann kommt etwas, das stärker ist als Kampf: Würde.</p>
+          <p class="vb-intro">The healing path of the One leads from anger to stillness, from duty to freedom. The growing One learns: I do not have to repair everything. What is right happens without my effort &ndash; at least sometimes. The world may be imperfect without that being my defeat.</p>
+          <p class="vb-intro">For the social One this means: learning the withdrawal from fighting without giving up the engagement. The goose flies in formation &ndash; but it also flies alone sometimes. Angelina Jolie has grown quieter in recent years. Less visible, more behind the scenes. Perhaps that is the maturing process of the SO1: the conviction remains. But the pressure &ndash; on herself and on the world &ndash; eases. And then something arrives that is stronger than battle: dignity.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+      ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how the subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/so1", label:"SO1 – Die Gans: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/so1", label:"SO1 – The Goose: Subtype Profile"},
         {route:"beruehmte-christoph-waltz", label:"Portrait: Christoph Waltz (SE1w2)"},
       ])}
     </div>
@@ -10704,50 +10704,50 @@ function jordanPetersonPortraitPage() {
           <img src="./assets/portraits/beruehmte-jordan-peterson-portrait.jpg" alt="Gans" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Jordan Peterson</p>
-        <p class="krim-portrait-typ">SO1w9 &middot; Social Type 1 mit Nine-wing</p>
-        <p class="krim-portrait-subtitle">Psychologe, Autor &amp; Vortragsredner, geb. 1962 &ndash; Animal correspondence: Gans</p>
+        <p class="krim-portrait-typ">SO1w9 &middot; Social Type 1 with Nine-wing</p>
+        <p class="krim-portrait-subtitle">Psychologist, Author &amp; Speaker, born 1962 &ndash; Animal correspondence: Goose</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Die Gans</h2>
+        <h2 class="vb-section">1. The Goose</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>Gans</strong> ist das Tier des sozialen Typs 1 &ndash; ein Tier, das in Formationen fliegt, das seine Richtung kennt und sie hält, das laut wird, wenn es bedroht wird, und das in Gemeinschaft stark ist. Die Gans folgt keiner Laune. Sie folgt einer inneren Ordnung &ndash; dem Instinkt für das Richtige, dem Sinn für Formation, dem Wissen, dass ein Schwarm nur dann weit kommt, wenn jeder seinen Platz kennt.</p>
-          <p class="vb-intro">Jordan Peterson ist diese Gans. Der kanadische Psychologe, geb. 1962 in Fairview, Alberta, wurde in den 2010er Jahren zu einer der umstrittensten intellektuellen Figuren der westlichen Welt. Sein Buch <em>12 Rules for Life</em> (2018) verkaufte sich mehr als fünf Millionen Mal. Seine YouTube-Vorlesungen wurden hunderte Millionen Male angeschaut. Er predigt Verantwortung, Ordnung, Struktur &ndash; weil er weiß, was das Chaos kostet. Die Gans, die weiß, warum die Formation wichtig ist.</p>
+          <p class="vb-intro">The <strong>Goose</strong> is the animal of the social Type 1 &ndash; a creature that flies in formation, that knows its direction and holds it, that grows loud when threatened, and that is strong in community. The goose follows no whim. It follows an inner order &ndash; the instinct for what is right, the sense of formation, the knowledge that a flock only travels far when every member knows its place.</p>
+          <p class="vb-intro">Jordan Peterson is this goose. The Canadian psychologist, born 1962 in Fairview, Alberta, became one of the most controversial intellectual figures of the Western world in the 2010s. His book <em>12 Rules for Life</em> (2018) sold more than five million copies. His YouTube lectures were watched hundreds of millions of times. He preaches responsibility, order, structure &ndash; because he knows what chaos costs. The goose that knows why formation matters.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Der soziale Typ 1: Vollkommenheit als Vorbild</h2>
+        <h2 class="vb-section">2. The Social Type 1: Perfection as Model</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>soziale Typ 1 (SO1)</strong> trägt seine Leidenschaft des Zorns nicht als persönlichen Groll, sondern als gesellschaftliches Anliegen. Naranjo nannte diesen Subtype <em>Nichtanpassung</em>: Die SO1 kann sich nicht damit abfinden, wie die Dinge sind &ndash; weil sie ein inneres Bild davon hat, wie sie sein sollten. Dieses Bild ist nicht verhandelbar. Es ist moralisch. Es ist ein Prinzip.</p>
-          <p class="vb-intro">Bei Peterson zeigt sich das in seiner zentralen Botschaft: <em>Bring Ordnung in dein Leben. Übernimm Verantwortung. Räum dein Zimmer auf.</em> Diese Sätze klingen einfach &ndash; aber hinter ihnen steckt eine tiefe Überzeugung: dass Chaos nicht nur unbequem ist, sondern gefährlich. Peterson hat dieses Chaos persönlich erlebt &ndash; in der schweren Erkrankung seiner Tochter, in seiner eigenen Abhängigkeit von Benzodiazepinen, in Jahren klinischer Arbeit mit Menschen am Rand. Der SO1 predigt nicht aus der Theorie. Er predigt aus der Erfahrung, was es bedeutet, wenn Ordnung fehlt.</p>
-          <p class="vb-intro">Die Kritik an ihm greift genau diesen Punkt an: dass seine Ordnung zu eng ist, zu patriarchal, zu sehr auf westliche, konservative Werte verengt. Das ist die Schattenseite der SO1: wenn die Nichtanpassung an das Falsche zur Nichtakzeptanz des Anderen wird – wenn der Maßstab, den man an sich selbst anlegt, zum Urteil über alle anderen wird.</p>
+          <p class="vb-intro">The <strong>social Type 1 (SO1)</strong> does not carry its passion of anger as personal grievance, but as a social concern. Naranjo called this subtype <em>Non-adaptation</em>: the SO1 cannot come to terms with how things are &ndash; because it holds an inner image of how they should be. This image is non-negotiable. It is moral. It is a principle.</p>
+          <p class="vb-intro">In Peterson this shows in his central message: <em>Put order into your life. Take responsibility. Clean your room.</em> These sentences sound simple &ndash; but behind them lies a deep conviction: that chaos is not merely uncomfortable, but dangerous. Peterson has experienced this chaos personally &ndash; in his daughter&#39;s severe illness, in his own dependence on benzodiazepines, in years of clinical work with people on the edge. The SO1 does not preach from theory. He preaches from the experience of what it means when order is absent.</p>
+          <p class="vb-intro">The criticism directed at him targets exactly this point: that his order is too narrow, too patriarchal, too confined to Western, conservative values. That is the shadow side of the SO1: when non-adaptation to the wrong becomes non-acceptance of the other &ndash; when the standard one applies to oneself becomes a judgment on everyone else.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Nine-wing: Die ruhige Überzeugung</h2>
+        <h2 class="vb-section">3. The Nine-wing: The Quiet Conviction</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Nine-wing (w9)</strong> gibt der sozialen Eins eine Qualität, die ihren Worten eine besondere Wirkung verleiht: innere Ruhe. Die SO1w9 kämpft nicht mit Hitze &ndash; sie überzeugt mit Tiefe. <em>Ich muss nicht schreien. Was ich sage, trägt sein eigenes Gewicht.</em> Die Stille des Neuners verstärkt die Präzision der Eins zu einer Kombination, die auf viele Menschen außergewöhnlich überzeugend wirkt.</p>
-          <p class="vb-intro">Peterson ist kein Redner, der Emotionen schürt &ndash; er ist ein Denker, der langsam, bedächtig und mit ungewöhnlicher Genauigkeit spricht. Seine Vorlesungen dauern oft zwei Stunden. Sein Ton ist ruhig, fast meditativ. Und trotzdem &ndash; oder gerade deswegen &ndash; erreichen seine Worte Menschen, die das Gefühl haben, dass ihnen lange niemand zugehört hat. Der Nine-wing bringt die Gabe der Verbindung: nicht durch Kraft, sondern durch Stille.</p>
+          <p class="vb-intro">The <strong>Nine-wing (w9)</strong> gives the social One a quality that lends its words a particular power: inner calm. The SO1w9 does not fight with heat &ndash; it convinces with depth. <em>I do not have to shout. What I say carries its own weight.</em> The stillness of the Nine amplifies the precision of the One into a combination that many people find extraordinarily persuasive.</p>
+          <p class="vb-intro">Peterson is not a speaker who stirs emotions &ndash; he is a thinker who speaks slowly, deliberately, and with unusual precision. His lectures often last two hours. His tone is calm, almost meditative. And yet &ndash; or precisely because of this &ndash; his words reach people who feel no one has listened to them for a long time. The Nine-wing brings the gift of connection: not through force, but through stillness.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten</h2>
+        <h2 class="vb-section">4. Light and Shadow</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SO1w9 ist ihre Fähigkeit, Menschen eine Richtung zu geben, die orientierungslos sind. Petersen hat Millionen junger Männer erreicht &ndash; eine Gruppe, die von vielen anderen öffentlichen Intellektuellen kaum angesprochen wurde. Seine Botschaft &ndash; <em>Übernimm Verantwortung für dein Leben</em> &ndash; ist im Kern gesund. Sie gibt jemandem, der sich als Opfer seiner Umstände fühlt, ein Werkzeug zurück: die eigene Handlungsfähigkeit.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Eins ist der <strong>Zorn</strong> &ndash; nicht der laute, explosive Zorn der Acht, sondern der unterdrückte, moralisch aufgeladene Zorn derer, die wissen, wie es sein sollte. Bei Peterson tritt dieser Zorn in Momenten auf, in denen er sich falsch verstanden oder unfair behandelt fühlt. Das berühmteste Beispiel: das Interview mit Cathy Newman auf Channel 4 (2018), in dem er ruhig und präzise seinen Positionen standhielt &ndash; und am Ende sagte: <em>„So what you're saying is..."</em> als lautlose Form, die Verzerrung zu korrigieren. Kontrollierter Zorn als Stilmittel.</p>
-          <p class="vb-intro">Der Schatten der SO1w9 liegt in der Rigidität: wenn die eigene Ordnung so absolut wird, dass kein Raum mehr bleibt für das Mehrdeutige, das Unfertige, das Experiment. Petersen wurde in den letzten Jahren zunehmend polarisierender &ndash; weniger Psychologe, mehr Kulturkämpfer. Das ist die Gans, die ihre Formation verliert und nicht mehr weiß, wohin sie fliegt.</p>
+          <p class="vb-intro">The light of the SO1w9 is its ability to give direction to people who are disoriented. Peterson has reached millions of young men &ndash; a group that most other public intellectuals have barely addressed. His message &ndash; <em>Take responsibility for your life</em> &ndash; is healthy at its core. It gives someone who feels a victim of circumstances a tool back: their own agency.</p>
+          <p class="vb-intro">The fate pattern of the One is <strong>anger</strong> &ndash; not the loud, explosive anger of the Eight, but the suppressed, morally charged anger of those who know how things should be. In Peterson this anger surfaces in moments when he feels misunderstood or unfairly treated. The most famous example: the interview with Cathy Newman on Channel 4 (2018), in which he held calmly and precisely to his positions &ndash; and at the end said: <em>&#39;So what you&#39;re saying is...&#39;</em> as a silent way of correcting the distortion. Controlled anger as a stylistic device.</p>
+          <p class="vb-intro">The shadow of the SO1w9 lies in rigidity: when one&#39;s own order becomes so absolute that no room remains for ambiguity, the unfinished, the experimental. Peterson has become increasingly polarizing in recent years &ndash; less psychologist, more culture warrior. That is the goose that has lost its formation and no longer knows where it is flying.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Ordnung, die trägt &ndash; nicht bindet</h2>
+        <h2 class="vb-section">5. The Healing Path: Order that Carries &ndash; Not Binds</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Eins führt von der Frage <em>Wie mache ich es richtig?</em> zur Erkenntnis <em>Es darf auch unvollständig sein.</em> Für die SO1w9 bedeutet das, die Ordnung nicht als Endzustand zu begreifen, sondern als Richtung &ndash; eine Haltung, die trägt, ohne zu erstarren. Die Gans weiß, wohin die Formation fliegt. Aber sie weiß auch: der Weg ist nicht perfekt. Manchmal bricht die Formation. Manchmal muss man den Kurs korrigieren.</p>
-          <p class="vb-intro">Petersen hat in seinen offenen Momenten &ndash; besonders im Gespräch über die Krankheit seiner Tochter, über seine eigene Gebrechlichkeit &ndash; gezeigt, was möglich ist, wenn die Rüstung der Prinzipien fällt und der Mensch darunter sichtbar wird. Das ist die SO1w9 auf ihrem Heilungsweg: Wenn die Ordnung nicht mehr dem Schutz vor dem Chaos dient, sondern dem Leben. Der Unterschied ist klein. Aber er ändert alles.</p>
+          <p class="vb-intro">The healing path of the One leads from the question <em>How do I do it right?</em> to the insight <em>It may also be incomplete.</em> For the SO1w9 this means understanding order not as a final state but as a direction &ndash; an attitude that carries without becoming rigid. The goose knows where the formation is flying. But it also knows: the path is not perfect. Sometimes the formation breaks. Sometimes the course must be corrected.</p>
+          <p class="vb-intro">Peterson has shown, in his open moments &ndash; especially in conversations about his daughter&#39;s illness, about his own fragility &ndash; what becomes possible when the armor of principles falls and the human being beneath becomes visible. That is the SO1w9 on its healing path: when order no longer serves to protect against chaos, but serves life. The difference is small. But it changes everything.</p>
         </blockquote>
 
       </div>
-      ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe – Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist – Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich – wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Persönlichkeiten des Enneagramms")}
+      ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how the subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/so1", label:"SO1 – Die Gans: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/so1", label:"SO1 – The Goose: Subtype Profile"},
         {route:"beruehmte-friedrich-merz", label:"Portrait: Friedrich Merz (SO1w9)"},
       ])}
     </div>
@@ -10764,51 +10764,51 @@ function friedrichMerzPortraitPage() {
           <img src="./assets/portraits/beruehmte-friedrich-merz-portrait.jpg" alt="Friedrich Merz" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Friedrich Merz</p>
-        <p class="krim-portrait-typ">SO1w9 &middot; Social Type 1 mit Nine-wing</p>
-        <p class="krim-portrait-subtitle">Bundeskanzler &amp; Politiker, geb. 1955 &ndash; Animal correspondence: Gans</p>
+        <p class="krim-portrait-typ">SO1w9 &middot; Social Type 1 with Nine-wing</p>
+        <p class="krim-portrait-subtitle">Federal Chancellor &amp; Politician, born 1955 &ndash; Animal correspondence: Goose</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Die Gans</h2>
+        <h2 class="vb-section">1. The Goose</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>Gans</strong> ist das Tier der sozialen Eins &ndash; und es ist ein Tier, das nicht dekoriert, sondern funktioniert. Keine Eleganz um der Eleganz willen. Keine Scheu vor Konflikten, wenn das Revier verteidigt werden muss. Die Gans fliegt in Formation, hält die Ordnung aufrecht und warnt die Gruppe, wenn etwas nicht stimmt. Wer sie unterschätzt, erlebt eine Überraschung.</p>
-          <p class="vb-intro">Friedrich Merz ist in der deutschen Politik eine Erscheinung, die polarisiert &ndash; und das nicht zufällig. Er sagt, was er denkt. Er benennt, was er für falsch hält. Er hat keine Angst vor unbequemen Positionen. Das ist kein Stilmittel &ndash; das ist Struktur. Die Gans weicht nicht aus, wenn sie überzeugt ist, das Richtige zu tun.</p>
+          <p class="vb-intro">The <strong>Goose</strong> is the animal of the social One &ndash; and it is a creature that does not decorate but functions. No elegance for elegance&#39;s sake. No shying away from conflicts when the territory must be defended. The goose flies in formation, upholds order, and warns the group when something is wrong. Those who underestimate it are in for a surprise.</p>
+          <p class="vb-intro">Friedrich Merz is a figure in German politics that polarizes &ndash; and not by accident. He says what he thinks. He names what he considers wrong. He is not afraid of uncomfortable positions. That is not a stylistic choice &ndash; that is structure. The goose does not back down when it is convinced it is doing the right thing.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die soziale Eins: Ordnung als Berufung</h2>
+        <h2 class="vb-section">2. The Social One: Order as Vocation</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>soziale Eins (SO1)</strong> ist der Subtype, der seinen Perfektionismus nach außen richtet &ndash; auf Gesellschaft, Institutionen, kollektive Werte. Nicht das eigene Leben steht im Mittelpunkt, sondern die Frage: Wie müsste die Welt beschaffen sein, damit sie gerecht und geordnet funktioniert? Die SO1 trägt ein inneres Regelwerk, das sie auf alles anwendet &ndash; auf Gesetze, auf Haushaltspolitik, auf das Verhalten anderer Politiker.</p>
-          <p class="vb-intro">Naranjo nennt diesen Subtype <em>Inadaptability</em> &ndash; Unnachgiebigkeit gegenüber dem, was abweicht. Die SO1 hat Schwierigkeiten damit, Kompromisse mit dem zu machen, was sie für strukturell falsch hält. Das macht sie zur konsequentesten Reformerin unter den Einser-Subtypees &ndash; und zur unbequemsten Gesprächspartnerin.</p>
-          <p class="vb-intro">Friedrich Merz verkörpert diese Energie in Reinform. Als Jurist, als Wirtschaftspolitiker, als CDU-Vorsitzender und jetzt als Bundeskanzler: Ihm geht es immer um das Prinzip. Um Haushaltsdisziplin als moralische Frage. Um die Grenze als rechtliche Pflicht. Um den Staat als Ordnungsrahmen, der gehalten werden muss. Das ist keine Ideologie. Das ist der Blick der sozialen Eins auf die Welt.</p>
+          <p class="vb-intro">The <strong>social One (SO1)</strong> is the subtype that directs its perfectionism outward &ndash; toward society, institutions, collective values. Not one&#39;s own life stands at the center, but the question: How should the world be structured for it to function justly and in order? The SO1 carries an inner code of rules that it applies to everything &ndash; to laws, to fiscal policy, to the behavior of other politicians.</p>
+          <p class="vb-intro">Naranjo calls this subtype <em>Inadaptability</em> &ndash; unwillingness toward what deviates. The SO1 has difficulty compromising on what it considers structurally wrong. That makes it the most consistent reformer among the One subtypes &ndash; and the most uncomfortable conversation partner.</p>
+          <p class="vb-intro">Friedrich Merz embodies this energy in pure form. As a lawyer, as an economic politician, as CDU chairman and now as Federal Chancellor: for him it is always about principle. About fiscal discipline as a moral question. About the border as a legal duty. About the state as a framework of order that must be maintained. That is not ideology. That is the social One&#39;s view of the world.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Nine-wing: Ruhe im Inneren, Klarheit nach außen</h2>
+        <h2 class="vb-section">3. The Nine-wing: Calm Within, Clarity Without</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Nine-wing (w9)</strong> verändert die soziale Eins auf subtile, aber entscheidende Weise. Die reine SO1 kann hitzig, anklagend, moralisierend wirken &ndash; der Zorn liegt nah an der Oberfläche. Der Nine-wing kühlt diese Energie ab. Er bringt eine gewisse Gelassenheit, eine Fähigkeit zur Ruhe, die die Botschaft der Eins stabiler und weniger angreifbar macht.</p>
-          <p class="vb-intro">Der Nine-wing fügt auch eine Qualität hinzu, die man bei Merz häufig beobachtet: die Fähigkeit, lange zu warten. Die Neun ist geduldig &ndash; fast zu geduldig manchmal. Merz hat jahrelang auf seine politische Stunde gewartet, nach der Ära Merkel im Hintergrund gearbeitet, sich nicht verbiegen lassen. Das ist nicht die Energie eines reinen Einser-Kämpfers. Das ist die geduldige Beharrlichkeit der SO1w9er.</p>
-          <p class="vb-intro">Gleichzeitig kann der Nine-wing die Schattenseiten der Neun einbringen: Sturheit, Abschottung gegen abweichende Perspektiven, eine Tendenz, den inneren Widerstand nach außen zu verschweigen &ndash; bis er sich plötzlich entlädt. Wer Friedrich Merz kennt, erkennt auch das.</p>
+          <p class="vb-intro">The <strong>Nine-wing (w9)</strong> changes the social One in a subtle but decisive way. The pure SO1 can seem heated, accusatory, moralizing &ndash; the anger lies close to the surface. The Nine-wing cools this energy. It brings a certain equanimity, an ability for calm that makes the One&#39;s message more stable and less vulnerable to attack.</p>
+          <p class="vb-intro">The Nine-wing also adds a quality frequently observed in Merz: the ability to wait for a long time. The Nine is patient &ndash; almost too patient sometimes. Merz waited years for his political moment, worked in the background after the Merkel era, refused to bend. That is not the energy of a pure One fighter. That is the patient persistence of the SO1w9.</p>
+          <p class="vb-intro">At the same time the Nine-wing can bring the shadows of the Nine: stubbornness, shielding against differing perspectives, a tendency to suppress inner resistance &ndash; until it suddenly discharges. Those who know Friedrich Merz recognize this too.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der sozialen Eins</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Social One</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SO1 ist ihre Integrität. Friedrich Merz ist ein Politiker, dem man abnimmt, dass er wirklich von dem überzeugt ist, was er sagt. Ob man seiner Meinung ist oder nicht &ndash; die Haltung wirkt echt. Das ist in einer Zeit zunehmend strategischer Kommunikation ein seltenes Gut.</p>
-          <p class="vb-intro">Der Schatten der SO1 ist der <strong>Zorn</strong> &ndash; und die Überzeugung, das Richtige zu wissen. Die soziale Eins neigt dazu, moralische Überlegenheit mit faktischer Überlegenheit zu verwechseln. Sie sieht klar, wie die Dinge sein sollten &ndash; und verliert dabei manchmal den Blick dafür, dass andere Perspektiven ebenfalls ihre Berechtigung haben. Das Schicksalsmuster der Eins ist nicht Böswilligkeit. Es ist Verblendung durch Gewissheit.</p>
-          <p class="vb-intro">Bei Merz zeigt sich das in Momenten, in denen pointierte Aussagen mehr Schaden angerichtet haben als geplant &ndash; nicht weil sie gelogen waren, sondern weil sie das Prinzip über den Kontext stellten. Die Gans warnt laut. Manchmal zu laut für den Moment.</p>
+          <p class="vb-intro">The light of the SO1 is its integrity. Friedrich Merz is a politician who comes across as genuinely convinced of what he says. Whether one agrees with him or not &ndash; the stance feels real. In an era of increasingly strategic communication that is a rare quality.</p>
+          <p class="vb-intro">The shadow of the SO1 is <strong>anger</strong> &ndash; and the conviction of knowing what is right. The social One tends to confuse moral superiority with factual superiority. It sees clearly how things should be &ndash; and sometimes loses sight of the fact that other perspectives have their validity too. The fate pattern of the One is not malice. It is blindness through certainty.</p>
+          <p class="vb-intro">In Merz this shows in moments when pointed statements have caused more damage than intended &ndash; not because they were false, but because they placed principle above context. The goose warns loudly. Sometimes too loudly for the moment.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Richter zum Baumeister</h2>
+        <h2 class="vb-section">5. The Healing Path: From Judge to Builder</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Eins führt vom Richten zum Bauen. Von der Frage <em>Was ist falsch?</em> zur Frage <em>Was ist möglich?</em> Die wachsende Eins behält ihre Maßstäbe &ndash; aber sie lernt, dass Ordnung nicht durch Kontrolle entsteht, sondern durch Vertrauen. Dass das Gute nicht nur in der Korrektur liegt, sondern auch im Zulassen.</p>
-          <p class="vb-intro">Friedrich Merz hat als Bundeskanzler eine Bühne, die der SO1w9er selten bekommt: Gestaltungsmacht. Die Frage ist, ob die Energie der sozialen Eins sich vom Diagnostizieren zum Erschaffen verschiebt. Ob die Gans, die jahrzehntelang gewarnt hat, jetzt auch bauen kann. Das wäre der Weg &ndash; vom strengen Wächter zum stillen Architekten einer Ordnung, die trägt.</p>
+          <p class="vb-intro">The healing path of the One leads from judging to building. From the question <em>What is wrong?</em> to the question <em>What is possible?</em> The growing One keeps its standards &ndash; but learns that order does not arise through control, but through trust. That the good lies not only in correction, but also in allowing.</p>
+          <p class="vb-intro">Friedrich Merz has as Federal Chancellor a stage that the SO1w9 rarely receives: power to shape things. The question is whether the energy of the social One shifts from diagnosing to creating. Whether the goose that has warned for decades can now also build. That would be the path &ndash; from strict guardian to quiet architect of an order that carries.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+      ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how the subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/so1", label:"SO1 – Die Gans: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/so1", label:"SO1 – The Goose: Subtype Profile"},
         {route:"beruehmte-angelina-jolie", label:"Portrait: Angelina Jolie (SO1w2)"},
       ])}
     </div>
@@ -10826,50 +10826,50 @@ function leonardoDiCaprioPortraitPage() {
           <img src="./assets/portraits/beruehmte-leonardo-dicaprio-portrait.jpg" alt="Leonardo DiCaprio" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Leonardo DiCaprio</p>
-        <p class="krim-portrait-typ">SX1w2 &middot; Sexual Type 1 mit Two-wing</p>
-        <p class="krim-portrait-subtitle">Schauspieler &amp; Klimaaktivist, geb. 1974 &ndash; Animal correspondence: Schwarze Mamba</p>
+        <p class="krim-portrait-typ">SX1w2 &middot; Sexual Type 1 with Two-wing</p>
+        <p class="krim-portrait-subtitle">Actor &amp; Climate Activist, born 1974 &ndash; Animal correspondence: Black Mamba</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Die Schwarze Mamba</h2>
+        <h2 class="vb-section">1. The Black Mamba</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>Schwarze Mamba</strong> ist das Tier der sexuellen Eins &ndash; und es ist ein Tier, das unter Druck steht. Nicht äußerlich. Innerlich. Die Schwarze Mamba ist präzise, schnell und unerbittlich. Wenn sie zuschlägt, dann nicht aus Brutalität, sondern aus einem Impuls, der sich nicht mehr aufhalten lässt. Sie ist das Tier eines Wesens, das an sich selbst die höchsten Maßstäbe anlegt &ndash; und das diese Maßstäbe mit einer Intensität verfolgt, die andere kaum nachvollziehen können.</p>
-          <p class="vb-intro">Leonardo DiCaprio hat sich für jede Rolle seines Lebens in Zonen begeben, in die kaum ein anderer Schauspieler freiwillig geht. Rohes Fleisch gegessen. Im Schnee geschlafen. Sprachen gelernt, Körper transformiert, Jahrzehnte in Figuren investiert. Das ist kein Ehrgeiz. Das ist der Biss der Mamba: vollständig, präzise, ohne Halbheiten.</p>
+          <p class="vb-intro">The <strong>Black Mamba</strong> is the animal of the sexual One &ndash; and it is a creature under pressure. Not outwardly. Inwardly. The Black Mamba is precise, fast, and relentless. When it strikes, it does not do so from brutality, but from an impulse that can no longer be stopped. It is the animal of a being that holds itself to the highest standards &ndash; and pursues those standards with an intensity others can barely comprehend.</p>
+          <p class="vb-intro">Leonardo DiCaprio has, for every role of his life, entered zones almost no other actor willingly goes. Eaten raw meat. Slept in the snow. Learned languages, transformed bodies, invested decades in characters. That is not ambition. That is the bite of the mamba: complete, precise, without half-measures.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die sexuelle Eins: Perfektion als inniges Feuer</h2>
+        <h2 class="vb-section">2. The Sexual One: Perfection as Intimate Fire</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>sexuelle Eins (SX1)</strong> ist in der Enneagramm-Tradition der intensivste aller Einser-Subtypees. Während die selbsterhaltende Eins ihre Perfektion nach innen richtet und die soziale Eins die Welt reformieren will, kanalisiert die SX1 ihren Zorn und ihre Leidenschaft in den direkten, persönlichen Contact &ndash; in die Beziehung, das Projekt, die Sache, der sie sich verschrieben hat. Naranjo nennt diesen Subtype <em>Jealousy</em> &ndash; Eifersucht: eine brennende Intensität im Erleben dessen, was sie liebt oder ablehnt.</p>
-          <p class="vb-intro">Bei Leonardo DiCaprio zeigt sich das in einer lebenslangen, fast besessenen Beziehung zu seiner Kunst. Er wählt Rollen, die etwas von ihm verlangen, das über technisches Können weit hinausgeht. Howard Hughes in <em>The Aviator</em> &ndash; er hat Zwangsstörungen am eigenen Leib erlebt. Hugh Glass in <em>The Revenant</em> &ndash; er hat echte Kälte, echte Erschöpfung, echten Schmerz als Material benutzt. Die SX1 kann nicht halbherzig sein. Sie muss vollständig darin sein &ndash; oder gar nicht.</p>
-          <p class="vb-intro">Dasselbe Feuer zeigt sich in seinem Klimaaktivismus. Seit den 1990er Jahren engagiert sich DiCaprio für den Schutz der Erde &ndash; nicht als Beiwerk, sondern als zweite Lebensachse. Die Leonardo DiCaprio Foundation hat über 100 Millionen Dollar in Umweltschutzprojekte investiert. Das ist die SX1 in ihrem Licht: leidenschaftlich, präzise, kompromisslos.</p>
+          <p class="vb-intro">The <strong>sexual One (SX1)</strong> is, in the Enneagram tradition, the most intense of all One subtypes. While the self-preservation One directs its perfection inward and the social One wants to reform the world, the SX1 channels its anger and passion into direct, personal contact &ndash; into the relationship, the project, the cause to which it has dedicated itself. Naranjo calls this subtype <em>Jealousy</em>: a burning intensity in experiencing what it loves or rejects.</p>
+          <p class="vb-intro">In Leonardo DiCaprio this shows in a lifelong, almost obsessive relationship with his art. He chooses roles that demand something from him far beyond technical skill. Howard Hughes in <em>The Aviator</em> &ndash; he experienced obsessive-compulsive disorder in his own body. Hugh Glass in <em>The Revenant</em> &ndash; he used real cold, real exhaustion, real pain as material. The SX1 cannot be half-hearted. It must be fully present &ndash; or not at all.</p>
+          <p class="vb-intro">The same fire shows in his climate activism. Since the 1990s DiCaprio has been committed to protecting the Earth &ndash; not as a side project, but as a second axis of his life. The Leonardo DiCaprio Foundation has invested over 100 million dollars in environmental projects. That is the SX1 in its light: passionate, precise, uncompromising.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Two-wing: Wärme hinter dem Feuer</h2>
+        <h2 class="vb-section">3. The Two-wing: Warmth Behind the Fire</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Two-wing (w2)</strong> verändert die sexuelle Eins auf entscheidende Weise. Die reine SX1 kann verzehrend wirken &ndash; hitzig, fordernd, schwer zugänglich in ihrer Intensität. Der Two-wing bringt eine natürliche Wärme ins Spiel: das echte Interesse am anderen, die Freude am Geben, die Fähigkeit, andere in die eigene Welt einzuladen statt sie auf Abstand zu halten.</p>
-          <p class="vb-intro">Bei DiCaprio zeigt sich der Two-wing in der Art, wie er mit Regisseuren und Kollegen arbeitet. Seine langjährige Zusammenarbeit mit Martin Scorsese &ndash; fünf Filme, eine echte kreative Freundschaft &ndash; ist kein strategisches Bündnis. Es ist Zuneigung. Die SX1w2er baut tiefe, loyale Verbindungen zu den Menschen, denen sie vertraut. Und sie verteidigt diese Verbindungen mit derselben Intensität, mit der sie alles andere verfolgt.</p>
-          <p class="vb-intro">Auch in seinen Relationships zur Umweltbewegung trägt der Two-wing: DiCaprio spricht nicht nur &ndash; er verbindet sich. Er bringt Wissenschaftler, Aktivisten und Politiker zusammen. Der SX1w2er will nicht nur recht haben. Er will, dass die richtigen Menschen sich finden.</p>
+          <p class="vb-intro">The <strong>Two-wing (w2)</strong> changes the sexual One in a decisive way. The pure SX1 can seem consuming &ndash; heated, demanding, hard to reach in its intensity. The Two-wing brings a natural warmth into play: genuine interest in others, joy in giving, the ability to invite others into one&#39;s world instead of keeping them at a distance.</p>
+          <p class="vb-intro">In DiCaprio the Two-wing shows in the way he works with directors and colleagues. His long collaboration with Martin Scorsese &ndash; five films, a genuine creative friendship &ndash; is not a strategic alliance. It is affection. The SX1w2 builds deep, loyal bonds with the people it trusts. And it defends these bonds with the same intensity with which it pursues everything else.</p>
+          <p class="vb-intro">The Two-wing also comes through in his relationships within the environmental movement: DiCaprio does not only speak &ndash; he connects. He brings together scientists, activists, and politicians. The SX1w2 does not just want to be right. It wants the right people to find each other.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der sexuellen Eins</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Sexual One</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SX1 ist ihre Tiefe. Leonardo DiCaprio hat kein breites Werk &ndash; er hat ein intensives. Jede Rolle ist ein Eintauchen. Kein Durchschnitt, kein Mittelmaß. Das Schicksalsmuster der Eins ist der <strong>Zorn</strong> &ndash; und bei der SX1 ist dieser Zorn lebendig, nah an der Oberfläche, manchmal kaum zu bändigen. Die Intensität, die DiCaprio in Rollen wie Jordan Belfort oder Calvin Candie verwandelt, kommt nicht aus dem Nichts. Sie kommt aus einem inneren Feuer, das auch im Alltag brennt.</p>
-          <p class="vb-intro">Der Schatten liegt in der Perfektion als Gefängnis. Die SX1 kann so hohe Maßstäbe haben, dass sie sich selbst nicht genug ist &ndash; auch dann nicht, wenn die Welt ihr applaudiert. DiCaprio hat fünfmal vergeblich auf den Oscar gewartet. Bei der sechsten Nominierung &ndash; für <em>The Revenant</em>, 2016 &ndash; gewann er endlich. In seiner Rede sprach er über den Klimawandel, nicht über sich selbst. Das ist die SX1: Auch im Moment des Triumphes steht das Prinzip vor der Person.</p>
+          <p class="vb-intro">The light of the SX1 is its depth. Leonardo DiCaprio does not have a broad body of work &ndash; he has an intense one. Every role is a deep dive. No average, no mediocrity. The fate pattern of the One is <strong>anger</strong> &ndash; and in the SX1 this anger is alive, close to the surface, sometimes barely containable. The intensity that DiCaprio transforms into roles like Jordan Belfort or Calvin Candie does not come from nowhere. It comes from an inner fire that also burns in everyday life.</p>
+          <p class="vb-intro">The shadow lies in perfection as a prison. The SX1 can hold such high standards that it is never enough for itself &ndash; even when the world applauds. DiCaprio waited in vain for the Oscar five times. At the sixth nomination &ndash; for <em>The Revenant</em>, 2016 &ndash; he finally won. In his speech he spoke about climate change, not about himself. That is the SX1: even in the moment of triumph, the principle stands before the person.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Feuer zur Freiheit</h2>
+        <h2 class="vb-section">5. The Healing Path: From Fire to Freedom</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Eins führt vom Zorn zur Heiterkeit. Von der Forderung zur Akzeptanz. Die wachsende Eins lernt: Ich muss nicht perfekt sein, um vollständig zu sein. Das Gute entsteht nicht nur durch Kontrolle &ndash; manchmal entsteht es auch durch Loslassen.</p>
-          <p class="vb-intro">Für die SX1 bedeutet das einen besonderen Schritt: die eigene Intensität annehmen, ohne von ihr regiert zu werden. Das Feuer der Mamba nicht löschen &ndash; aber lernen, auch in seiner Stille zu ruhen. Leonardo DiCaprio ist noch auf diesem Weg. Das Engagement bleibt. Die Leidenschaft bleibt. Aber vielleicht kommt ein Moment, in dem die Mamba nicht mehr zuschlagen muss, um zu wissen, wer sie ist.</p>
+          <p class="vb-intro">The healing path of the One leads from anger to serenity. From demand to acceptance. The growing One learns: I do not have to be perfect to be complete. The good does not arise only through control &ndash; sometimes it also arises through letting go.</p>
+          <p class="vb-intro">For the SX1 this means a particular step: embracing one&#39;s own intensity without being ruled by it. Not extinguishing the fire of the mamba &ndash; but learning to rest in its stillness too. Leonardo DiCaprio is still on this path. The commitment remains. The passion remains. But perhaps a moment comes when the mamba no longer needs to strike in order to know who it is.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+      ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how the subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/sx1", label:"SX1 – Die Schwarze Mamba: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/sx1", label:"SX1 – The Black Mamba: Subtype Profile"},
         {route:"beruehmte-christoph-waltz", label:"Portrait: Christoph Waltz (SE1w2)"},
       ])}
     </div>
@@ -10887,51 +10887,51 @@ function gretaThunbergPortraitPage() {
           <img src="./assets/portraits/beruehmte-greta-thunberg-portrait.jpg" alt="Greta Thunberg" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Greta Thunberg</p>
-        <p class="krim-portrait-typ">SE2w1 &middot; Self-Preservation Type 2 mit One-wing</p>
-        <p class="krim-portrait-subtitle">Klimaaktivistin, geb. 2003 &ndash; Animal correspondence: Flusspferd</p>
+        <p class="krim-portrait-typ">SE2w1 &middot; Self-Preservation Type 2 with One-wing</p>
+        <p class="krim-portrait-subtitle">Climate Activist, born 2003 &ndash; Animal correspondence: Hippopotamus</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Das Flusspferd</h2>
+        <h2 class="vb-section">1. The Hippopotamus</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das <strong>Flusspferd</strong> ist das Tier der selbsterhaltenden Zwei &ndash; und es ist ein Tier, das man unterschätzt, bis man es nicht mehr unterschätzen kann. Es wirkt träge, beinahe harmlos. Es liegt im Wasser. Es hält inne. Aber das Flusspferd ist eines der gefährlichsten Tiere Afrikas. Es schützt sein Territorium mit einer Kraft, die aus dem Inneren kommt &ndash; nicht aus Aggression, sondern aus dem absoluten Wissen: Das hier ist meins. Das hier ist notwendig. Das gebe ich nicht auf.</p>
-          <p class="vb-intro">Greta Thunberg hat im August 2018 allein vor dem schwedischen Reichstag gesessen &ndash; ein fünfzehnjähriges Mädchen mit einem selbstgebastelten Schild. Sie hat nicht um Erlaubnis gefragt. Sie hat nicht auf die richtige Gelegenheit gewartet. Sie hat gehandelt, weil die Situation Handlung verlangte. Das ist die Energie des Flusspferds: nicht laut, bis sie laut sein muss &ndash; und dann unaufhaltsam.</p>
+          <p class="vb-intro">The <strong>Hippopotamus</strong> is the animal of the self-preservation Two &ndash; and it is a creature that one underestimates until one can no longer do so. It seems sluggish, almost harmless. It lies in the water. It pauses. But the hippopotamus is one of Africa&#39;s most dangerous animals. It defends its territory with a force that comes from within &ndash; not from aggression, but from absolute knowledge: This is mine. This is necessary. I will not give this up.</p>
+          <p class="vb-intro">Greta Thunberg sat alone in front of the Swedish Riksdag in August 2018 &ndash; a fifteen-year-old girl with a hand-made sign. She did not ask for permission. She did not wait for the right moment. She acted, because the situation demanded action. That is the energy of the hippopotamus: not loud, until it must be loud &ndash; and then unstoppable.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die selbsterhaltende Zwei: Das Recht auf Existenz</h2>
+        <h2 class="vb-section">2. The Self-Preservation Two: The Right to Exist</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>selbsterhaltende Zwei (SE2)</strong> ist in der Enneagramm-Tradition der Subtype, der die Energie der Zwei am stärksten nach innen und auf das eigene Überleben richtet. Während die soziale Zwei für die Gruppe kämpft und die sexuelle Zwei durch Verführung und persönliche Anziehung wirkt, fragt die SE2 zuerst: <em>Was brauche ich, um zu überleben? Was braucht die Welt, in der ich lebe, um zu überleben?</em> Naranjo nennt diesen Subtype <em>Me First</em> &ndash; nicht im egoistischen Sinn, sondern im existenziellen: die Zwei, die ihre eigenen Bedürfnisse nicht verleugnet, sondern direkt benennt.</p>
-          <p class="vb-intro">Bei Greta Thunberg zeigt sich das in einer seltenen, fast schonungslosen Direktheit. Sie sagt nicht: <em>Ich sorge mich um die Zukunft anderer.</em> Sie sagt: <em>Ihr stehlt meine Zukunft.</em> Das ist der SE2-Blick: Klimawandel ist keine abstrakte humanitäre Frage &ndash; er ist eine Bedrohung der eigenen Lebensgrundlage. Diese Unmittelbarkeit macht ihre Botschaft so anders als die vieler anderer Aktivisten. Sie redet nicht über die Welt da draußen. Sie redet über die Welt, in der sie selbst existiert.</p>
-          <p class="vb-intro">Auch ihre Offenheit über die eigene Neurodivergenz &ndash; Asperger-Syndrom, Zwangsstörungen, selektiver Mutismus &ndash; trägt diese SE2-Qualität: kein Verstecken, kein Beschönigen. <em>Mein Gehirn funktioniert anders. Das ist, wer ich bin.</em> Die SE2 benennt ihre Realität &ndash; auch wenn die Welt lieber wegschaut.</p>
+          <p class="vb-intro">The <strong>self-preservation Two (SE2)</strong> is, in the Enneagram tradition, the subtype that most strongly directs the energy of the Two inward and toward its own survival. While the social Two fights for the group and the sexual Two operates through seduction and personal attraction, the SE2 asks first: <em>What do I need to survive? What does the world I live in need to survive?</em> Naranjo calls this subtype <em>Me First</em> &ndash; not in the egotistical sense, but in the existential: the Two that does not deny its own needs, but names them directly.</p>
+          <p class="vb-intro">In Greta Thunberg this shows in a rare, almost relentless directness. She does not say: <em>I am worried about the future of others.</em> She says: <em>You are stealing my future.</em> That is the SE2 view: climate change is not an abstract humanitarian question &ndash; it is a threat to her own basis of existence. This immediacy makes her message so different from that of many other activists. She does not talk about the world out there. She talks about the world in which she herself exists.</p>
+          <p class="vb-intro">Her openness about her own neurodivergence &ndash; Asperger syndrome, OCD, selective mutism &ndash; carries this SE2 quality too: no hiding, no sugarcoating. <em>My brain works differently. That is who I am.</em> The SE2 names its reality &ndash; even when the world would rather look away.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der One-wing: Moralische Klarheit als Rückgrat</h2>
+        <h2 class="vb-section">3. The One-wing: Moral Clarity as Backbone</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>One-wing (w1)</strong> bringt der selbsterhaltenden Zwei etwas Entscheidendes: ein inneres Regelwerk, das unabhängig von der Reaktion anderer trägt. Die reine Zwei sucht Bestätigung, Zuneigung, Anerkennung &ndash; der One-wing macht sie unabhängiger davon. Er sagt: <em>Es gibt ein Richtig und ein Falsch. Und ich weiß, auf welcher Seite ich stehe.</em></p>
-          <p class="vb-intro">Bei Greta Thunberg ist dieser Flügel nicht zu übersehen. Sie hat Staats- und Regierungschefs ins Gesicht gesagt, was sie falsch machen. Sie hat den UN-Gipfel mit <em>How dare you!</em> eröffnet &ndash; einer Anklage, die keine diplomatische Formulierung kannte, weil die SE2w1 keine diplomatische Formulierung braucht, wenn das Prinzip klar ist. Der One-wing gibt der Zwei die Erlaubnis, unbequem zu sein.</p>
-          <p class="vb-intro">Das zeigt sich auch in ihrer politischen Entwicklung: Thunberg ist über die Jahre klarer und radikaler geworden &ndash; nicht weil sie sich verändert hat, sondern weil der One-wing mit der Zeit stärker zum Tragen kommt. Die Zwei möchte geliebt werden. Die Eins hat kein Interesse daran, für etwas geliebt zu werden, das falsch ist.</p>
+          <p class="vb-intro">The <strong>One-wing (w1)</strong> brings the self-preservation Two something essential: an inner code that carries independently of others&#39; reactions. The pure Two seeks confirmation, affection, recognition &ndash; the One-wing makes it more independent of these. It says: <em>There is a right and a wrong. And I know which side I am on.</em></p>
+          <p class="vb-intro">In Greta Thunberg this wing cannot be overlooked. She has said to heads of state and government, to their faces, what they are doing wrong. She opened the UN summit with <em>How dare you!</em> &ndash; an indictment that knew no diplomatic formulation, because the SE2w1 needs no diplomatic formulation when the principle is clear. The One-wing gives the Two permission to be uncomfortable.</p>
+          <p class="vb-intro">This also shows in her political development: Thunberg has become clearer and more radical over the years &ndash; not because she has changed, but because the One-wing has come to bear more strongly with time. The Two wants to be loved. The One has no interest in being loved for something that is wrong.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der selbsterhaltenden Zwei</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Self-Preservation Two</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SE2 ist ihre Authentizität. Greta Thunberg hat nie eine Rolle gespielt. Was sie sagt, ist, was sie meint. Was sie fühlt, zeigt sie. Das ist in einer Welt politischer Kommunikation eine außergewöhnliche Qualität &ndash; und ein Grund, warum sie Millionen Menschen berührt hat, die sich von professionellen Aktivisten längst nicht mehr erreicht fühlen.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Zwei ist der <strong>Stolz</strong> &ndash; die tiefe Überzeugung, gebraucht zu werden, unentbehrlich zu sein, für andere da zu sein, während man die eigenen Bedürfnisse verleugnet. Bei der SE2 zeigt sich das subtiler: Es ist der Glaube, dass die eigene Stimme zählt, weil die eigene Existenz auf dem Spiel steht. Das kann befreiend sein &ndash; und es kann erschöpfen. Die SE2w1 trägt das Gewicht ihrer Überzeugung mit einer Intensität, die wenig Raum für Ruhe lässt.</p>
-          <p class="vb-intro">Greta Thunberg hat in Interviews beschrieben, wie die Klimakrise sie in eine schwere Depression geführt hat &ndash; bevor sie begann zu handeln. Das Handeln war Rettung. Aber Rettung durch Handeln hat seinen Preis. Das Flusspferd kann nicht immer im Wasser bleiben.</p>
+          <p class="vb-intro">The light of the SE2 is its authenticity. Greta Thunberg has never played a role. What she says is what she means. What she feels, she shows. In a world of political communication that is an extraordinary quality &ndash; and a reason why she has touched millions of people who have long since stopped feeling reached by professional activists.</p>
+          <p class="vb-intro">The fate pattern of the Two is <strong>pride</strong> &ndash; the deep conviction of being needed, of being indispensable, of being there for others while denying one&#39;s own needs. In the SE2 this shows more subtly: it is the belief that one&#39;s own voice counts because one&#39;s own existence is at stake. This can be liberating &ndash; and it can exhaust. The SE2w1 carries the weight of its conviction with an intensity that leaves little room for rest.</p>
+          <p class="vb-intro">Greta Thunberg has described in interviews how the climate crisis led her into severe depression &ndash; before she began to act. The acting was rescue. But rescue through acting has its price. The hippopotamus cannot always stay in the water.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Kämpfen zum Sein</h2>
+        <h2 class="vb-section">5. The Healing Path: From Fighting to Being</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Zwei führt vom Geben zum Empfangen &ndash; von der Frage <em>Was braucht die Welt von mir?</em> zur Frage <em>Was brauche ich?</em> Nicht als Rückzug, sondern als Ergänzung. Die wachsende Zwei lernt: Ich bin auch dann wertvoll, wenn ich nichts tue. Meine Existenz selbst ist genug.</p>
-          <p class="vb-intro">Für die SE2w1 bedeutet das: lernen, die eigene Stimme nicht nur als Werkzeug für den Kampf zu verstehen, sondern als Ausdruck des eigenen Lebens. Das Flusspferd muss nicht immer warnen und verteidigen. Manchmal darf es einfach im Wasser treiben &ndash; ruhig, ganz, in seinem Element. Greta Thunberg ist noch sehr jung. Dieser Weg liegt vor ihr &ndash; und die Grundlage dafür hat sie bereits gelegt: das Wissen, wer sie ist.</p>
+          <p class="vb-intro">The healing path of the Two leads from giving to receiving &ndash; from the question <em>What does the world need from me?</em> to the question <em>What do I need?</em> Not as a withdrawal, but as a complement. The growing Two learns: I am valuable even when I do nothing. My existence itself is enough.</p>
+          <p class="vb-intro">For the SE2w1 this means: learning to understand one&#39;s own voice not only as a tool for the fight, but as an expression of one&#39;s own life. The hippopotamus does not always have to warn and defend. Sometimes it may simply drift in the water &ndash; calm, whole, in its element. Greta Thunberg is still very young. This path lies before her &ndash; and she has already laid the foundation: the knowledge of who she is.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+      ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how the subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/se2", label:"SE2 – Das Flusspferd: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/se2", label:"SE2 – The Hippopotamus: Subtype Profile"},
         {route:"beruehmte-angelina-jolie", label:"Portrait: Angelina Jolie (SO1w2)"},
       ])}
     </div>
@@ -10949,50 +10949,50 @@ function janUllrichPortraitPage() {
           <img src="./assets/portraits/beruehmte-jan-ullrich-portrait.jpg" alt="Flusspferd" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Jan Ullrich</p>
-        <p class="krim-portrait-typ">SE2w3 &middot; Self-Preservation Type 2 mit Three-wing</p>
-        <p class="krim-portrait-subtitle">Radrennfahrer, geb. 1973 &ndash; Animal correspondence: Flusspferd</p>
+        <p class="krim-portrait-typ">SE2w3 &middot; Self-Preservation Type 2 with Three-wing</p>
+        <p class="krim-portrait-subtitle">Racing Cyclist, born 1973 &ndash; Animal correspondence: Hippopotamus</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Das Flusspferd</h2>
+        <h2 class="vb-section">1. The Hippopotamus</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das <strong>Flusspferd</strong> ist das Tier der selbsterhaltenden Zwei &ndash; und es ist ein Tier, das in zwei Welten lebt. Im Wasser ist es schwerelos, geschmeidig, erstaunlich schnell. An Land wirkt es massig, träge, fast unbeweglich. Diesen Wechsel kennt das Flusspferd seit Millionen von Jahren. Es braucht beides: die Tiefe des Wassers und die Wärme der Sonne. Entzieht man ihm eines davon, gerät es aus dem Gleichgewicht.</p>
-          <p class="vb-intro">Jan Ullrich hat dieses Tier in sich gelebt &ndash; mit allem, was dazugehört. Auf dem Rad war er das reinste Naturtalent der Radsportgeschichte: Kraftentfaltung, Rhythmus, Leidensfähigkeit auf einem Niveau, das selbst seine schärfsten Rivalen zur Ehrerbietung zwang. Abseits des Rads suchte er das Gleichgewicht immer wieder &ndash; und fand es nicht immer. Das Flusspferd braucht sein Wasser. Für Ullrich war das Fahrrad dieses Wasser.</p>
+          <p class="vb-intro">The <strong>Hippopotamus</strong> is the animal of the self-preservation Two &ndash; and it is a creature that lives in two worlds. In water it is weightless, supple, astonishingly fast. On land it appears massive, sluggish, almost immovable. The hippopotamus has known this change for millions of years. It needs both: the depth of the water and the warmth of the sun. Deprive it of either and it loses its balance.</p>
+          <p class="vb-intro">Jan Ullrich lived this animal within himself &ndash; with everything that entails. On the bike he was the purest natural talent in cycling history: power output, rhythm, capacity to suffer at a level that compelled even his sharpest rivals to reverence. Away from the bike he searched again and again for balance &ndash; and did not always find it. The hippopotamus needs its water. For Ullrich, the bicycle was that water.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die selbsterhaltende Zwei: Der Genuss als Grundgefühl</h2>
+        <h2 class="vb-section">2. The Self-Preservation Two: Pleasure as a Basic Feeling</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>selbsterhaltende Zwei (SE2)</strong> ist in der Enneagramm-Tradition der Subtype, der die eigenen körperlichen und emotionalen Bedürfnisse am direktesten erlebt und auslebt. Naranjo nennt ihn <em>Me First</em>: nicht im egoistischen Sinn, sondern im sinnlichen. Die SE2 lebt im Körper, im Moment, im unmittelbaren Erleben. Genuss ist kein Luxus für sie &ndash; er ist ein Grundbedürfnis, das sich nicht dauerhaft unterdrücken lässt.</p>
-          <p class="vb-intro">Bei Jan Ullrich zeigte sich das in einem Phänomen, das die gesamte Radsportwelt in Atem hielt: dem winterlichen Gewichtszuwachs. Während andere Profis streng diszipliniert in die Nebensaison gingen, gönnte sich Ullrich Entspannung, Genuss, das Leben außerhalb des Wettkampfs. Jedes Frühjahr begann er mit Übergewicht &ndash; und jedes Frühjahr brachte er sich mit einer Konditionsstärke zurück, die physiologisch kaum erklärbar schien. Das war nicht Disziplinlosigkeit. Das war die SE2: der Körper, der sich nimmt, was er braucht &ndash; und dann zeigt, was in ihm steckt.</p>
-          <p class="vb-intro">Die SE2 ist auch die Zwei, die am deutlichsten nach Fürsorge sucht &ndash; und am schwersten ohne sie auskommt. Ullrichs Karriere und sein Leben nach dem Sport zeigen beide Seiten: die Kraft, die entsteht, wenn er getragen wird &ndash; und die Verletzlichkeit, wenn dieser Halt fehlt.</p>
+          <p class="vb-intro">The <strong>self-preservation Two (SE2)</strong> is, in the Enneagram tradition, the subtype that most directly experiences and lives out its own physical and emotional needs. Naranjo calls it <em>Me First</em>: not in the egotistical sense, but in the sensory. The SE2 lives in the body, in the moment, in immediate experience. Pleasure is not a luxury for it &ndash; it is a basic need that cannot be suppressed indefinitely.</p>
+          <p class="vb-intro">In Jan Ullrich this showed in a phenomenon that kept the entire cycling world holding its breath: the winter weight gain. While other professionals went into the off-season with strict discipline, Ullrich allowed himself relaxation, pleasure, life outside competition. Every spring he returned overweight &ndash; and every spring he came back with a fitness level that seemed physiologically barely explicable. That was not lack of discipline. That was the SE2: the body taking what it needs &ndash; and then showing what it is capable of.</p>
+          <p class="vb-intro">The SE2 is also the Two that most clearly seeks care &ndash; and finds it hardest to manage without. Ullrich&#39;s career and his life after sport both show two sides: the strength that arises when he is supported &ndash; and the vulnerability when that support is absent.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Three-wing: Triumph als zweite Natur</h2>
+        <h2 class="vb-section">3. The Three-wing: Triumph as Second Nature</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Three-wing (w3)</strong> bringt der selbsterhaltenden Zwei etwas Entscheidendes: den Hunger nach Sieg, nach Anerkennung, nach dem Moment des Triumphes. Die reine SE2 kann bequem werden &ndash; der Three-wing treibt sie an. Er flüstert: <em>Gut ist nicht genug. Du musst gewinnen.</em></p>
-          <p class="vb-intro">Bei Jan Ullrich ist dieser Flügel in jedem großen Moment seiner Karriere sichtbar. Der Tour-de-France-Sieg 1997 mit 23 Jahren &ndash; der jüngste Sieger bis dahin. Olympiagold 2000 im Einzelzeitfahren in Sydney. Fünf zweite Plätze bei der Tour de France, fast alle hinter Lance Armstrong. Die SE2w3 gibt nicht leicht auf &ndash; auch dann nicht, wenn der Gegner übermächtig wirkt. Das Flusspferd weicht nicht zurück. Und der Three-wing sorgt dafür, dass es wieder und wieder antritt.</p>
-          <p class="vb-intro">Der Three-wing bringt aber auch die Schattenseite der Drei mit: die Gefahr, das Image über die Wahrheit zu stellen. Der Druck, immer der strahlende Sieger zu sein. Für Ullrich war dieser Druck Teil des Systems, in dem er sich bewegte &ndash; und Teil des Weges, der ihn schließlich in die Doping-Affäre Operación Puerto führte.</p>
+          <p class="vb-intro">The <strong>Three-wing (w3)</strong> brings the self-preservation Two something decisive: the hunger for victory, for recognition, for the moment of triumph. The pure SE2 can become comfortable &ndash; the Three-wing drives it forward. It whispers: <em>Good is not enough. You must win.</em></p>
+          <p class="vb-intro">In Jan Ullrich this wing is visible in every great moment of his career. The Tour de France victory in 1997 at age 23 &ndash; the youngest winner up to that point. Olympic gold in 2000 in the individual time trial in Sydney. Five second places at the Tour de France, almost all behind Lance Armstrong. The SE2w3 does not give up easily &ndash; not even when the opponent seems overwhelming. The hippopotamus does not back away. And the Three-wing ensures it lines up again and again.</p>
+          <p class="vb-intro">But the Three-wing also brings the shadow side of the Three: the danger of placing image over truth. The pressure of always being the radiant winner. For Ullrich this pressure was part of the system in which he moved &ndash; and part of the path that ultimately led him into the doping affair Operaci&oacute;n Puerto.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der selbsterhaltenden Zwei</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Self-Preservation Two</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SE2 ist ihre Lebendigkeit. Jan Ullrich war auf dem Rad ein Erlebnis &ndash; nicht nur ein Ergebnis. Wer ihn je am Col du Galibier oder in einem Zeitfahren gesehen hat, weiß: Da war etwas Unwiederholbares. Keine berechnende Maschine, sondern ein Mensch, der sein ganzes körperliches Wesen in Bewegung verwandelte. Das ist das Geschenk der SE2: Vollständigkeit im Erleben.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Zwei ist der <strong>Stolz</strong> &ndash; und bei der SE2 zeigt er sich als tiefes, oft unbewusstes Bedürfnis, gebraucht, geliebt, bewundert zu werden. Dieses Bedürfnis war bei Ullrich mit dem Rad erfüllbar. Nach dem Karriereende 2006 &ndash; inmitten der Dopingermittlungen und des öffentlichen Absturzes &ndash; fehlte das Fundament. Die Jahre danach, mit Suchtproblemen, juristischen Auseinandersetzungen und persönlichen Krisen, erzählen die Geschichte eines SE2ers ohne sein Wasser: das Flusspferd an Land, ohne Orientierung.</p>
+          <p class="vb-intro">The light of the SE2 is its vitality. Jan Ullrich on the bike was an experience &ndash; not just a result. Anyone who ever saw him on the Col du Galibier or in a time trial knows: there was something irrepeatable there. Not a calculating machine, but a human being who transformed his entire physical being into movement. That is the gift of the SE2: completeness in experience.</p>
+          <p class="vb-intro">The fate pattern of the Two is <strong>pride</strong> &ndash; and in the SE2 it shows as a deep, often unconscious need to be needed, loved, admired. This need was fulfillable through cycling. After the career ended in 2006 &ndash; amid doping investigations and public collapse &ndash; the foundation was gone. The years that followed, with addiction problems, legal disputes, and personal crises, tell the story of an SE2 without its water: the hippopotamus on land, without orientation.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Hunger zur Fülle</h2>
+        <h2 class="vb-section">5. The Healing Path: From Hunger to Fullness</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Zwei führt vom Geben und Gebraucht-Werden zur inneren Fülle &ndash; zur Erkenntnis, dass der eigene Wert nicht vom Triumph abhängt. Die wachsende Zwei lernt: Ich bin auch dann genug, wenn ich nicht gewinne. Auch dann liebenswert, wenn ich schwach bin. Auch dann real, wenn mich niemand ansieht.</p>
-          <p class="vb-intro">Für Jan Ullrich bedeutet das einen Weg, der schwerer ist als jeder Alpenpass: den Weg zu sich selbst, ohne das Fahrrad als Träger. Es gibt Berichte, dass er in den letzten Jahren ruhiger geworden ist, Unterstützung angenommen hat, langsam wieder Boden findet. Das Flusspferd gehört ins Wasser &ndash; aber es kann auch lernen, an Land zu stehen. Nicht als Sieger. Als es selbst.</p>
+          <p class="vb-intro">The healing path of the Two leads from giving and being needed to inner fullness &ndash; to the insight that one&#39;s own value does not depend on triumph. The growing Two learns: I am enough even when I do not win. Loveable even when I am weak. Real even when no one is watching.</p>
+          <p class="vb-intro">For Jan Ullrich this means a path harder than any alpine pass: the path to himself, without the bicycle as carrier. There are reports that in recent years he has grown calmer, accepted support, slowly found ground again. The hippopotamus belongs in water &ndash; but it can also learn to stand on land. Not as a winner. As itself.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+      ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how the subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/se2", label:"SE2 – Das Flusspferd: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/se2", label:"SE2 – The Hippopotamus: Subtype Profile"},
         {route:"beruehmte-greta-thunberg", label:"Portrait: Greta Thunberg (SE2w1)"},
       ])}
     </div>
@@ -11010,51 +11010,51 @@ function barackObamaPortraitPage() {
           <img src="./assets/portraits/beruehmte-barack-obama-portrait.jpg" alt="Golden Retriever" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Barack Obama</p>
-        <p class="krim-portrait-typ">SO2w1 &middot; Social Type 2 mit One-wing</p>
-        <p class="krim-portrait-subtitle">44. US-Präsident, geb. 1961 &ndash; Animal correspondence: Golden Retriever</p>
+        <p class="krim-portrait-typ">SO2w1 &middot; Social Type 2 with One-wing</p>
+        <p class="krim-portrait-subtitle">44th US President, born 1961 &ndash; Animal correspondence: Golden Retriever</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der Golden Retriever</h2>
+        <h2 class="vb-section">1. The Golden Retriever</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Golden Retriever</strong> ist das Tier der sozialen Zwei &ndash; und es ist ein Tier, das jeden Raum wärmt, den es betritt. Freundlich, zugewandt, von Natur aus auf Verbindung ausgerichtet. Der Golden Retriever will gefallen, will nützen, will gebraucht werden. Aber er ist kein Schoßhund. Hinter der Wärme steckt eine erhebliche innere Kraft &ndash; und die Fähigkeit, diese Kraft in den Dienst anderer zu stellen, ohne sich selbst dabei aufzugeben.</p>
-          <p class="vb-intro">Barack Obama ist seit seiner ersten öffentlichen Rede eine Kraft, die Menschen anzieht &ndash; nicht durch Einschüchterung, sondern durch Verbindung. Er tritt in einen Raum und lässt ihn größer werden. Er spricht, und Menschen, die sich nie gemeint fühlten, fühlen sich gemeint. Das ist das Geschenk des sozialen Zweiers: die Fähigkeit, das Band zwischen Menschen zu stärken, nur dadurch, dass er da ist.</p>
+          <p class="vb-intro">The <strong>Golden Retriever</strong> is the animal of the social Two &ndash; and it is a creature that warms every room it enters. Friendly, engaged, naturally oriented toward connection. The Golden Retriever wants to please, wants to be useful, wants to be needed. But it is no lapdog. Behind the warmth lies considerable inner strength &ndash; and the ability to place that strength in service of others without losing itself in the process.</p>
+          <p class="vb-intro">Barack Obama has, since his first public speech, been a force that draws people in &ndash; not through intimidation, but through connection. He enters a room and makes it larger. He speaks, and people who never felt addressed feel addressed. That is the gift of the social Two: the ability to strengthen the bond between people simply by being present.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die soziale Zwei: Hilfe als gesellschaftliche Kraft</h2>
+        <h2 class="vb-section">2. The Social Two: Help as Social Force</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>soziale Zwei (SO2)</strong> ist in der Enneagramm-Tradition der Subtype, der seine Energie der Zwei nicht in persönliche Relationships oder körperliche Fürsorge lenkt, sondern in gesellschaftliche Wirksamkeit. Die SO2 will nicht nur jemandem helfen &ndash; sie will Systeme verändern, Strukturen gestalten, die Bedingungen verbessern, unter denen Menschen leben. Naranjo nennt diesen Subtype <em>Ambition</em>: nicht Ehrgeiz um seiner selbst willen, sondern der Antrieb, durch Einfluss und Ansehen mehr für andere tun zu können.</p>
-          <p class="vb-intro">Barack Obamas politischer Weg ist ohne diesen Blickwinkel nicht vollständig zu verstehen. Als Community Organizer in Chicago arbeitete er mit den ärmsten Vierteln der Stadt &ndash; nicht aus der Distanz, sondern direkt, von Haus zu Haus. Der Weg ins Weiße Haus war kein Aufstieg um des Aufstiegs willen. Er war &ndash; zumindest in seiner inneren Logik &ndash; die größtmögliche Plattform für das, was er tun wollte: Menschen eine Stimme geben, die keine hatten.</p>
-          <p class="vb-intro">Der Wahlkampf 2008 mit dem Slogan <em>Yes We Can</em> war die SO2 in ihrer reinsten Form: keine Botschaft über Obama, sondern eine Botschaft über das, was wir gemeinsam möglich machen können. Der Golden Retriever bellt nicht: <em>Schaut mich an.</em> Er läuft voraus und schaut zurück: <em>Kommt ihr mit?</em></p>
+          <p class="vb-intro">The <strong>social Two (SO2)</strong> is, in the Enneagram tradition, the subtype that does not channel the energy of the Two into personal relationships or physical care, but into social effectiveness. The SO2 does not just want to help one person &ndash; it wants to change systems, shape structures, improve the conditions under which people live. Naranjo calls this subtype <em>Ambition</em>: not ambition for its own sake, but the drive to do more for others through influence and standing.</p>
+          <p class="vb-intro">Barack Obama&#39;s political path cannot be fully understood without this perspective. As a community organizer in Chicago he worked with the city&#39;s poorest neighborhoods &ndash; not from a distance, but directly, house to house. The path to the White House was not a rise for the sake of rising. It was &ndash; at least in its inner logic &ndash; the largest possible platform for what he wanted to do: give a voice to people who had none.</p>
+          <p class="vb-intro">The 2008 campaign with the slogan <em>Yes We Can</em> was the SO2 in its purest form: not a message about Obama, but a message about what we can make possible together. The Golden Retriever does not bark: <em>Look at me.</em> It runs ahead and looks back: <em>Are you coming?</em></p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der One-wing: Haltung als innere Pflicht</h2>
+        <h2 class="vb-section">3. The One-wing: Stance as Inner Duty</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>One-wing (w1)</strong> verändert die soziale Zwei auf entscheidende Weise. Die reine SO2 kann sich im Strudel der Erwartungen anderer verlieren &ndash; immer für alle da, immer bereit, immer zustimmend. Der One-wing bringt eine innere Achse: das Bewusstsein für Richtig und Falsch, die Bereitschaft, auch dann Stellung zu beziehen, wenn es unbequem ist.</p>
-          <p class="vb-intro">Bei Barack Obama zeigt sich das in seiner Fähigkeit, moralische Klarheit zu bewahren, ohne in Moralisieren zu verfallen. Er benennt Ungerechtigkeit &ndash; ruhig, präzise, ohne die Verbindung zum Gegenüber zu verlieren. Das ist die SO2w1er-Kombination in ihrer stärksten Form: die Wärme der Zwei mit der inneren Geradlinigkeit der Eins. Er sagt das Unbequeme &ndash; aber er sagt es so, dass der andere sich noch immer eingeladen fühlt.</p>
-          <p class="vb-intro">Der One-wing erklärt auch seine Disziplin: die präzisen Reden, die sorgfältige Wortwahl, die Beharrlichkeit im Detail. Die Eins lässt nicht locker, wenn das Prinzip auf dem Spiel steht. Obamas Satz <em>We are the ones we have been waiting for</em> trägt beide Energien: die Zwei, die verbindet, und die Eins, die auf das Richtige besteht.</p>
+          <p class="vb-intro">The <strong>One-wing (w1)</strong> changes the social Two in a decisive way. The pure SO2 can lose itself in the whirlpool of others&#39; expectations &ndash; always there for everyone, always ready, always agreeable. The One-wing brings an inner axis: the awareness of right and wrong, the willingness to take a stand even when it is uncomfortable.</p>
+          <p class="vb-intro">In Barack Obama this shows in his ability to maintain moral clarity without descending into moralizing. He names injustice &ndash; calmly, precisely, without losing connection to his counterpart. That is the SO2w1 combination in its strongest form: the warmth of the Two with the inner straightforwardness of the One. He says the uncomfortable &ndash; but says it so that the other person still feels invited.</p>
+          <p class="vb-intro">The One-wing also explains his discipline: the precise speeches, the careful choice of words, the persistence in detail. The One does not let go when the principle is at stake. Obama&#39;s sentence <em>We are the ones we have been waiting for</em> carries both energies: the Two that connects, and the One that insists on what is right.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der sozialen Zwei</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Social Two</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SO2 ist ihre Fähigkeit, Brücken zu bauen, wo andere Mauern sehen. Barack Obama hat in einer der polarisiertesten Epochen der amerikanischen Geschichte eine Präsidentschaft gestaltet, die &ndash; trotz aller Widerstände &ndash; nie die Sprache der Feindschaft angenommen hat. Das ist keine politische Strategie. Das ist Charakter.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Zwei ist der <strong>Stolz</strong> &ndash; das tiefe Bedürfnis, gebraucht zu werden, unverzichtbar zu sein. Bei der SO2 äußert sich das als Gefahr, Zustimmung über Wahrheit zu stellen. Die Kunst des Kompromisses, für die Obama oft gerühmt wird, hat eine Kehrseite: Momente, in denen das Bedürfnis nach Einheit das Benennen von Unrecht verzögerte. Der Golden Retriever will, dass alle mitkommen &ndash; auch dann, wenn manche nicht mitkommen wollen.</p>
-          <p class="vb-intro">Kritiker aus dem progressiven Lager haben Obama genau das vorgehalten: zu viel Bereitschaft, die Hand auszustrecken, wo Klarheit nötiger gewesen wäre. Das ist der Schatten der SO2: die Verbindung als Wert, der manchmal über die Wahrheit gestellt wird.</p>
+          <p class="vb-intro">The light of the SO2 is its ability to build bridges where others see walls. Barack Obama shaped a presidency &ndash; against all obstacles &ndash; that never adopted the language of enmity, in one of the most polarized eras of American history. That is not a political strategy. That is character.</p>
+          <p class="vb-intro">The fate pattern of the Two is <strong>pride</strong> &ndash; the deep need to be needed, to be indispensable. In the SO2 this manifests as the danger of placing approval above truth. The art of compromise for which Obama is often praised has a reverse side: moments when the need for unity delayed the naming of injustice. The Golden Retriever wants everyone to come along &ndash; even when some do not want to.</p>
+          <p class="vb-intro">Critics from the progressive camp have accused Obama of exactly this: too much willingness to extend a hand where clarity would have been more necessary. That is the shadow of the SO2: connection as a value that is sometimes placed above truth.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Dienen zum Sein</h2>
+        <h2 class="vb-section">5. The Healing Path: From Serving to Being</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Zwei führt von der Frage <em>Was kann ich für andere tun?</em> zur Frage <em>Was bin ich, wenn ich nichts tue?</em> Die wachsende Zwei entdeckt: Ihr Wert liegt nicht in ihrer Nützlichkeit. Sie ist nicht um der anderen willen da &ndash; sie ist einfach da. Das ist genug.</p>
-          <p class="vb-intro">Barack Obama ist seit seiner Präsidentschaft stiller geworden &ndash; und das auf eine Weise, die Reife ausstrahlt. Er mischt sich ein, wenn es nötig ist. Er hält sich zurück, wenn andere die Bühne brauchen. Er schreibt, spricht, erinnert &ndash; aber ohne den Hunger, unentbehrlich zu sein. Der Golden Retriever muss nicht immer rennen. Manchmal liegt er einfach in der Sonne &ndash; und ist vollständig darin.</p>
+          <p class="vb-intro">The healing path of the Two leads from the question <em>What can I do for others?</em> to the question <em>Who am I when I do nothing?</em> The growing Two discovers: its value does not lie in its usefulness. It is not there for the sake of others &ndash; it simply is. That is enough.</p>
+          <p class="vb-intro">Barack Obama has grown quieter since his presidency &ndash; and in a way that radiates maturity. He speaks up when necessary. He steps back when others need the stage. He writes, speaks, remembers &ndash; but without the hunger to be indispensable. The Golden Retriever does not always have to run. Sometimes it simply lies in the sun &ndash; and is complete in that.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+      ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how the subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/so2", label:"SO2 – Der Golden Retriever: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/so2", label:"SO2 – The Golden Retriever: Subtype Profile"},
         {route:"beruehmte-angelina-jolie", label:"Portrait: Angelina Jolie (SO1w2)"},
       ])}
     </div>
@@ -11072,51 +11072,51 @@ function ninaChubaPortraitPage() {
           <img src="./assets/portraits/beruehmte-nina-chuba-portrait.jpg" alt="Golden Retriever" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Nina Chuba</p>
-        <p class="krim-portrait-typ">SO2w3 &middot; Social Type 2 mit Three-wing</p>
-        <p class="krim-portrait-subtitle">Sängerin, geb. 2000 &ndash; Animal correspondence: Golden Retriever</p>
+        <p class="krim-portrait-typ">SO2w3 &middot; Social Type 2 with Three-wing</p>
+        <p class="krim-portrait-subtitle">Singer, born 2000 &ndash; Animal correspondence: Golden Retriever</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der Golden Retriever</h2>
+        <h2 class="vb-section">1. The Golden Retriever</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Golden Retriever</strong> ist das Tier der sozialen Zwei &ndash; und es ist ein Tier, dem man sich kaum entziehen kann. Nicht weil es sich aufdrängt. Sondern weil es so unverstellbar da ist. Keine Berechnung, keine Distanz, keine Maske. Der Golden Retriever kommt auf dich zu &ndash; und du weißt sofort: Das ist echt. Das meint er so.</p>
-          <p class="vb-intro">Nina Chuba hat in kürzester Zeit eine der tiefsten Fan-Bindungen der deutschen Musikszene aufgebaut &ndash; nicht durch perfekte Inszenierung, sondern durch Nähe. Sie spricht über ihre Gefühle, über schlechte Tage, über Unsicherheit. Sie antwortet auf Kommentare. Sie macht ihre Musik zu einem Raum, in dem sich ihre Hörerinnen und Hörer nicht allein fühlen. Das ist der Golden Retriever: Er wärmt nicht, weil er es muss. Er wärmt, weil Wärme sein Wesen ist.</p>
+          <p class="vb-intro">The <strong>Golden Retriever</strong> is the animal of the social Two &ndash; and it is a creature you can barely resist. Not because it forces itself on you. But because it is so unaffectedly present. No calculation, no distance, no mask. The Golden Retriever comes toward you &ndash; and you know immediately: this is real. It really means it.</p>
+          <p class="vb-intro">Nina Chuba has built one of the deepest fan bonds in the German music scene in a very short time &ndash; not through perfect staging, but through closeness. She talks about her feelings, about bad days, about insecurity. She replies to comments. She makes her music a space in which her listeners do not feel alone. That is the Golden Retriever: it does not warm because it must. It warms because warmth is its nature.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die soziale Zwei: Verbindung als Berufung</h2>
+        <h2 class="vb-section">2. The Social Two: Connection as Vocation</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>soziale Zwei (SO2)</strong> richtet ihre Energie der Zwei nicht in einzelne persönliche Relationships, sondern in das große Feld: in Gemeinschaft, Öffentlichkeit, kollektive Resonanz. Naranjo nennt diesen Subtype <em>Ambition</em> &ndash; nicht im kalten Sinn, sondern als den Antrieb, durch Sichtbarkeit und Einfluss mehr Verbindung, mehr Wärme, mehr Verständnis in die Welt zu bringen. Die SO2 will nicht nur einer Person helfen &ndash; sie will viele Menschen erreichen.</p>
-          <p class="vb-intro">Bei Nina Chuba zeigt sich das in der Art, wie sie ihre Musik einsetzt: als Brücke. Ihre Songs sind keine Selbstdarstellung &ndash; sie sind Angebote. <em>Wildberry Lillet</em> traf einen Nerv, weil der Song nicht über Chuba handelte, sondern über ein Gefühl, das Millionen kennen. Die SO2 schreibt nicht für sich. Sie schreibt für den Raum zwischen sich und anderen.</p>
-          <p class="vb-intro">Dass sie sich öffentlich über psychische Gesundheit, über Druck und Erschöpfung äußert, ist ebenfalls SO2-Energie: das Persönliche wird geteilt, damit andere sich weniger allein damit fühlen. Nicht Therapie in der Öffentlichkeit &ndash; sondern die Überzeugung, dass Sichtbarkeit heilt. Meine Geschichte gehört auch dir.</p>
+          <p class="vb-intro">The <strong>social Two (SO2)</strong> does not direct its energy of the Two into individual personal relationships, but into the wide field: into community, the public, collective resonance. Naranjo calls this subtype <em>Ambition</em> &ndash; not in the cold sense, but as the drive to bring more connection, more warmth, more understanding into the world through visibility and influence. The SO2 does not just want to help one person &ndash; it wants to reach many people.</p>
+          <p class="vb-intro">In Nina Chuba this shows in the way she uses her music: as a bridge. Her songs are not self-presentation &ndash; they are offerings. <em>Wildberry Lillet</em> hit a nerve because the song was not about Chuba, but about a feeling that millions know. The SO2 does not write for itself. It writes for the space between itself and others.</p>
+          <p class="vb-intro">That she speaks publicly about mental health, about pressure and exhaustion, is also SO2 energy: the personal is shared so that others feel less alone with it. Not therapy in public &ndash; but the conviction that visibility heals. My story also belongs to you.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Three-wing: Strahlkraft mit Substanz</h2>
+        <h2 class="vb-section">3. The Three-wing: Radiance with Substance</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Three-wing (w3)</strong> bringt der sozialen Zwei etwas Entscheidendes: den Antrieb zur Wirksamkeit, zur sichtbaren Leistung, zum Erfolg, der das Gute verstärkt. Die reine SO2 könnte sich im Geben verlieren &ndash; immer für andere da, immer erreichbar, ohne zu fragen, wohin das führt. Der Three-wing setzt Ziele. Er sagt: <em>Wenn du wirklich etwas bewegen willst, musst du auch ankommen. Musst du auch strahlen.</em></p>
-          <p class="vb-intro">Bei Nina Chuba ist dieser Flügel in ihrer Bühnenpräsenz und ihrer Professionalität spürbar. Sie ist nicht nur herzlich &ndash; sie ist wirksam. Die Songs sind produziert, die Auftritte präzise, die Marke kohärent. Das ist kein Widerspruch zur Echtheit der Zwei. Das ist der Three-wing, der dafür sorgt, dass die Wärme auch wirklich ankommt &ndash; und nicht im Rauschen untergeht.</p>
-          <p class="vb-intro">Die SO2w3 trägt in sich die seltene Kombination aus echtem Mitgefühl und strategischer Klarheit. Sie will verbinden &ndash; und sie weiß, wie man das so gestaltet, dass es auch wirklich trägt. Das ist kein Kalkül. Das ist die natürliche Synergie dieser beiden Energien.</p>
+          <p class="vb-intro">The <strong>Three-wing (w3)</strong> brings the social Two something decisive: the drive toward effectiveness, visible performance, the success that amplifies the good. The pure SO2 could lose itself in giving &ndash; always there for others, always reachable, without asking where that leads. The Three-wing sets goals. It says: <em>If you really want to move something, you must also arrive. You must also shine.</em></p>
+          <p class="vb-intro">In Nina Chuba this wing is perceptible in her stage presence and her professionalism. She is not only warm-hearted &ndash; she is effective. The songs are produced, the appearances precise, the brand coherent. That is no contradiction to the authenticity of the Two. That is the Three-wing ensuring the warmth actually arrives &ndash; and does not disappear in the noise.</p>
+          <p class="vb-intro">The SO2w3 carries within it the rare combination of genuine empathy and strategic clarity. It wants to connect &ndash; and it knows how to shape that so it truly holds. That is not calculation. That is the natural synergy of these two energies.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der sozialen Zwei</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Social Two</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SO2 ist ihre Zugänglichkeit. Nina Chuba hat in wenigen Jahren eine Nähe zu ihrem Publikum aufgebaut, die viele Künstlerinnen in einer ganzen Karriere nicht erreichen. Das liegt nicht an Strategie. Es liegt daran, dass die SO2 wirklich interessiert ist &ndash; an den Menschen, an ihren Geschichten, an dem, was sie bewegt.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Zwei ist der <strong>Stolz</strong> &ndash; das tiefe, oft unbewusste Bedürfnis, gebraucht zu werden, unverzichtbar zu sein. Bei der SO2 äußert sich das als Gefahr, die eigene Erschöpfung zu übersehen: Immer verfügbar, immer offen, immer für andere da &ndash; bis der Tank leer ist. Nina Chuba hat dieses Thema selbst öffentlich angesprochen. Das ist ein Zeichen von Reife &ndash; und gleichzeitig die Aufgabe, die vor ihr liegt: zu lernen, auch dann wertvoll zu sein, wenn sie sich nicht gibt.</p>
-          <p class="vb-intro">Der Three-wing verstärkt den Druck: Die Drei möchte gewinnen, strahlen, liefern. Wenn SO2 und w3 gemeinsam in die Erschöpfung führen, fehlt eine innere Stimme, die sagt: Jetzt ist genug.</p>
+          <p class="vb-intro">The light of the SO2 is its accessibility. Nina Chuba has built a closeness to her audience in a few years that many artists do not achieve in an entire career. That is not strategy. It is because the SO2 is genuinely interested &ndash; in people, in their stories, in what moves them.</p>
+          <p class="vb-intro">The fate pattern of the Two is <strong>pride</strong> &ndash; the deep, often unconscious need to be needed, to be indispensable. In the SO2 this manifests as the danger of overlooking one&#39;s own exhaustion: always available, always open, always there for others &ndash; until the tank is empty. Nina Chuba has addressed this topic publicly herself. That is a sign of maturity &ndash; and simultaneously the task that lies before her: to learn to be valuable even when she is not giving.</p>
+          <p class="vb-intro">The Three-wing intensifies the pressure: the Three wants to win, shine, deliver. When SO2 and w3 together lead into exhaustion, an inner voice is missing that says: now is enough.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Geben zum Empfangen</h2>
+        <h2 class="vb-section">5. The Healing Path: From Giving to Receiving</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Zwei führt vom Geben zum Empfangen &ndash; von der Frage <em>Was brauchen andere von mir?</em> zur Frage <em>Was brauche ich?</em> Die wachsende Zwei entdeckt: Sie ist nicht nur dann liebenswert, wenn sie gibt. Sie ist liebenswert, weil sie ist. Ganz ohne Leistung. Ganz ohne Song.</p>
-          <p class="vb-intro">Für Nina Chuba, die mit 22 Jahren bereits mehr erreicht hat als die meisten in einem ganzen Künstlerleben, liegt dieser Weg noch vor ihr &ndash; und sie ist gut unterwegs. Wer in diesem Alter schon über Grenzen und Erschöpfung sprechen kann, hat das Wichtigste begriffen: dass der Golden Retriever sich auch selbst Fürsorge verdient. Nicht nur denen gegenüber, die er wärmt.</p>
+          <p class="vb-intro">The healing path of the Two leads from giving to receiving &ndash; from the question <em>What do others need from me?</em> to the question <em>What do I need?</em> The growing Two discovers: it is not only loveable when it gives. It is loveable because it is. Entirely without performance. Entirely without a song.</p>
+          <p class="vb-intro">For Nina Chuba, who at 22 has already achieved more than most in an entire artistic life, this path still lies ahead &ndash; and she is well on her way. Whoever can speak about limits and exhaustion at that age has grasped the most important thing: that the Golden Retriever deserves care for itself too. Not only for those it warms.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+      ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how the subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/so2", label:"SO2 – Der Golden Retriever: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/so2", label:"SO2 – The Golden Retriever: Subtype Profile"},
         {route:"beruehmte-barack-obama", label:"Portrait: Barack Obama (SO2w1)"},
       ])}
     </div>
@@ -11133,112 +11133,53 @@ function matthiasSchweighoeferPortraitPage() {
         <div class="krim-portrait-frame">
           <img src="./assets/portraits/beruehmte-matthias-schweighoefer-portrait.jpg" alt="Kamel" class="krim-portrait-img" loading="lazy" />
         </div>
-        <p class="krim-portrait-name">Matthias Schweighöfer</p>
-        <p class="krim-portrait-typ">SX2w1 &middot; Sexual Type 2 mit One-wing</p>
-        <p class="krim-portrait-subtitle">Schauspieler &amp; Regisseur, geb. 1981 &ndash; Animal correspondence: Kamel</p>
+        <p class="krim-portrait-name">Matthias Schweigh&ouml;fer</p>
+        <p class="krim-portrait-typ">SX2w1 &middot; Sexual Type 2 with One-wing</p>
+        <p class="krim-portrait-subtitle">Actor &amp; Director, born 1981 &ndash; Animal correspondence: Camel</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Das Kamel</h2>
+        <h2 class="vb-section">1. The Camel</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das <strong>Kamel</strong> ist das Tier der sexuellen Zwei &ndash; und es ist ein Tier, das trägt. Nicht weil es muss. Sondern weil Tragen seine Art ist, Verbindung herzustellen. Das Kamel überquert Wüsten, gibt seine Energie in den Dienst des Weges, und verlangt dabei wenig zurück. Aber es ist kein Lasttier ohne Eigenleben. Das Kamel hat Würde. Es hat Wärme. Und wer je einem Kamel begegnet ist, weiß: Es schaut einen an &ndash; direkt, neugierig, ohne Scheu.</p>
-          <p class="vb-intro">Matthias Schweighöfer trägt. Er trägt Projekte, Ensemble, Publikum. Als Schauspieler bringt er eine unmittelbare Wärme in jede Rolle, die er spielt &ndash; ob komisch, dramatisch oder verletzlich. Als Regisseur nimmt er seine Crew mit, als wäre jedes Set eine Gemeinschaft, die er zusammenhält. Das Kamel zieht nicht einfach durch die Wüste. Es sorgt dafür, dass alle ankommen.</p>
+          <p class="vb-intro">The <strong>Camel</strong> is the animal of the sexual Two &ndash; and it is a creature that carries. Not because it must. But because carrying is its way of making connection. The camel crosses deserts, puts its energy in service of the journey, and asks little in return. But it is not a beast of burden without a life of its own. The camel has dignity. It has warmth. And anyone who has ever encountered a camel knows: it looks at you &ndash; directly, curiously, without shyness.</p>
+          <p class="vb-intro">Matthias Schweigh&ouml;fer carries. He carries projects, ensembles, audiences. As an actor he brings an immediate warmth to every role he plays &ndash; whether comic, dramatic, or vulnerable. As a director he takes his crew with him as though every set were a community he holds together. The camel does not simply pass through the desert. It makes sure everyone arrives.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die sexuelle Zwei: Anziehung als Lebensthema</h2>
+        <h2 class="vb-section">2. The Sexual Two: Attraction as a Life Theme</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>sexuelle Zwei (SX2)</strong> ist in der Enneagramm-Tradition der Subtype, der die Energie der Zwei direkt in den Raum zwischen zwei Menschen lenkt. Nicht in die große Gruppe wie die soziale Zwei, nicht in die eigene Existenzsicherung wie die selbsterhaltende Zwei &ndash; sondern in die direkte, persönliche, manchmal elektrisierende Verbindung. Naranjo nennt diesen Subtype <em>Aggressivität</em> &ndash; nicht im aggressiven Sinn, sondern als aktives, vorwärtsdrängendes Zugehen auf den anderen. Die SX2 wartet nicht. Sie geht auf dich zu.</p>
-          <p class="vb-intro">Bei Matthias Schweighöfer zeigt sich das in einer seltenen Qualität: Er macht aus Begegnung ein Erlebnis. Ob in Interviews, auf der Bühne oder im Film &ndash; er schafft sofort Nähe. Nicht durch Strategie, sondern durch echtes Interesse. Die SX2 ist fasziniert vom Gegenüber. Sie will wissen, wer du bist. Sie will, dass du weißt, wer sie ist. Aus dieser gegenseitigen Neugier entsteht eine Wärme, die ansteckt.</p>
-          <p class="vb-intro">Sein künstlerisches Werk trägt dieselbe Energie. Vom romantischen Komödienformat bis zur internationalen Netflix-Produktion <em>Army of Thieves</em> &ndash; Schweighöfer erzählt immer von Verbindung. Von zwei Menschen, die sich finden. Von dem, was zwischen ihnen entsteht. Das ist kein Zufall. Das ist die SX2, die ihre innerste Frage in Kunst verwandelt: <em>Kann ich wirklich gesehen werden? Kann ich wirklich lieben?</em></p>
+          <p class="vb-intro">The <strong>sexual Two (SX2)</strong> is, in the Enneagram tradition, the subtype that channels the energy of the Two directly into the space between two people. Not into the large group like the social Two, not into securing one&#39;s own existence like the self-preservation Two &ndash; but into direct, personal, sometimes electrifying connection. Naranjo calls this subtype <em>Aggressivity</em> &ndash; not in the aggressive sense, but as an active, forward-pushing approach to the other. The SX2 does not wait. It comes toward you.</p>
+          <p class="vb-intro">In Matthias Schweigh&ouml;fer this shows in a rare quality: he turns encounter into an experience. Whether in interviews, on stage, or in film &ndash; he creates closeness immediately. Not through strategy, but through genuine interest. The SX2 is fascinated by its counterpart. It wants to know who you are. It wants you to know who it is. From this mutual curiosity a warmth arises that is contagious.</p>
+          <p class="vb-intro">His artistic work carries the same energy. From the romantic comedy format to the international Netflix production <em>Army of Thieves</em> &ndash; Schweigh&ouml;fer always tells stories of connection. Of two people who find each other. Of what arises between them. That is no coincidence. That is the SX2, which transforms its innermost question into art: <em>Can I truly be seen? Can I truly love?</em></p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der One-wing: Haltung hinter der Herzlichkeit</h2>
+        <h2 class="vb-section">3. The One-wing: Stance Behind the Warmth</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>One-wing (w1)</strong> bringt der sexuellen Zwei eine wichtige innere Achse: das Bewusstsein für Qualität, für das Richtige, für Verantwortung. Die reine SX2 könnte sich in der Intensität des Contacts verlieren &ndash; immer auf der Search nach dem nächsten Verbindungsmoment, ohne einen stabilen inneren Kompass. Der One-wing gibt ihr Substanz. Er sagt: <em>Es reicht nicht, geliebt zu werden. Es kommt auch darauf an, wie.</em></p>
-          <p class="vb-intro">Bei Matthias Schweighöfer zeigt sich der One-wing in seinem Anspruch an sich selbst. Er ist nicht nur Darsteller, er ist Regisseur, Produzent, Unternehmer &ndash; und nimmt diese Rollen ernst. Die Qualität seiner Arbeit liegt ihm am Herzen, nicht nur das Ergebnis. Er hat sich mehrfach öffentlich über Erschöpfung und die Grenzen seiner Belastbarkeit geäußert &ndash; auch das ist Einser-Energie: die Pflicht, gut zu machen, was man tut, auch wenn es kostet.</p>
-          <p class="vb-intro">Der One-wing macht aus der SX2 jemanden, der nicht nur verbindet, sondern auch Verantwortung übernimmt. Schweighöfer ist in der deutschen Filmlandschaft ein Mensch, dem viele vertrauen &ndash; Kollegen, Crew, Publikum. Dieses Vertrauen ist kein Zufall. Es ist der One-wing, der dafür sorgt, dass auf die Herzlichkeit auch Verlässlichkeit folgt.</p>
+          <p class="vb-intro">The <strong>One-wing (w1)</strong> brings the sexual Two an important inner axis: the awareness of quality, of what is right, of responsibility. The pure SX2 could lose itself in the intensity of contact &ndash; always in search of the next moment of connection, without a stable inner compass. The One-wing gives it substance. It says: <em>It is not enough to be loved. What matters too is how.</em></p>
+          <p class="vb-intro">In Matthias Schweigh&ouml;fer the One-wing shows in his demand of himself. He is not only a performer, but a director, producer, entrepreneur &ndash; and takes these roles seriously. The quality of his work matters to him, not just the result. He has spoken publicly several times about exhaustion and the limits of his resilience &ndash; that too is One energy: the duty to do well what one does, even when it costs.</p>
+          <p class="vb-intro">The One-wing turns the SX2 into someone who not only connects, but also takes responsibility. Schweigh&ouml;fer is a person in German cinema whom many trust &ndash; colleagues, crew, audiences. That trust is no coincidence. It is the One-wing that ensures reliability follows the warmth.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der sexuellen Zwei</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Sexual Two</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SX2 ist ihre Unmittelbarkeit. Matthias Schweighöfer erreicht Menschen direkt &ndash; ohne Umwege, ohne Distanz. Er hat eine Fähigkeit, Filme zu machen, die nicht über dem Publikum stehen, sondern mit ihm sprechen. Das ist ein seltenes Geschenk, und es kommt aus dem Kern der sexuellen Zwei: der echten Sehnsucht nach Contact.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Zwei ist der <strong>Stolz</strong> &ndash; die tiefe Überzeugung, geliebt werden zu müssen, und die Schwierigkeit, eigene Bedürfnisse zu benennen, solange man gibt. Bei der SX2 äußert sich das besonders intensiv: Die Verbindung zum anderen kann so wichtig werden, dass die eigene Mitte darüber verloren geht. Wer für andere da ist, muss irgendwann fragen, wer für ihn da ist.</p>
-          <p class="vb-intro">Schweighöfer hat in Interviews über Phasen gesprochen, in denen er sich überdehnt hat &ndash; zu viel gegeben, zu wenig empfangen. Das ist die Kehrseite des Kamels: Es trägt so lange, bis es nicht mehr kann. Und dann braucht es selbst Wasser.</p>
+          <p class="vb-intro">The light of the SX2 is its immediacy. Matthias Schweigh&ouml;fer reaches people directly &ndash; without detours, without distance. He has an ability to make films that do not stand above the audience, but speak with it. That is a rare gift, and it comes from the core of the sexual Two: the genuine longing for contact.</p>
+          <p class="vb-intro">The fate pattern of the Two is <strong>pride</strong> &ndash; the deep conviction of needing to be loved, and the difficulty of naming one&#39;s own needs while giving. In the SX2 this expresses itself particularly intensely: the connection to the other can become so important that one&#39;s own center is lost in the process. Whoever is there for others must eventually ask who is there for them.</p>
+          <p class="vb-intro">Schweigh&ouml;fer has spoken in interviews about phases in which he overstretched himself &ndash; given too much, received too little. That is the reverse side of the camel: it carries for so long, until it can carry no more. And then it needs water itself.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Geben zum Empfangen</h2>
+        <h2 class="vb-section">5. The Healing Path: From Giving to Receiving</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Zwei führt von der Frage <em>Werde ich geliebt?</em> zur Erkenntnis <em>Ich bin liebenswert &ndash; auch ohne zu geben.</em> Für die SX2 bedeutet das einen besonders persönlichen Schritt: zuzulassen, dass der andere auch trägt. Sich nicht nur zu verbinden, sondern sich auch zu empfangen. Das Kamel darf auch trinken.</p>
-          <p class="vb-intro">Matthias Schweighöfer ist auf diesem Weg &ndash; und die Offenheit, mit der er darüber spricht, was ihn kostet und was ihm gibt, ist selbst ein Zeichen davon. Die SX2, die gelernt hat, auch um Hilfe zu bitten, verliert nichts von ihrer Wärme. Sie gewinnt etwas: das Wissen, dass Verbindung in beide Richtungen fließen darf.</p>
+          <p class="vb-intro">The healing path of the Two leads from the question <em>Am I loved?</em> to the insight <em>I am loveable &ndash; even without giving.</em> For the SX2 this means a particularly personal step: allowing the other to carry too. Not only to connect, but also to receive. The camel may drink too.</p>
+          <p class="vb-intro">Matthias Schweigh&ouml;fer is on this path &ndash; and the openness with which he speaks about what costs him and what gives to him is itself a sign of that. The SX2 that has learned to ask for help too loses nothing of its warmth. It gains something: the knowledge that connection may flow in both directions.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+      ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how the subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/sx2", label:"SX2 – Das Kamel: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/sx2", label:"SX2 – The Camel: Subtype Profile"},
         {route:"beruehmte-nina-chuba", label:"Portrait: Nina Chuba (SO2w3)"},
-      ])}
-    </div>
-  `);
-}
-
-
-function bellaThornePage() {
-  return shell(`
-    <div class="page-container">
-      ${pageHeader("Famous Personalities")}
-      <div id="js-back-target" data-route="beruehmte-persoenlichkeiten" style="display:none;"></div>
-      <div class="krim-portrait-wrap">
-        <div class="krim-portrait-frame">
-          <img src="./assets/portraits/beruehmte-bella-thorne-portrait.jpg" alt="Gepard" class="krim-portrait-img" loading="lazy" />
-        </div>
-        <p class="krim-portrait-name">Bella Thorne</p>
-        <p class="krim-portrait-typ">SO3w4 &middot; Social Type 3 mit Four-wing</p>
-        <p class="krim-portrait-subtitle">Schauspielerin &amp; Regisseurin, geb. 1997 &ndash; Animal correspondence: Gepard</p>
-      </div>
-      <div class="page-content">
-
-        <h2 class="vb-section">1. Der Gepard</h2>
-        <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Gepard</strong> ist das Tier der sozialen Drei &ndash; das schnellste Tier der Erde. Was den Gepard auszeichnet, ist nicht Größe oder rohe Kraft, sondern die Fähigkeit, sich in kürzester Zeit auf volle Geschwindigkeit zu bringen. Kein Zögern, kein Umweg, nur der direkte Sprung auf das Ziel. Der Gepard ist ein Tier des öffentlichen Raums &ndash; er jagt nicht im Verborgenen, er jagt auf der Savanne, sichtbar für alle.</p>
-          <p class="vb-intro">Bella Thorne ist mit dreizehn Jahren als Kinderschauspielerin bei Disney bekannt geworden &ndash; und hat seitdem keine Pause gemacht. Schauspielerin, Sängerin, Regisseurin, Autorin, Unternehmerin, Social-Media-Star mit Dutzenden Millionen Followern. Das Tempo ist Gepard-Tempo: immer in Bewegung, immer präsent, immer auf dem nächsten Sprung. Stillstand ist für die soziale Drei keine Option &ndash; sie braucht den Lauf, um sich lebendig zu fühlen.</p>
-        </blockquote>
-
-        <h2 class="vb-section">2. Die soziale Drei: Sichtbarkeit als Lebensthema</h2>
-        <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>soziale Drei (SO3)</strong> richtet ihre Energie auf das Feld der öffentlichen Anerkennung: auf Status, Ansehen, die Frage, wie sie von anderen wahrgenommen wird. Claudio Naranjo nennt diesen Subtype den Verstärkungstyp &ndash; derjenige, bei dem die Dreier-Themen Eitelkeit und Leistungsdrang am deutlichsten hervortreten. Die SO3 braucht kein stilles Territorium. Sie braucht die Bühne.</p>
-          <p class="vb-intro">Bei Bella Thorne zeigt sich das in einer Konsequenz, die beeindruckt und manchmal überfordert: Sie ist überall. Nicht passiv präsent, sondern aktiv gestaltend. Sie hat ihren OnlyFans-Account in den ersten 24 Stunden auf über eine Million Dollar Umsatz gebracht &ndash; nicht trotz der öffentlichen Aufmerksamkeit, sondern wegen ihr. Sie hat die Regeln des Spiels verstanden und nutzt sie. Die SO3 weiß instinktiv: Sichtbarkeit ist Kapital. Wer gesehen wird, existiert.</p>
-          <p class="vb-intro">Charakteristisch für die SO3 ist auch der Mut zur Provokation als Strategie. Bella Thorne hat wiederholt Grenzen verschoben &ndash; in ihrer Darstellung von Sexualität, in ihrer öffentlichen Auseinandersetzung mit Hollywood, in ihrer Bereitschaft, das Unbequeme zu sagen. Das ist nicht Rücksichtslosigkeit. Das ist die SO3, die gelernt hat: Wer nicht auffällt, wird vergessen. Und vergessen sein ist der tiefste Schrecken der sozialen Drei.</p>
-        </blockquote>
-
-        <h2 class="vb-section">3. Der Four-wing: Tiefe unter der Oberfläche</h2>
-        <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Four-wing (w4)</strong> bringt der sozialen Drei etwas Unerwartetes: das Bewusstsein für Schmerz, für das Unvollständige, für die eigene innere Welt jenseits des Erfolgs. Die reine SO3 könnte glatt wirken &ndash; immer im Glanz, immer optimiert, immer das richtige Bild. Der Four-wing bricht das auf: Hier ist jemand, der auch das Dunkle kennt &ndash; und bereit ist, es zu zeigen.</p>
-          <p class="vb-intro">Bei Bella Thorne ist der Four-wing in ihrer ungewöhnlichen Offenheit sichtbar. Sie hat öffentlich über ihre Kindheit gesprochen &ndash; über den frühen Verlust ihres Vaters, über sexuellen Missbrauch, über Dyslexie und die Herausforderungen ihrer Schulzeit. Diese Offenheit ist kein Kalkül allein &ndash; sie ist das Zeichen einer Persönlichkeit, die sich nicht nur als Erfolgsmaschine versteht, sondern als Mensch mit Geschichte. Der Four-wing will nicht nur strahlen. Er will auch wahr sein.</p>
-          <p class="vb-intro">Der Four-wing erklärt auch Thornes künstlerische Entscheidungen: Sie hat Rollen übernommen und Projekte inszeniert, die weit über das hinausgehen, was ihrer Marke nützen würde. Die SO3w4 sucht nicht nur den sicheren Erfolg &ndash; sie sucht den Ausdruck. Das macht sie komplexer und widersprüchlicher als viele ihrer Altersgenossen im Showbusiness.</p>
-        </blockquote>
-
-        <h2 class="vb-section">4. Licht und Schatten der sozialen Drei</h2>
-        <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SO3 ist ihre Energie und Gestaltungskraft. Bella Thorne hat sich in einem Metier behauptet, das Menschen schnell verbraucht &ndash; und sie hat dabei die Kontrolle über ihre eigene Geschichte nie vollständig aus der Hand gegeben. Wer mit dreizehn anfängt und mit Ende zwanzig bereits Regisseurin ist, hat mehr geleistet als die meisten, die doppelt so alt sind. Das ist Gepard-Energie in ihrer kreativsten Form.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Drei ist die <strong>Eitelkeit / Täuschung</strong> &ndash; das tiefe Bedürfnis, als erfolgreich und wertvoll wahrgenommen zu werden, auch dann, wenn die innere Realität anders klingt. Bei der SO3 äußert sich das als Versuchung, das Bild über die Wahrheit zu stellen: die perfekte Inszenierung, das strategisch gesetzte Skandälchen, die Emotion, die für das Publikum performt wird. Die Grenze zwischen echtem Ausdruck und kalkulierter Wirkung ist für die SO3w4 eine der schwierigsten Fragen des Lebens.</p>
-          <p class="vb-intro">Der Four-wing verstärkt das Spannungsfeld: Er bringt die Sehnsucht nach Echtheit &ndash; und gleichzeitig das Risiko, auch den Schmerz zu inszenieren. Wer gelernt hat, dass Verletzlichkeit Aufmerksamkeit erzeugt, muss sich fragen: Wann zeige ich mich, und wann zeige ich eine Version von mir?</p>
-        </blockquote>
-
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Bild zur Person</h2>
-        <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Drei führt von der Frage <em>Wie werde ich gesehen?</em> zur Erkenntnis <em>Ich bin &ndash; auch ohne Publikum.</em> Für die SO3w4 bedeutet das einen doppelten Schritt: loszulassen, dass der öffentliche Erfolg den eigenen Wert definiert &ndash; und gleichzeitig die innere Tiefe des Four-wings nicht nur als Quelle interessanter Inhalte zu nutzen, sondern als echten Lebensraum.</p>
-          <p class="vb-intro">Bella Thorne ist jung &ndash; und ihr Heilungsweg liegt noch vor ihr. Aber die Schritte, die sie bereits gegangen ist: die Offenheit über Trauma, der Wechsel hinter die Kamera, der Versuch, die eigene Geschichte selbst zu erzählen statt erzählt zu werden &ndash; das sind Zeichen, dass der Gepard bereits weiß: Es gibt ein Leben jenseits des Sprints. Und dieses Leben könnte das tiefste sein, das er je gelebt hat.</p>
-        </blockquote>
-
-      </div>
-      ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/so3", label:"SO3 – Der Gepard: Subtype-Profil"},
-        {route:"beruehmte-cristiano-ronaldo", label:"Portrait: Cristiano Ronaldo (SO3w2)"},
       ])}
     </div>
   `);
@@ -11255,51 +11196,51 @@ function cristianoRonaldoPortraitPage() {
           <img src="./assets/portraits/beruehmte-cristiano-ronaldo-portrait.jpg" alt="Gepard" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Cristiano Ronaldo</p>
-        <p class="krim-portrait-typ">SO3w2 &middot; Social Type 3 mit Two-wing</p>
-        <p class="krim-portrait-subtitle">Fußballspieler, geb. 1985 &ndash; Animal correspondence: Gepard</p>
+        <p class="krim-portrait-typ">SO3w2 &middot; Social Type 3 with Two-wing</p>
+        <p class="krim-portrait-subtitle">Footballer, born 1985 &ndash; Animal correspondence: Cheetah</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der Gepard</h2>
+        <h2 class="vb-section">1. The Cheetah</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Gepard</strong> ist das Tier der sozialen Drei &ndash; und es ist das schnellste Tier der Erde. Nicht das stärkste, nicht das größte. Das schnellste. Was den Gepard auszeichnet, ist nicht rohe Kraft, sondern Präzision: jede Bewegung optimiert, jede Energie auf das Ziel gerichtet, keine Verschwendung, keine Ablenkung. Der Gepard jagt nicht mit Geduld wie der Löwe &ndash; er jagt mit Tempo, mit Technik, mit dem absoluten Willen, der Erste zu sein.</p>
-          <p class="vb-intro">Cristiano Ronaldo ist der Gepard in Reinform. Fünf Weltfußballer-Titel, fünf Champions-League-Siege, über 900 Karrieretore &ndash; Zahlen, die nicht aus Talent allein entstehen, sondern aus einem Antrieb, der sich jedem bekannt ist, der ihn je beobachtet hat: Er will der Beste sein. Nicht einer der Besten. Der Beste. Der Gepard schläft nicht auf seinen Lorbeeren. Er trainiert, während andere feiern.</p>
+          <p class="vb-intro">The <strong>Cheetah</strong> is the animal of the social Three &ndash; and it is the fastest animal on Earth. Not the strongest, not the largest. The fastest. What distinguishes the cheetah is not raw force, but precision: every movement optimized, every unit of energy directed at the goal, no waste, no distraction. The cheetah does not hunt with patience like the lion &ndash; it hunts with speed, with technique, with the absolute will to be first.</p>
+          <p class="vb-intro">Cristiano Ronaldo is the cheetah in pure form. Five World Player of the Year titles, five Champions League victories, over 900 career goals &ndash; numbers that do not arise from talent alone, but from a drive that anyone who has ever observed him knows: he wants to be the best. Not one of the best. The best. The cheetah does not rest on its laurels. It trains while others celebrate.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die soziale Drei: Erfolg als Botschaft</h2>
+        <h2 class="vb-section">2. The Social Three: Success as Message</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>soziale Drei (SO3)</strong> ist der Verstärkungstyp der Drei &ndash; derjenige Subtype, bei dem Eitelkeit und Leistungsdrang am sichtbarsten werden. Während die selbsterhaltende Drei Leistung nach innen richtet und lieber im Hintergrund arbeitet, braucht die soziale Drei die Bühne. Nicht aus Selbstgefälligkeit, sondern weil Anerkennung &ndash; öffentliche, kollektive, messbare Anerkennung &ndash; der tiefste Treibstoff ist. Die SO3 fragt: <em>Sehen mich alle? Weiß die Welt, was ich geleistet habe?</em></p>
-          <p class="vb-intro">Bei Cristiano Ronaldo ist diese Energie in jedem Jubel sichtbar. Das berühmte &bdquo;Siuuu&ldquo;, der gereckte Arm, der Blick ins Stadion &ndash; das ist kein Zufall. Das ist die SO3, die den Moment der Anerkennung vollständig auskosten will. Kein Tor ohne Feier. Keine Leistung ohne Bestätigung. Nicht weil er eitel wäre im leeren Sinn &ndash; sondern weil die öffentliche Anerkennung für die soziale Drei so wesentlich ist wie Wasser für das Pflanzenwachstum.</p>
-          <p class="vb-intro">Die SO3 misst sich an anderen &ndash; und braucht Maßstäbe, um sich zu orientieren. Ronaldos jahrzehntelanger Wettbewerb mit Lionel Messi ist das vielleicht reinste Beispiel dafür in der Sportgeschichte: Zwei Männer, die sich gegenseitig zu Höchstleistungen antreiben, weil keiner der Zweite sein will. Für die SO3 ist Konkurrenz kein Stress &ndash; sie ist Treibstoff.</p>
+          <p class="vb-intro">The <strong>social Three (SO3)</strong> is the amplification type of the Three &ndash; the subtype in which vanity and drive for achievement are most visible. While the self-preservation Three directs performance inward and prefers to work in the background, the social Three needs the stage. Not out of self-satisfaction, but because recognition &ndash; public, collective, measurable recognition &ndash; is the deepest fuel. The SO3 asks: <em>Do they all see me? Does the world know what I have achieved?</em></p>
+          <p class="vb-intro">In Cristiano Ronaldo this energy is visible in every celebration. The famous &bdquo;Siuuu&ldquo;, the outstretched arm, the gaze into the stadium &ndash; that is no accident. That is the SO3, wanting to savor the moment of recognition fully. No goal without celebration. No achievement without affirmation. Not because he is vain in an empty sense &ndash; but because public recognition is as essential to the social Three as water is to plant growth.</p>
+          <p class="vb-intro">The SO3 measures itself against others &ndash; and needs standards to orient itself. Ronaldo&#39;s decades-long rivalry with Lionel Messi is perhaps the purest example of this in sporting history: two men who drive each other to peak performance because neither wants to be second. For the SO3, competition is not stress &ndash; it is fuel.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Two-wing: Der Star, der auch Bruder ist</h2>
+        <h2 class="vb-section">3. The Two-wing: The Star Who Is Also a Brother</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Two-wing (w2)</strong> bringt der sozialen Drei eine entscheidende menschliche Dimension: den echten Impuls zur Verbindung, zur Fürsorge, zur Loyalität. Die reine SO3 könnte kalt wirken &ndash; ein Erfolgsautomat, der alles dem Ergebnis unterordnet. Der Two-wing wärmt dieses Bild von innen: Hier ist jemand, dem andere wirklich wichtig sind.</p>
-          <p class="vb-intro">Ronaldos Beziehung zu seiner Familie ist dafür das deutlichste Zeichen. Er hat seine Mutter aus der Armut geholt, seinen Sohn Cristiano Jr. offen in sein Leben integriert, spricht in Interviews regelmäßig über seine Herkunft aus Madeira, über die schwierigen Jahre der Kindheit, über den früh verstorbenen Vater. Die SO3 allein würde diese Geschichten vielleicht strategisch einsetzen. Der Two-wing macht sie echt: Das sind keine PR-Momente &ndash; das ist ein Mensch, der weiß, wo er herkommt, und der diejenigen, die ihn geliebt haben, nicht vergisst.</p>
-          <p class="vb-intro">Der Two-wing erklärt auch Ronaldos Verhältnis zu seinen Mannschaften. Er ist kein einsamer Wolf &ndash; er will, dass alle mitgewinnen. Er jubelt mit seinen Mitspielern, trägt Trikots mit ihren Namen, lobt öffentlich. Das Gepard-Tempo bleibt &ndash; aber der Two-wing sorgt dafür, dass der Zieleinlauf gemeinsam gefeiert wird.</p>
+          <p class="vb-intro">The <strong>Two-wing (w2)</strong> brings the social Three a decisive human dimension: the genuine impulse toward connection, toward care, toward loyalty. The pure SO3 could seem cold &ndash; a success machine that subordinates everything to the result. The Two-wing warms this image from within: here is someone for whom others genuinely matter.</p>
+          <p class="vb-intro">Ronaldo&#39;s relationship with his family is the clearest sign of this. He lifted his mother out of poverty, openly integrated his son Cristiano Jr. into his life, speaks regularly in interviews about his origins from Madeira, about the difficult years of childhood, about the father who died young. The SO3 alone might use these stories strategically. The Two-wing makes them real: these are not PR moments &ndash; this is a human being who knows where he comes from and does not forget those who loved him.</p>
+          <p class="vb-intro">The Two-wing also explains Ronaldo&#39;s relationship with his teams. He is not a lone wolf &ndash; he wants everyone to win together. He celebrates with his teammates, wears jerseys with their names, praises publicly. The cheetah&#39;s speed remains &ndash; but the Two-wing ensures the finish line is celebrated together.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der sozialen Drei</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Social Three</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SO3 ist ihr Antrieb zur Exzellenz. Cristiano Ronaldo hat den Fußball mitdefiniert, was es bedeutet, sich professionell auf Sport einzulassen: sein Ernährungsregime, sein Schlafrhythmus, sein Training nach dem Training. Er hat eine Generation von Spielern inspiriert, die verstanden haben: Talent reicht nicht. Wille entscheidet. Das ist die SO3 in ihrer heilsamsten Form &ndash; als Vorbild für das, was möglich ist, wenn man sich vollständig einem Ziel widmet.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Drei ist die <strong>Eitelkeit / Täuschung</strong> &ndash; das tiefe Bedürfnis, als erfolgreich wahrgenommen zu werden, auch wenn die innere Realität anders aussieht. Bei der SO3 äußert sich das als Schwierigkeit, Niederlagen wirklich anzunehmen. Ronaldo hat in Momenten der Kritik oder des sportlichen Misserfolgs gelegentlich Reaktionen gezeigt, die mehr über das Innenleben der Drei verraten als über die Situation selbst: Wut, Rückzug, das Bedürfnis nach Rechtfertigung. Der Gepard, der verliert, leidet.</p>
-          <p class="vb-intro">Der Two-wing bringt die Gefahr, die eigene Großzügigkeit als Teil des eigenen Bildes zu nutzen &ndash; unbewusst, aber wirksam. Die Grenze zwischen echtem Geben und dem Bedürfnis, als gebend gesehen zu werden, ist für die SO3w2 eine lebenslange Frage.</p>
+          <p class="vb-intro">The light of the SO3 is its drive toward excellence. Cristiano Ronaldo has helped define what it means to engage professionally with sport: his nutrition regime, his sleep rhythm, his training after training. He has inspired a generation of players who understood: talent is not enough. Will decides. That is the SO3 in its most healing form &ndash; as a model for what is possible when one devotes oneself completely to a goal.</p>
+          <p class="vb-intro">The fate pattern of the Three is <strong>vanity / deception</strong> &ndash; the deep need to be perceived as successful, even when inner reality looks different. In the SO3 this manifests as difficulty in truly accepting defeat. Ronaldo has occasionally shown, in moments of criticism or sporting failure, reactions that reveal more about the inner world of the Three than about the situation itself: anger, withdrawal, the need for justification. The cheetah that loses, suffers.</p>
+          <p class="vb-intro">The Two-wing brings the risk of using one&#39;s own generosity as part of one&#39;s own image &ndash; unconsciously, but effectively. The boundary between genuine giving and the need to be seen as giving is, for the SO3w2, a lifelong question.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Siegen zum Sein</h2>
+        <h2 class="vb-section">5. The Healing Path: From Winning to Being</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Drei führt von der Frage <em>Was habe ich erreicht?</em> zur Erkenntnis <em>Ich bin &ndash; jenseits aller Siege.</em> Für die SO3 bedeutet das einen besonders schweren Schritt: loszulassen, dass die Anzahl der Trophäen etwas über den eigenen Wert aussagt. Der Gepard, der aufgehört hat zu rennen, muss lernen: Ich bin auch dann, wenn kein Stadion jubelt.</p>
-          <p class="vb-intro">Cristiano Ronaldo nähert sich dem Ende einer beispiellosen Karriere &ndash; und die Frage, wer er ist, wenn der Fußball endet, ist vielleicht die tiefste, die er je beantworten muss. Der Two-wing gibt ihm dabei einen Vorsprung: Die Liebe zu seiner Familie, zu seinen Kindern, zu den Menschen, die ihn nicht wegen seiner Tore lieben, ist ein Fundament, das bleibt. Darauf kann eine Identität gebaut werden, die größer ist als jede Bestenliste.</p>
+          <p class="vb-intro">The healing path of the Three leads from the question <em>What have I achieved?</em> to the insight <em>I am &ndash; beyond all victories.</em> For the SO3 this means a particularly hard step: releasing the idea that the number of trophies says something about one&#39;s own value. The cheetah that has stopped running must learn: I am even when no stadium is cheering.</p>
+          <p class="vb-intro">Cristiano Ronaldo is approaching the end of an unparalleled career &ndash; and the question of who he is when football ends is perhaps the deepest he has ever had to answer. The Two-wing gives him a head start: the love for his family, for his children, for the people who love him not for his goals, is a foundation that remains. On that a identity can be built that is greater than any ranking list.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+      ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how the subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/so3", label:"SO3 – Der Gepard: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/so3", label:"SO3 – The Cheetah: Subtype Profile"},
         {route:"beruehmte-kai-pflaume", label:"Portrait: Kai Pflaume (SX3w2)"},
       ])}
     </div>
@@ -11314,54 +11255,54 @@ function kathrinBauerfeindPortraitPage() {
       <div id="js-back-target" data-route="beruehmte-persoenlichkeiten" style="display:none;"></div>
       <div class="krim-portrait-wrap">
         <div class="krim-portrait-frame">
-          <img src="./assets/portraits/beruehmte-kathrin-bauerfeind-portrait.jpg" alt="Waschbär" class="krim-portrait-img" loading="lazy" />
+          <img src="./assets/portraits/beruehmte-kathrin-bauerfeind-portrait.jpg" alt="Waschb&auml;r" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Kathrin Bauerfeind</p>
-        <p class="krim-portrait-typ">SE3w4 &middot; Self-Preservation Type 3 mit Four-wing</p>
-        <p class="krim-portrait-subtitle">Journalistin, Moderatorin &amp; Autorin, geb. 1981 &ndash; Animal correspondence: Waschbär</p>
+        <p class="krim-portrait-typ">SE3w4 &middot; Self-Preservation Type 3 with Four-wing</p>
+        <p class="krim-portrait-subtitle">Journalist, Presenter &amp; Author, born 1981 &ndash; Animal correspondence: Raccoon</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der Waschbär</h2>
+        <h2 class="vb-section">1. The Raccoon</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Waschbär</strong> ist das Tier der selbsterhaltenden Drei &ndash; und er ist ein Tier, das man unterschätzt. Kein lauter Auftritt, kein Glanz, keine Bühne. Der Waschbär trägt eine natürliche Maske, bewegt sich leise durch die Nacht, nimmt das wahr, was andere übersehen, und wendet seine Geschicklichkeit ganz praktisch an: Was brauche ich? Wie komme ich dorthin? Der Waschbär ist kein Performer &ndash; er ist ein Überlebenskünstler mit feinen Händen.</p>
-          <p class="vb-intro">Kathrin Bauerfeind ist in der deutschen Medienlandschaft eine Figur, die sich dieser Logik entzieht. Sie ist nicht laut. Sie ist nicht glamourös. Und trotzdem ist sie überall: Talkshows, Podcasts, Bücher, Fernsehserien, journalistische Texte. Nicht durch Selbstinszenierung, sondern durch Kompetenz, Verlässlichkeit und eine stilistische Unverwechselbarkeit, die sich über Jahre aufgebaut hat. Der Waschbär wühlt nicht im Rampenlicht &ndash; er schafft sich sein eigenes Territorium.</p>
+          <p class="vb-intro">The <strong>Raccoon</strong> is the animal of the self-preservation Three &ndash; and it is a creature one underestimates. No loud entrance, no glamour, no stage. The raccoon wears a natural mask, moves quietly through the night, notices what others overlook, and applies its dexterity in entirely practical ways: What do I need? How do I get there? The raccoon is not a performer &ndash; it is a survivor with nimble hands.</p>
+          <p class="vb-intro">Kathrin Bauerfeind is a figure in the German media landscape that eludes this logic. She is not loud. She is not glamorous. And yet she is everywhere: talk shows, podcasts, books, television series, journalistic texts. Not through self-promotion, but through competence, reliability, and a stylistic distinctiveness that has built up over years. The raccoon does not rummage in the spotlight &ndash; it creates its own territory.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die selbsterhaltende Drei: Können statt Glänzen</h2>
+        <h2 class="vb-section">2. The Self-Preservation Three: Skill Over Shine</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>selbsterhaltende Drei (SE3)</strong> ist der Kontratyp der Drei &ndash; derjenige Subtype, der am wenigsten wie eine Drei aussieht. Claudio Naranjo beschreibt ihn als denjenigen, der Leistung nach innen richtet: nicht auf Bewunderung, nicht auf öffentliche Anerkennung, sondern auf Sicherheit, Kompetenz und Aufbau. Die SE3 fragt nicht: <em>Wie werde ich gesehen?</em> Sie fragt: <em>Was kann ich? Was brauche ich? Was funktioniert?</em></p>
-          <p class="vb-intro">Bei Kathrin Bauerfeind zeigt sich das in ihrer Bandbreite: Journalistin, Moderatorin, Entertainerin, Schauspielerin, Buchautorin &ndash; das ist kein Geltungsdrang, das ist Kompetenzaufbau. Die SE3 investiert in Können, weil Können Sicherheit bedeutet. Wer viel kann, ist schwer zu ersetzen. Wer in vielen Feldern zuhause ist, braucht kein Rampenlicht &ndash; er hat immer einen Weg.</p>
-          <p class="vb-intro">Charakteristisch für die SE3 ist auch ihre Glaubwürdigkeit: Sie muss nicht beeindrucken, sie muss überzeugen. Bauerfeind hat sich einen Ruf erarbeitet, der auf Qualität beruht, nicht auf Popularität. Ihre Interviews gelten als präzise und substanzreich, ihre Texte als geschliffen, ihre Moderationen als verlässlich. Das ist SE3-Energie in ihrer besten Form: Arbeit, die für sich spricht.</p>
+          <p class="vb-intro">The <strong>self-preservation Three (SE3)</strong> is the counter-type of the Three &ndash; the subtype that looks least like a Three. Claudio Naranjo describes it as the one that directs performance inward: not toward admiration, not toward public recognition, but toward security, competence, and building. The SE3 does not ask: <em>How am I seen?</em> It asks: <em>What can I do? What do I need? What works?</em></p>
+          <p class="vb-intro">In Kathrin Bauerfeind this shows in her range: journalist, presenter, entertainer, actress, book author &ndash; that is not a drive for recognition, it is building competence. The SE3 invests in skill because skill means security. Whoever can do much is hard to replace. Whoever is at home in many fields needs no spotlight &ndash; there is always a way.</p>
+          <p class="vb-intro">Also characteristic of the SE3 is its credibility: it does not need to impress, it needs to convince. Bauerfeind has built a reputation based on quality, not popularity. Her interviews are regarded as precise and substantive, her texts as polished, her presenting as reliable. That is SE3 energy in its best form: work that speaks for itself.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Four-wing: Tiefe hinter der Sachlichkeit</h2>
+        <h2 class="vb-section">3. The Four-wing: Depth Behind the Matter-of-Factness</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Four-wing (w4)</strong> bringt der selbsterhaltenden Drei etwas, das sie von innen heraus verändert: das Bewusstsein für das Besondere, für das Unwiederholbare, für die eigene innere Welt. Die reine SE3 könnte sich in Effizienz und Nützlichkeit erschöpfen &ndash; immer funktional, immer produktiv, immer im Dienst des Aufbaus. Der Four-wing stellt eine andere Frage daneben: <em>Aber was bedeutet das alles? Wer bin ich wirklich, jenseits dessen, was ich leiste?</em></p>
-          <p class="vb-intro">Bei Kathrin Bauerfeind zeigt sich der Four-wing in der stilistischen Eigenwilligkeit, die ihr Werk durchzieht. Sie hat keine Mainstream-Karriere gemacht &ndash; sie hat eine erkennbar persönliche Handschrift entwickelt. Ihr Buch <em>Wir könnten auch einfach gar nichts tun</em> ist kein Sachbuch im klassischen Sinn, sondern ein Essay-Band mit eigenem Ton: nachdenklich, ironisch, zuweilen melancholisch. Das ist der Four-wing, der die Drei bereichert &ndash; er bringt Tiefe in das, was sonst vielleicht nur Kompetenz wäre.</p>
-          <p class="vb-intro">Der Four-wing ist auch verantwortlich für eine gewisse innere Distanz zu sich selbst &ndash; die Fähigkeit, die eigene Arbeit nicht nur als Leistung zu betrachten, sondern als Ausdruck von etwas, das tiefer liegt. Die SE3w4 will nicht nur gut sein &ndash; sie will authentisch sein. Das macht sie komplexer als viele, die ähnlich produktiv sind.</p>
+          <p class="vb-intro">The <strong>Four-wing (w4)</strong> brings the self-preservation Three something that changes it from within: the awareness of what is special, of the irrepeatable, of one&#39;s own inner world beyond achievement. The pure SE3 could exhaust itself in efficiency and usefulness &ndash; always functional, always productive, always in service of building. The Four-wing places another question beside it: <em>But what does all this mean? Who am I really, beyond what I achieve?</em></p>
+          <p class="vb-intro">In Kathrin Bauerfeind the Four-wing shows in the stylistic wilfulness that runs through her work. She has not built a mainstream career &ndash; she has developed a recognizably personal voice. Her book <em>Wir k&ouml;nnten auch einfach gar nichts tun</em> is not a non-fiction book in the classical sense, but an essay collection with its own tone: thoughtful, ironic, at times melancholic. That is the Four-wing enriching the Three &ndash; it brings depth to what might otherwise be only competence.</p>
+          <p class="vb-intro">The Four-wing is also responsible for a certain inner distance from oneself &ndash; the ability to view one&#39;s own work not only as achievement, but as expression of something that lies deeper. The SE3w4 does not only want to be good &ndash; it wants to be authentic. That makes it more complex than many who are similarly productive.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der selbsterhaltenden Drei</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Self-Preservation Three</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SE3 ist ihre Verlässlichkeit und Vielseitigkeit. Kathrin Bauerfeind ist in einem Metier zuhause, das schnell verbrennt, was es produziert &ndash; und sie ist seit Jahren präsent, ohne sich zu verausgaben oder zu wiederholen. Das ist kein Glück, das ist Strategie &ndash; die bewusste oder unbewusste Strategie der SE3, die in Kompetenz investiert statt in Aufmerksamkeit.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Drei ist die <strong>Eitelkeit / Täuschung</strong> &ndash; nicht im plakativen Sinn, sondern als das tiefe Bedürfnis, als wertvoll zu gelten. Bei der SE3 ist das besonders subtil: Die Bescheidenheit kann selbst zur Inszenierung werden. &bdquo;Ich brauche keine große Bühne&ldquo; ist manchmal eine sehr wirkungsvolle Art, auf sich aufmerksam zu machen, ohne den Verdacht der Eitelkeit auf sich zu ziehen.</p>
-          <p class="vb-intro">Der Four-wing bringt seinen eigenen Schatten: das Gefühl, im Wesentlichen anders zu sein, nicht ganz dazuzugehören. Die SE3w4 kann zwischen dem Wunsch nach Anerkennung und dem Bedürfnis nach Einzigartigkeit hin- und herpendeln &ndash; und dabei den eigenen Beitrag chronisch unterschätzen, weil er ihr selbstverständlich erscheint.</p>
+          <p class="vb-intro">The light of the SE3 is its reliability and versatility. Kathrin Bauerfeind is at home in a trade that quickly burns what it produces &ndash; and she has been present for years without burning out or repeating herself. That is not luck, that is strategy &ndash; the conscious or unconscious strategy of the SE3, which invests in competence rather than attention.</p>
+          <p class="vb-intro">The fate pattern of the Three is <strong>vanity / deception</strong> &ndash; not in the obvious sense, but as the deep need to be regarded as valuable. In the SE3 this is particularly subtle: modesty can itself become staging. &bdquo;I don&#39;t need a big stage&ldquo; is sometimes a very effective way of drawing attention to oneself without attracting the suspicion of vanity.</p>
+          <p class="vb-intro">The Four-wing brings its own shadow: the feeling of being essentially different, of not quite belonging. The SE3w4 can oscillate between the desire for recognition and the need for uniqueness &ndash; and in doing so chronically underestimate its own contribution, because it seems self-evident to itself.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Leisten zum Sein</h2>
+        <h2 class="vb-section">5. The Healing Path: From Achieving to Being</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Drei führt von der Frage <em>Was habe ich geleistet?</em> zur Erkenntnis <em>Ich bin &ndash; jenseits aller Leistung.</em> Für die SE3w4 ist dieser Weg besonders vielschichtig: Der Four-wing öffnet die Tür zur inneren Welt, aber er kann auch die Quelle tiefer Selbstkritik sein. Der nächste Schritt ist nicht mehr Reflexion &ndash; sondern Akzeptanz.</p>
-          <p class="vb-intro">Die wachsende SE3w4 entdeckt: Sie muss weder die kompetenteste noch die einzigartigste Person im Raum sein, um dazuzugehören. Der Waschbär, der die Maske abnimmt, findet darunter kein Defizit &ndash; sondern ein Gesicht, das schon immer da war. Kathrin Bauerfeind hat in ihren Texten und Auftritten immer wieder Momente, in denen genau das sichtbar wird: eine Bereitschaft zur Verletzlichkeit, die zeigt, dass die Kompetenz nicht alles ist. Das ist der Heilungsweg, der schon begonnen hat.</p>
+          <p class="vb-intro">The healing path of the Three leads from the question <em>What have I achieved?</em> to the insight <em>I am &ndash; beyond all achievement.</em> For the SE3w4 this path is particularly multi-layered: the Four-wing opens the door to the inner world, but can also be the source of deep self-criticism. The next step is not more reflection &ndash; but acceptance.</p>
+          <p class="vb-intro">The growing SE3w4 discovers: it neither needs to be the most competent nor the most unique person in the room in order to belong. The raccoon that removes its mask finds beneath it not a deficit &ndash; but a face that was always there. Kathrin Bauerfeind has, in her texts and appearances, moments again and again where exactly that becomes visible: a willingness to be vulnerable, which shows that competence is not everything. That is the healing path that has already begun.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+      ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how the subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/se3", label:"SE3 – Der Waschbär: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/se3", label:"SE3 – The Raccoon: Subtype Profile"},
         {route:"beruehmte-sadhguru", label:"Portrait: Sadhguru (SE3w2)"},
       ])}
     </div>
@@ -11376,54 +11317,54 @@ function sadhguruPortraitPage() {
       <div id="js-back-target" data-route="beruehmte-persoenlichkeiten" style="display:none;"></div>
       <div class="krim-portrait-wrap">
         <div class="krim-portrait-frame">
-          <img src="./assets/portraits/beruehmte-sadhguru-portrait.jpg" alt="Waschbär" class="krim-portrait-img" loading="lazy" />
+          <img src="./assets/portraits/beruehmte-sadhguru-portrait.jpg" alt="Waschb&auml;r" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Sadhguru</p>
-        <p class="krim-portrait-typ">SE3w2 &middot; Self-Preservation Type 3 mit Two-wing</p>
-        <p class="krim-portrait-subtitle">Yogi, Guru &amp; Bestsellerautor, geb. 1957 &ndash; Animal correspondence: Waschbär</p>
+        <p class="krim-portrait-typ">SE3w2 &middot; Self-Preservation Type 3 with Two-wing</p>
+        <p class="krim-portrait-subtitle">Yogi, Guru &amp; Bestselling Author, born 1957 &ndash; Animal correspondence: Raccoon</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Der Waschbär</h2>
+        <h2 class="vb-section">1. The Raccoon</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Waschbär</strong> ist das Tier der selbsterhaltenden Drei &ndash; und es ist ein Tier, das auf den ersten Blick unscheinbar wirkt. Kein Löwe, der brüllt. Kein Pfau, der glänzt. Der Waschbär trägt eine natürliche Maske &ndash; nicht aus Täuschungsabsicht, sondern weil Anpassungsfähigkeit und stille Geschicklichkeit sein Wesen sind. Er findet, was er braucht. Er nutzt, was da ist. Er übersieht nichts.</p>
-          <p class="vb-intro">Sadhguru (bürgerlicher Name: Jaggi Vasudev) könnte man für einen einfachen Mann halten: Motorradfahrer, Yogalehrer, barfuß auf der Bühne. Kein Thronsaal, kein Ornat, keine göttliche Entrückung. Und doch hat dieser Mann die Isha Foundation aufgebaut &ndash; eine der größten yogischen Institutionen weltweit, mit über neun Millionen Freiwilligen. Der Waschbär macht aus dem Wenigen viel &ndash; leise, effizient, ohne Aufhebens. Und dann schaut man hin, und er hat die ganze Wüste bepflanzt.</p>
+          <p class="vb-intro">The <strong>Raccoon</strong> is the animal of the self-preservation Three &ndash; and at first glance it appears inconspicuous. No lion that roars. No peacock that shines. The raccoon wears a natural mask &ndash; not from intent to deceive, but because adaptability and quiet dexterity are its nature. It finds what it needs. It uses what is there. It overlooks nothing.</p>
+          <p class="vb-intro">Sadhguru (legal name: Jaggi Vasudev) might be taken for a simple man: motorcyclist, yoga teacher, barefoot on stage. No throne room, no vestments, no divine rapture. And yet this man built the Isha Foundation &ndash; one of the largest yogic institutions worldwide, with over nine million volunteers. The raccoon makes much from little &ndash; quietly, efficiently, without fuss. And then you look up, and he has planted the entire desert.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die selbsterhaltende Drei: Stille Leistung statt Rampenlicht</h2>
+        <h2 class="vb-section">2. The Self-Preservation Three: Quiet Achievement Instead of Spotlight</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>selbsterhaltende Drei (SE3)</strong> ist der sogenannte Kontratyp der Drei: Claudio Naranjo beschreibt ihn als denjenigen, der am wenigsten wie eine Drei aussieht. Während die soziale Drei auf Bühnen strahlt und die sexuelle Drei durch Charisma bezaubert, richtet die SE3 ihre Energie auf etwas Bodenständigeres: auf Kompetenz, Sicherheit, Aufbau. Kein Glanz um seiner selbst willen &ndash; nur Effizienz im Dienst eines Ziels.</p>
-          <p class="vb-intro">Bei Sadhguru zeigt sich das in der enormen Produktivität ohne Eitelkeit &ndash; oder zumindest ohne sichtbare Eitelkeit. Er schreibt Bücher (<em>Inner Engineering</em> stand auf der New-York-Times-Bestsellerliste), hält Vorträge auf dem Weltwirtschaftsforum in Davos, leitet ökologische Großprojekte wie &bdquo;Save Soil&ldquo; und &bdquo;Project GreenHands&ldquo;, berät Regierungen, reist täglich durch die Welt &ndash; und tritt dabei auf wie jemand, der gerade vom Feld kommt. Die SE3 investiert in Wirksamkeit, nicht in Image. Das Image entsteht als Nebenprodukt.</p>
-          <p class="vb-intro">Der selbsterhaltende Instinkt gibt der Drei eine Richtung: nicht nach oben, nicht ins Licht, sondern in die Tiefe des Aufbaus. Strukturen, Institutionen, Systeme &ndash; das sind die Gefäße, in die die SE3 ihre Energie gießt. Sadhgurus Werk ist weniger ein spiritueller Auftritt als ein Lebensunternehmen. Das ist Waschbär-Energie in ihrer produktivsten Form.</p>
+          <p class="vb-intro">The <strong>self-preservation Three (SE3)</strong> is the so-called counter-type of the Three: Claudio Naranjo describes it as the one that looks least like a Three. While the social Three shines on stages and the sexual Three enchants through charisma, the SE3 directs its energy toward something more grounded: competence, security, building. No shine for its own sake &ndash; only efficiency in service of a goal.</p>
+          <p class="vb-intro">In Sadhguru this shows in enormous productivity without vanity &ndash; or at least without visible vanity. He writes books (<em>Inner Engineering</em> appeared on the New York Times bestseller list), gives talks at the World Economic Forum in Davos, leads large ecological projects such as &bdquo;Save Soil&ldquo; and &bdquo;Project GreenHands&ldquo;, advises governments, travels the world daily &ndash; and appears throughout like someone who just came in from the field. The SE3 invests in effectiveness, not in image. The image arises as a by-product.</p>
+          <p class="vb-intro">The self-preservation instinct gives the Three a direction: not upward, not into the light, but into the depth of building. Structures, institutions, systems &ndash; these are the vessels into which the SE3 pours its energy. Sadhguru&#39;s work is less a spiritual performance than a life enterprise. That is raccoon energy in its most productive form.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Two-wing: Geben als Antrieb</h2>
+        <h2 class="vb-section">3. The Two-wing: Giving as Drive</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Two-wing (w2)</strong> verleiht der selbsterhaltenden Drei eine wichtige Dimension: den echten Impuls zur Verbindung, zur Unterstützung, zum Geben. Die reine SE3 könnte sich in Aufbau und Effizienz erschöpfen &ndash; immer funktional, immer produktiv, aber ohne das Feuer der persönlichen Zugewandtheit. Der Two-wing entzündet dieses Feuer. Er sagt: <em>Es geht nicht nur darum, etwas zu leisten. Es geht darum, dass Menschen davon berührt werden.</em></p>
-          <p class="vb-intro">Bei Sadhguru ist der Two-wing in seiner Unterrichtsweise unübersehbar. Er ist kein kühler Systemdenker &ndash; er ist ein Lehrer, der Menschen anschaut, ihre Fragen ernst nimmt, mit ihnen lacht. Seine Vorträge sind gespickt mit Humor, mit Geschichten, mit dem direkten Contact zum Publikum. Die SE3w2 will nicht nur bauen &ndash; sie will, dass es die Menschen weiterbringt. Das Geben ist kein Mittel, es ist Teil des Antriebs.</p>
-          <p class="vb-intro">Der Two-wing erklärt auch Sadhgurus Fähigkeit zur Massenmobilisierung: Neun Millionen Freiwillige folgen nicht einer Effizienzmaschine &ndash; sie folgen jemandem, der ihnen das Gefühl gibt, gesehen und gebraucht zu werden. Das ist die Zwei, die die Drei trägt.</p>
+          <p class="vb-intro">The <strong>Two-wing (w2)</strong> lends the self-preservation Three an important dimension: the genuine impulse toward connection, toward support, toward giving. The pure SE3 could exhaust itself in building and efficiency &ndash; always functional, always productive, but without the fire of personal warmth. The Two-wing kindles this fire. It says: <em>It is not only about achieving something. It is about people being touched by it.</em></p>
+          <p class="vb-intro">In Sadhguru the Two-wing is unmistakable in his teaching style. He is not a cool systems thinker &ndash; he is a teacher who looks at people, takes their questions seriously, laughs with them. His talks are laced with humor, with stories, with direct contact with the audience. The SE3w2 does not only want to build &ndash; it wants people to be carried forward. Giving is not a means; it is part of the drive.</p>
+          <p class="vb-intro">The Two-wing also explains Sadhguru&#39;s ability to mobilize masses: nine million volunteers do not follow an efficiency machine &ndash; they follow someone who makes them feel seen and needed. That is the Two that carries the Three.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der selbsterhaltenden Drei</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Self-Preservation Three</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SE3 ist ihre Fähigkeit, spirituelle Vision in greifbare Wirklichkeit zu verwandeln. Viele Mystiker hinterlassen Worte. Sadhguru hinterlässt Institutionen, Bäume, Gesetze, Bücher, Podcasts, ein Yoga-Zentrum in Tennessee und ein Lehrprogramm, das in 300 Städten läuft. Das ist die SE3 als Kraft der Manifestation: Ideen bekommen Körper.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Drei ist die <strong>Eitelkeit / Täuschung</strong> &ndash; nicht notwendigerweise bewusste Lüge, sondern das tiefe Bedürfnis, als kompetent, wertvoll und wirkungsvoll zu erscheinen. Bei der SE3 äußert sich das subtil: Die Maske der Bescheidenheit kann selbst zu einer Form der Inszenierung werden. &bdquo;Ich brauche kein Rampenlicht&ldquo; kann &ndash; wenn man genau hinschaut &ndash; eine sehr wirkungsvolle Bühne sein. Kritiker Sadhgurus haben genau dieses Spannungsfeld benannt: zwischen aufrichtigem Dienst und meisterhaft inszenierter Einfachheit.</p>
-          <p class="vb-intro">Der Two-wing bringt sein eigenes Schattenmuster: das Bedürfnis, gebraucht zu werden, kann sich mit der SE3-Effizienz verbinden zu einer Dynamik, in der &bdquo;helfen&ldquo; und &bdquo;kontrollieren&ldquo; kaum zu unterscheiden sind. Wer das System ist, durch das alle fließen, hat Macht &ndash; auch wenn er Dienst sagt.</p>
+          <p class="vb-intro">The light of the SE3 is its ability to transform spiritual vision into tangible reality. Many mystics leave behind words. Sadhguru leaves behind institutions, trees, laws, books, podcasts, a yoga center in Tennessee and a teaching programme running in 300 cities. That is the SE3 as a force of manifestation: ideas are given body.</p>
+          <p class="vb-intro">The fate pattern of the Three is <strong>vanity / deception</strong> &ndash; not necessarily conscious lying, but the deep need to appear competent, valuable, and effective. In the SE3 this expresses itself subtly: the mask of modesty can itself become a form of staging. &bdquo;I don&#39;t need a spotlight&ldquo; can &ndash; on closer inspection &ndash; be a very effective stage. Critics of Sadhguru have named exactly this tension: between sincere service and masterfully staged simplicity.</p>
+          <p class="vb-intro">The Two-wing brings its own shadow pattern: the need to be needed can combine with SE3 efficiency into a dynamic in which &bdquo;helping&ldquo; and &bdquo;controlling&ldquo; are barely distinguishable. Whoever is the system through which everything flows has power &ndash; even when they say service.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Wirken zum Sein</h2>
+        <h2 class="vb-section">5. The Healing Path: From Doing to Being</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Drei führt von der Frage <em>Was habe ich geleistet?</em> zur Erkenntnis <em>Ich bin &ndash; jenseits aller Leistung.</em> Für die SE3 bedeutet das einen besonders paradoxen Schritt: die eigene Kompetenz loszulassen als Grundlage des Selbstwerts. Nicht mehr zu wissen, was zu tun ist &ndash; und trotzdem zu vertrauen, dass man gut ist.</p>
-          <p class="vb-intro">Sadhguru lehrt genau das &ndash; und das ist vielleicht das Interessanteste an ihm: Er unterrichtet das, was seine eigene tiefste Aufgabe ist. <em>Inner Engineering</em> ist kein Buch über äußere Effizienz. Es ist ein Buch darüber, wie man aufhört, das Innenleben als Projekt zu behandeln. Der Waschbär, der gelernt hat, die Maske auch vor sich selbst abzunehmen, findet darunter nicht Leere &ndash; sondern Stille. Und aus dieser Stille heraus entsteht ein Wirken, das nicht mehr beweisen muss.</p>
+          <p class="vb-intro">The healing path of the Three leads from the question <em>What have I achieved?</em> to the insight <em>I am &ndash; beyond all achievement.</em> For the SE3 this means a particularly paradoxical step: releasing competence as the basis of self-worth. No longer knowing what to do &ndash; and still trusting that one is good.</p>
+          <p class="vb-intro">Sadhguru teaches exactly that &ndash; and that is perhaps the most interesting thing about him: he teaches what his own deepest task is. <em>Inner Engineering</em> is not a book about outer efficiency. It is a book about how to stop treating one&#39;s inner life as a project. The raccoon that has learned to remove the mask even before itself finds beneath it not emptiness &ndash; but stillness. And from that stillness a doing arises that no longer needs to prove itself.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+      ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how the subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/se3", label:"SE3 – Der Waschbär: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/se3", label:"SE3 – The Raccoon: Subtype Profile"},
         {route:"beruehmte-friedrich-merz", label:"Portrait: Friedrich Merz (SO1w9)"},
       ])}
     </div>
@@ -11441,51 +11382,51 @@ function bracoPortraitPage() {
           <img src="./assets/portraits/beruehmte-braco-portrait.jpg" alt="Kamel" class="krim-portrait-img" loading="lazy" />
         </div>
         <p class="krim-portrait-name">Braco</p>
-        <p class="krim-portrait-typ">SX2w3 &middot; Sexual Type 2 mit Three-wing</p>
-        <p class="krim-portrait-subtitle">Heiler &amp; &bdquo;The Gazer&ldquo;, geb. 1967 &ndash; Animal correspondence: Kamel</p>
+        <p class="krim-portrait-typ">SX2w3 &middot; Sexual Type 2 with Three-wing</p>
+        <p class="krim-portrait-subtitle">Healer &amp; &bdquo;The Gazer&ldquo;, born 1967 &ndash; Animal correspondence: Camel</p>
       </div>
       <div class="page-content">
 
-        <h2 class="vb-section">1. Das Kamel</h2>
+        <h2 class="vb-section">1. The Camel</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das <strong>Kamel</strong> ist das Tier der sexuellen Zwei &ndash; und unter allen Tieren ist es vielleicht das einzige, das durch bloßes Anschauen Wirkung erzeugt. Wer je einem Kamel direkt in die Augen geschaut hat, kennt diesen Moment: Da ist jemand. Kein Ausweichen, kein Verstecken. Nur dieser ruhige, nicht wertende Blick &ndash; der den Blick des anderen hält, ohne ihn zu fordern.</p>
-          <p class="vb-intro">Braco (bürgerlicher Name Josip Grbavac) hat aus diesem Blick eine Praxis gemacht. Er spricht nicht, er berührt nicht, er lehrt nicht. Er schaut. In schweigsamen Gruppenveranstaltungen steht er vor Hunderten, manchmal Tausenden von Menschen &ndash; und schaut. Was dabei geschieht, beschreiben Teilnehmer auf der ganzen Welt mit denselben Worten: Wärme, Stille, das Gefühl, gesehen zu werden. Das ist das Kamel in seiner reinsten Form.</p>
+          <p class="vb-intro">The <strong>Camel</strong> is the animal of the sexual Two &ndash; and among all animals it is perhaps the only one that produces an effect simply through looking. Anyone who has ever looked a camel directly in the eyes knows this moment: there is someone there. No evasion, no hiding. Only this calm, non-judging gaze &ndash; that holds the gaze of the other without demanding it.</p>
+          <p class="vb-intro">Braco (legal name Josip Grbavac) has made a practice of this gaze. He does not speak, does not touch, does not teach. He gazes. In silent group sessions he stands before hundreds, sometimes thousands of people &ndash; and gazes. What happens in the process is described by participants worldwide in the same words: warmth, stillness, the feeling of being seen. That is the camel in its purest form.</p>
         </blockquote>
 
-        <h2 class="vb-section">2. Die sexuelle Zwei: Der Blick als Contact</h2>
+        <h2 class="vb-section">2. The Sexual Two: The Gaze as Contact</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Die <strong>sexuelle Zwei (SX2)</strong> ist in der Enneagramm-Tradition der Subtype, der die Energie der Zwei unmittelbar in den Raum zwischen zwei Menschen lenkt. Naranjo nennt diesen Subtype <em>Aggressivität</em> &ndash; nicht im negativen Sinn, sondern als das aktive, vorwärts drängende Zugehen auf den anderen. Die SX2 wartet nicht darauf, dass Verbindung entsteht. Sie stellt sie her &ndash; durch Präsenz, durch Aufmerksamkeit, durch die Intensität des Contacts.</p>
-          <p class="vb-intro">Bei Braco ist diese Energie auf die äußerste Wesentlichkeit reduziert. Kein Wort, keine Geste, keine Lehre &ndash; nur der Blick. Es ist, als hätte die SX2 alle äußeren Formen der Verbindung weggeräumt und das Innerste freigelegt: das direkte Aufeinandertreffen zweier Bewusstseine. Der Blick ist die reinste Form des Contacts. Und die sexuelle Zwei hat ihn als ihr Medium erkannt.</p>
-          <p class="vb-intro">Braco begann seine Tätigkeit nach dem Tod seines Lehrers Ivica Prokic im Jahr 1995. Er führte das Erbe fort &ndash; aber auf seine eigene, radikal vereinfachte Weise. Keine Worte, keine Deutungen. Nur die Präsenz. Das ist keine Methode. Das ist die SX2, die verstanden hat, dass Verbindung keine Erklärung braucht.</p>
+          <p class="vb-intro">The <strong>sexual Two (SX2)</strong> is, in the Enneagram tradition, the subtype that directs the energy of the Two immediately into the space between two people. Naranjo calls this subtype <em>Aggressivity</em> &ndash; not in the negative sense, but as the active, forward-driving approach toward the other. The SX2 does not wait for connection to arise. It establishes it &ndash; through presence, through attention, through the intensity of contact.</p>
+          <p class="vb-intro">In Braco this energy is reduced to its most essential. No word, no gesture, no teaching &ndash; only the gaze. It is as though the SX2 has cleared away all outer forms of connection and laid bare the innermost: the direct encounter of two consciousnesses. The gaze is the purest form of contact. And the sexual Two has recognized it as its medium.</p>
+          <p class="vb-intro">Braco began his work after the death of his teacher Ivica Prokic in 1995. He continued the legacy &ndash; but in his own, radically simplified way. No words, no interpretations. Only presence. That is not a method. That is the SX2 that has understood that connection needs no explanation.</p>
         </blockquote>
 
-        <h2 class="vb-section">3. Der Three-wing: Ausstrahlung als Gabe</h2>
+        <h2 class="vb-section">3. The Three-wing: Radiance as Gift</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der <strong>Three-wing (w3)</strong> bringt der sexuellen Zwei eine zweite Dimension: das Bewusstsein für Wirksamkeit, für die Kraft der eigenen Ausstrahlung, für das, was der andere in einem sieht. Die reine SX2 könnte sich in der Intensität des Contacts erschöpfen &ndash; immer gebend, immer präsent, immer für den anderen. Der Three-wing bringt eine Qualität der Selbstinszenierung mit &ndash; nicht im egoistischen Sinn, sondern als das Wissen: <em>Wie ich erscheine, ist Teil dessen, was ich gebe.</em></p>
-          <p class="vb-intro">Bei Braco zeigt sich der Three-wing in der Sorgfalt, mit der seine Veranstaltungen gestaltet sind. Die Stille, die Atmosphäre, die Musik, die Art, wie er den Raum betritt &ndash; all das ist nicht zufällig. Es ist die SX2w3 in Aktion: die Verbindung wird so inszeniert, dass sie am stärksten wirken kann. Das ist kein Widerspruch zur Echtheit. Es ist der Three-wing, der dafür sorgt, dass das Echte auch ankommt.</p>
-          <p class="vb-intro">Der Three-wing erklärt auch Bracos weltweite Reichweite. Dutzende Länder, Millionen von Menschen, die seine Videos oder Live-Sessions erlebt haben. Die SX2 allein wäre vielleicht tiefer &ndash; aber weniger weit. Der Three-wing weitet den Kreis.</p>
+          <p class="vb-intro">The <strong>Three-wing (w3)</strong> brings the sexual Two a second dimension: the awareness of effectiveness, of the power of one&#39;s own radiance, of what the other sees in one. The pure SX2 could exhaust itself in the intensity of contact &ndash; always giving, always present, always for the other. The Three-wing brings a quality of self-presentation &ndash; not in the egotistical sense, but as the knowledge: <em>How I appear is part of what I give.</em></p>
+          <p class="vb-intro">In Braco the Three-wing shows in the care with which his events are shaped. The silence, the atmosphere, the music, the way he enters the room &ndash; none of that is accidental. It is the SX2w3 in action: the connection is staged so that it can have the greatest effect. That is no contradiction to authenticity. It is the Three-wing that ensures the authentic also arrives.</p>
+          <p class="vb-intro">The Three-wing also explains Braco&#39;s worldwide reach. Dozens of countries, millions of people who have experienced his videos or live sessions. The SX2 alone might be deeper &ndash; but less far-reaching. The Three-wing widens the circle.</p>
         </blockquote>
 
-        <h2 class="vb-section">4. Licht und Schatten der sexuellen Zwei</h2>
+        <h2 class="vb-section">4. Light and Shadow of the Sexual Two</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Das Licht der SX2 ist die Fähigkeit zur echten Begegnung. Braco erzeugt in seinen Sitzungen etwas, das Menschen tiefgreifend berührt &ndash; unabhängig davon, wie man es erklärt. Ob man das als spirituelles Phänomen, als Wirkung meditativer Stille, als Projektion oder als Resonanz begreift: Das Erleben der Teilnehmer ist real. Und dieses Erleben hat seinen Ursprung in der SX2-Energie: dem bedingungslosen Angebot von Contact.</p>
-          <p class="vb-intro">Das Schicksalsmuster der Zwei ist der <strong>Stolz</strong> &ndash; die tiefe Überzeugung, gebraucht zu werden, unverzichtbar zu sein. Bei der SX2w3 verbindet sich das mit dem Three-wing-Bedürfnis nach Bestätigung und Erfolg: Der Blick, der heilt, ist auch ein Blick, der gesehen werden möchte. Wo die Grenze zwischen Dienst und Bedürfnis verläuft, ist eine Frage, die jeder spirituelle Lehrer mit sich trägt &ndash; Braco eingeschlossen.</p>
-          <p class="vb-intro">Die SX2 kann so sehr auf den anderen ausgerichtet sein, dass sie die eigene Mitte verliert. Das Kamel, das immer trägt, braucht selbst Wasser. Auch derjenige, dessen Blick anderen Halt gibt, braucht einen Ort der inneren Stille &ndash; jenseits der Bühne.</p>
+          <p class="vb-intro">The light of the SX2 is the capacity for genuine encounter. Braco creates in his sessions something that touches people profoundly &ndash; regardless of how one explains it. Whether one understands it as a spiritual phenomenon, as the effect of meditative stillness, as projection, or as resonance: the experience of participants is real. And this experience has its origin in SX2 energy: the unconditional offer of contact.</p>
+          <p class="vb-intro">The fate pattern of the Two is <strong>pride</strong> &ndash; the deep conviction of being needed, of being indispensable. In the SX2w3 this combines with the Three-wing need for confirmation and success: the gaze that heals is also a gaze that wishes to be seen. Where the boundary lies between service and need is a question every spiritual teacher carries &ndash; Braco included.</p>
+          <p class="vb-intro">The SX2 can become so oriented toward the other that it loses its own center. The camel that always carries needs water itself. Even the one whose gaze gives others steadiness needs a place of inner stillness &ndash; beyond the stage.</p>
         </blockquote>
 
-        <h2 class="vb-section">5. Der Heilungsweg: Vom Geben zum Sein</h2>
+        <h2 class="vb-section">5. The Healing Path: From Giving to Being</h2>
         <blockquote class="vb-blockquote">
-          <p class="vb-intro">Der Heilungsweg der Zwei führt von der Frage <em>Werde ich gebraucht?</em> zur Erkenntnis <em>Ich bin.</em> Für die SX2 bedeutet das: zu verstehen, dass der Blick, den sie anderen gibt, auch nach innen gerichtet werden darf. Das Kamel, das durch Wüsten trägt, findet seine Oase nicht in der Bestätigung der anderen &ndash; sondern in der Stille, die es in sich selbst entdeckt.</p>
-          <p class="vb-intro">Braco hat eine Praxis gewählt, die &ndash; paradoxerweise &ndash; genau das verkörpert: das Schweigen, die Stille, das Nichts-Erklären. Vielleicht ist der Gazer deshalb auch selbst auf dem Heilungsweg. Der Blick, den er gibt, ist am echtesten, wenn er nicht aus dem Bedürfnis entsteht, gebraucht zu werden &ndash; sondern aus der stillen Fülle dessen, der nicht mehr sucht.</p>
+          <p class="vb-intro">The healing path of the Two leads from the question <em>Am I needed?</em> to the insight <em>I am.</em> For the SX2 this means: understanding that the gaze one gives to others may also be directed inward. The camel that carries through deserts finds its oasis not in others&#39; confirmation &ndash; but in the stillness it discovers within itself.</p>
+          <p class="vb-intro">Braco has chosen a practice that &ndash; paradoxically &ndash; embodies exactly that: silence, stillness, explaining nothing. Perhaps the Gazer is therefore himself on the healing path. The gaze he gives is most authentic when it does not arise from the need to be needed &ndash; but from the quiet fullness of one who is no longer searching.</p>
         </blockquote>
 
       </div>
-            ${bookTip("wer-du-wirklich-bist-band-1", "Die neun Typen in ihrer Tiefe \u2013 Schutzmuster, Leidenschaften und der Weg zur Essenz.", "Wer du wirklich bist \u2013 Band 1")}
-      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 Subtypees: Leidenschaften, Schutzstrategien und Heilungswege aus der therapeutischen Praxis.", "Die verborgene Dynamik der 27 Subtypees")}
-      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 Charakterprofile im Vergleich \u2013 wie sich die Subtypees desselben Typs voneinander unterscheiden.", "Die 27 Pers\u00f6nlichkeiten des Enneagramms")}
+      ${bookTip("wer-du-wirklich-bist-band-1", "The nine types in depth – protective patterns, passions, and the path to essence.", "Wer du wirklich bist – Band 1")}
+      ${bookTip("die-verborgene-dynamik-der-27-subtypen", "27 subtypes: passions, protective strategies, and healing paths from therapeutic practice.", "Die verborgene Dynamik der 27 Subtypees")}
+      ${bookTip("die-27-persoenlichkeiten-des-enneagramms", "27 character profiles compared – how the subtypes of the same type differ from one another.", "Die 27 Persönlichkeiten des Enneagramms")}
       ${relatedLinks([
-        {route:"beruehmte-persoenlichkeiten", label:"Alle berühmten Persönlichkeiten"},
-        {route:"subtype/sx2", label:"SX2 – Das Kamel: Subtype-Profil"},
+        {route:"beruehmte-persoenlichkeiten", label:"All Famous Personalities"},
+        {route:"subtype/sx2", label:"SX2 – The Camel: Subtype Profile"},
         {route:"beruehmte-matthias-schweighoefer", label:"Portrait: Matthias Schweighöfer (SX2w1)"},
       ])}
     </div>
