@@ -54,17 +54,28 @@ const app = document.querySelector("#app");
 // Version-Check: prüft beim Start ob eine neue Version vorliegt und erzwingt Reload
 const APP_BUILD = "354";
 (function checkForUpdate() {
+  const RELOAD_GUARD_KEY = "enneagramm-kompass:update-reload";
+  const doReload = () => {
+    // Nicht mitten in der Eingabe neu laden – wartet, bis das Feld verlassen wird.
+    const active = document.activeElement;
+    if (active && (active.tagName === "INPUT" || active.tagName === "TEXTAREA")) {
+      active.addEventListener("blur", doReload, { once: true });
+      return;
+    }
+    // Schutz gegen Reload-Schleifen, falls der Cache sich nicht wirklich aktualisiert.
+    if (sessionStorage.getItem(RELOAD_GUARD_KEY) === "1") return;
+    sessionStorage.setItem(RELOAD_GUARD_KEY, "1");
+    if ("caches" in window) {
+      caches.keys().then(keys => Promise.all(keys.map(k => caches.delete(k))))
+        .then(() => { window.location.reload(true); });
+    } else {
+      window.location.reload(true);
+    }
+  };
   fetch("./version.json?t=" + Date.now(), { cache: "no-store" })
     .then(r => r.json())
     .then(data => {
-      if (data && data.build && data.build !== APP_BUILD) {
-        if ("caches" in window) {
-          caches.keys().then(keys => Promise.all(keys.map(k => caches.delete(k))))
-            .then(() => { window.location.reload(true); });
-        } else {
-          window.location.reload(true);
-        }
-      }
+      if (data && data.build && data.build !== APP_BUILD) doReload();
     })
     .catch(() => {}); // kein Netz → still ignorieren
 })();
@@ -7578,8 +7589,15 @@ function beruehmtePersoenlichkeitenPage() {
     if (BERUEHMT_PORTRAITS.length === 0) {
       return '<p style="color:var(--muted);font-style:italic;padding:2rem 0;">Die ersten Portr\xe4ts werden in K\xfcrze hinzugef\xfcgt.</p>';
     }
+    const codeOrder = {};
+    allCodes.forEach(function(c, i) { codeOrder[c] = i; });
+    const sorted = BERUEHMT_PORTRAITS.slice().sort(function(a, b) {
+      const ca = (a.subtyp||'').substring(0,3).toUpperCase();
+      const cb = (b.subtyp||'').substring(0,3).toUpperCase();
+      return (codeOrder[ca] ?? 999) - (codeOrder[cb] ?? 999);
+    });
     let lastCode = null, out = '';
-    BERUEHMT_PORTRAITS.forEach(function(p) {
+    sorted.forEach(function(p) {
       const code = (p.subtyp||'').substring(0,3).toUpperCase();
       if (code && code !== lastCode) {
         if (lastCode !== null) {
@@ -35205,7 +35223,7 @@ document.addEventListener("click", (e) => {
 
 // Automatischer Versions-Check: holt index.html frisch vom Server und lädt neu wenn Version veraltet
 (function() {
-  const MY_VERSION = 'inhalt-v436';
+  const MY_VERSION = 'inhalt-v525';
   setTimeout(function() {
     fetch('./index.html', { cache: 'no-store' })
       .then(function(r) { return r.text(); })
@@ -35213,6 +35231,8 @@ document.addEventListener("click", (e) => {
         var m = html.match(/bundle\.js\?v=([^"']+)/);
         if (m && m[1] !== MY_VERSION) {
           console.log('[Kompass] Neue Version gefunden:', m[1], '– lade neu');
+          const active = document.activeElement;
+          if (active && (active.tagName === "INPUT" || active.tagName === "TEXTAREA")) return;
           location.reload(true);
         }
       })
